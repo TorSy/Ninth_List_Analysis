@@ -1,0 +1,4909 @@
+﻿COUNTRY_TAG ARG
+TEAM, Captain, Jorge Guerrini, "Charming Stelar", Coach, Miguel Angel Lastra
+
+Argentine Team, Jorge Guerrini "Charming Stelar", Captain, Higborn Elves
+ROOSTER_START_FACTION HE Characters (40%) 1131/25% Core (25%) 1185/26%
+Elder Service (30%) 972/21% Peace Keepers (15%) 180/4%, Special, No limit, 1370/30%
+
+585 Mage, General, Asfad Scholar, Wizard Master, 4 spells, pyromancy , Skull Splitter, Sceptre Power,
+CHARACTERS
+546 Commander, P.E.B., Master of Canreig Tower, 1 Learned Spell Alchemy and 2Spells Druidism, Great
+Bow of Elu, Shielding Scroll,Heavy Armour, Great Weapon, CHARACTERS
+270 5 Highborn Lancers, M, CORE
+575 10 Highborn Lancers, F.C.G., Banner of Discipline, CORE
+180 10 Citizen Archers, CORE, ELDER SERVICE
+200 10 Citizen Archers, M , CORE, ELDER SERVICE
+180 5 Elein Reavers, CORE, ELDER SERVICE
+100 2x 1 Giant Eagle, SPECIAL
+555 19 Sword Masters, F.C.G., Gleaming icon, SPECIAL
+615 19 Sword Masters, F.C.G. Rending Banner, SPECIAL
+412 14 Queen's Guard, M, ELDER SERVICE
+180 1 Sea Guard Reaper, PEACE KEEPERS
+4498 Points
+
+Argentine Team, Josu Garc�a, "epoepo", The Vermin Swarm
+ROOSTER_START_FACTION VS Characters 40% 980->21% Core 25% 1148->25% Special No limit: 1070->23%
+Tunnel Gunners 30% 1300->28% Built and Bred 30% 725->16%
+
+725 Vermin Daemon, Thunderer, general, CHARACTERS, BUILT AND BRED
+255 Chief, BSB, Skullsplitter, Crown of Scorn, CHARACTERS
+140 4x10 Footpads, M, CORE
+180 2x15 Plague Brotherhood, M, CORE
+114 2x26 Slaves, M, CORE
+180 3x8 Grenadiers, TUNNEL GUNNERS+
+210 2x5 Jezzails, TUNNEL GUNNERS
+170 2x1 Plague Catapult, TUNNEL GUNNERS
+210 4x9 Plague Disciples, SPECIAL
+230 10 Plague Disciples, SPECIAL
+Total: 4498
+
+Argentine Team, Ra�l Vela, "Feytor", Beast Herds
+ROOSTER_START_FACTION BH Characters 40% 1481->32% Core 20% 903->20% Special No limit: 1046->23%
+Terrors of the Wild 40% 1070->23% Ambush Predators 60% 790->17%
+
+634 Beast Lord on razortusk chariot : General, Heavy Armour, Shield, Jacks Pickaxe, Dragonscale helm,
+Talisman of Sumpreme Shielding CHARACTERS
+362 Beast Chieftain: BSB, Greater Totem Bearer, heavy armour, shield, ring of fire, obsidian rock
+CHARACTERS
+485 Soothsayer: Wizard Master, 4 Spells, Druidism, sceptre of power, seed of the dark forest
+CHARACTERS
+120 10 Mongrel Raiders: Scout and ambush CORE AMBUSH PREDATORS
+160 2x10 Wildhorn Herd: Musician, Throwing Weapons, Ambush CORE AMBUSH PREDATORS
+463 47 Mongrel herd: spear, FCG CORE
+766 29 Longhorn Herd: FCG, Champion Totem Bearer Black Wing Totem, Stalkers Standard SPECIAL
+140 2x5 Gargoyles SPECIAL
+360 2x1 Cyclops: TERRORS OF THE WILD
+350 1 Beast Giant: ambush TERRORS OF THE WILD AMBUSH PREDATORS
+Total 4500
+
+Argentine Team, Juan Jos� Guerrini, Infernal Dwarves
+ROOSTER_START_FACTION ID Characters 40%: 845->18% Core 25%: 1134->25% Special no limit: 760 ->16%
+Hail of the Gods 30%: 1134->25% Barrage 20%: 880->19% Bound and Binders 35%: 880->19%
+
+635 Prophet, General, Wizard master, 4 spells, Alchemy/pyromancy, Essence of a free mind, Lucky Shield,
+Ring of Fire, Skull Splitter, CHARACTERS
+210 Vizier, BSB, Hardened Shield, CHARACTERS
+378 3x12 Citadel Guard, Flintlock Axe, C, M, CORE/HAIL OF THE GODS
+500 20 Inmortals, infernal weapon, shield, M, SPECIAL
+130 2X5 Hobgoblin Wolf Riders, SPECIAL
+440 2x4 Kadim Incarnates, BOUND AND BINDERS
+190 2x1 Infernal Artillery, Rocket Battery, BARRAGE
+90 2x1 Hobgoblin Bolt Thrower, BARRAGE
+160 2x1 Infernal Artillery, Volcano Cannon, BARRAGE
+TOTAL 4499
+
+Argentine Team, Pablo Ahumada, "Argen", Orcs & Goblins
+ROOSTER_START_FACTION O&G Characters 40%->1355 30% Core 25%->1256 27% Special 1288 28%
+Death from Above 15%->600 13% Big 'n Nasty 30%-> 0 0%
+330 Cave Goblin King: General, Crown of the Cavern King, crown of Autocracy, Talisman of Greater
+Shielding, CHARACTERS
+200 Cave Goblin Chief: BSB, Icon of the Relentless Company , Obsidian Rock, Lucky Shield,
+CHARACTERS
+575 Cave Goblin Witchdoctor: Wizard Master, 4 spells, Dispel scroll, Talisman of Shielding, Skull Splitter,
+Pyromancy, CHARACTERS
+120 Common Goblin Chief on Wolf: Shield, CHARACTERS
+130 Cave Goblin Chief: Maza's Zappin Bow, Shield, CHARACTERS
+396 32 Cave Goblins: Bow, Musician, Champion, 2x Madgit, CORE
+360 2x30 Cave Goblins: Bow, Musician, 2x Madgit, CORE
+140 5 Common Orc Boars Riders, CORE
+200 2x1 Git-launcher: Orcoverseer, DEATH FROM ABOVE
+200 Splatterer: Orcoverseer, DEATH FROM ABOVE
+140 2x1 Gnasher Wrecking Team, SPECIAL
+90 2x1 Scrap Wagon, SPECIAL
+174 2x6 Gnasher Dashers, SPECIAL
+120 2x5 Wolf Goblin Riders, SPECIAL
+120 2x1 Goblin Wolf Chariot, SPECIAL
+Total 4499
+
+Argentine Team, I�igo "Uri" Uriarte � Ogre Khans
+ROOSTER_START_FACTION OK Characters 40%: 1483-33% Core 25%: 1137-25% Special No limit: 320-7%
+Powder Keg 35%: 600-13% Chained Beasts 35%: 960-21%
+
+560 Great Khan: General, Khagadai�s Maul, Yeti Furs, Talisman of Greater Shielding, CHARACTERS
+558 Shaman: Path of Pyromancy, 4 spells, Wizard Master, Iron Fist, Ring of fire, Obsidian Rock,
+CHARACTERS
+365 Khan: BSB, Brace of Ogre Pistols, Stalker�s Standard, Gem of Fortune, CHARACTERS
+977 13 Tribesmen: Iron Fists, M,S,C, Banner of Discipline, CORE
+80 2x 15 Scraplings, CORE
+160 2x2 Yetis, SPECIAL
+300 2x1 Thunder Cannon, POWDER KEG
+480 2x1 Rock Aurochs, Hunting Spear, CHAINED BEASTS
+Total: 4500
+
+Argentine Team, Paulo Astorga, Dread Elves
+ROOSTER_START_FACTION DE Characters: 1481 (32/40 %) Core: 1140 (25/25 %) Special: 1878 (No Limit)
+Raiders: 340 (7/30 %)
+
+566 Dread Prince, General, Elven Horse, Giant Sword, Dragonscale Helm, Lucky
+Charm, Divine Icon, Heavy Armour, Shield, CHARACTERS
+520 Oracle , Wizard Master, Divination, 3 Spells, Dispell Scroll, Ring of Fire, CHARACTERS
+395 Captain, BSB, Elven Horse, Obsidian Rock, Hardened Shield, Flaming Standard, Heavy Armour,
+Lance, CHARACTERS
+244 11 Corsairs - Core - Paired Weapons, Repeater Handbows, M, CORE
+556 32 Dread Legionnaires -Core - Spears, C, M, CORE
+170 2 x 5 Dark Riders, CORE, RAIDERS
+130 5 Harpies, SPECAL
+748 28 Executioners, C, M, SPECIAL
+340 Divine Altar, SPECIAL
+660 10 Dark Acolytes of Yema, c, SPECIAL
+Total: 4499
+
+Daniel Bueno "Torceth" Empire of Sonnstahl
+ROOSTER_START_FACTION EoS Characters [40%]: [806] 17%, Core [25%]: [1168] 25%, Special [1346] 29%, Sunnas Fury [30%]: [280] 6%,Imperial Armoury [20%]: [900] 20%.
+
+160 Marshal [Character]: General.
+216 Marshal [Character]: BSB, shield, Ring of fire.
+430 Wizard Master [Character]: 4 Spells, Essence of Free Mind, Pyromancy/Alchemy.
+180 20 Heavy Infantry [Core]: Musician.
+538 43 Heavy Infantry [Core]: M, C, S, Spear, Flaming Standard.
+150 3x10 State Militia [Core]: Pistols, Skirmish.
+686 37 Imperial Guard [Special]: M, S, C, Banner of Discipline.
+330 2x3 Knights of the Sun Griffon [Special]: Lance, Shield, Musician.
+280 Arcane Engine of Arcane Shield [Sunna Fury].
+440 Steam Tank [Imperial Armoury].
+200 Imperial Artillery [Imperial Armoury]: Mortar.
+260 Imperial Artillery [Imperial Armoury]: Cannon.
+TOTAL: 4500
+﻿COUNTRY_TAG AUS
+Akhter "Foodmonster" Khan � - Kingdom of Equitaine
+ROOSTER_START_FACTION KoE The Blessing - Favour of the King
+Duke, General, Humility, Crown of Autocracy -280
+Damsel, Divination, 4 Spells, Master, Book of Arcane Power, Ring of Fire -520
+Duke, Humility, Wizards Hood, Scepter of Power -335
+3x 24 Peasant Bowmen, M -328
+2x 57 Peasant Levy, Spears, M -436
+56 Peasant Levy, Spears, M -428
+2x1 Sacred Reliquary -260
+2x1 Trebuchet -280
+Total: 4499
+
+Jamie "Payne Train" Payne - Highborn Elves
+ROOSTER_START_FACTION HE High Prince, General, Royal Huntsmen, Lion Chariot, Heavy Armour, Great Weapon, Bluffer's Helm,Talisman of Supreme Shielding, Shard of Cenryn -746
+Mage, Asfad Scholar, 4 Spells, Book of Meladys, Ring of Fire, Wizard Master, Pyromancy -640
+Commander, BSB, Queens Companion, Great Bow of Elu -310
+21x Citizen Archers, M -398
+20x Citizen Spears, M -280
+5x Highborn Lancers, M -270
+5x Elein Reaver, Bow -190
+2x1 Giant Eagle -100
+29x Lion Guard, FCG, Stalker�s Standard -863
+2x1 Sea Guard Reaper -180
+Skysloop, Sky Reaper -240
+4497
+
+Jack "Dark Assassin" Blanche - Orcs & Goblins
+ROOSTER_START_FACTION O&G Cave Goblin King, General, Green Tide, Bow, Crown of the Cavern King, Crown of Autocracy -284
+Cave Goblin Chief, BSB, Bow, Shield -124
+Cave Goblin Witch Doctor, Master, Pyromancy, 4 Spells, Scepter of Power, Ring of Fire -470
+Cave Goblin Chief, Cave Gnasher, Shield, Lance, Dragonscale Helm -152
+Cave Goblin Chief, Cave Gnasher, Shield, Lance, Dragonbane Gem -137
+2x 30 Cave Goblins, M, Bows, 2 Mad Gits -360
+2x 45 Common Orcs, M, Bow, Spear -590
+28 Iron Orcs, M, S, Mikinoks Totem -788
+2x Gnasher Wrecking Team -140
+2x Git Launcher -180
+Total: 4495
+
+Gonzalo "Gundizalbo" Gil L�pez - Vampire Covenant
+ROOSTER_START_FACTION VC Bloodline - Brotherhood oft he Dragon
+Vampire Count, Skeletal Steed, General, The Dead Arise, 1 Spell, Apprentice, Occultism, Perfect Warrior,
+Tulliu's Teeth, Red Gauntlets of Gilles the Raux -710
+Vampire Courtier, Skeletal Steed, BSB, Lucky Shield, Blade of Red Thirst -395
+Necromancer, 4 Spells, Master, Evocation, Book of Arcane Power -480
+Necromancer, 1 Spell, Apprentice, Evocation -160
+44 Skeletons, FCG, War Standard -490
+28 Zombies, M -178
+2x 8 Dire Wolves -116
+12 Barrow Knights, M, S, Banner of the Barrow Kings -670
+2 Great Bats -80
+2x 5 Vampire Knights, PA&DC -550
+Total: 4495
+
+Frederick "Frederick" Humcke - Beast Herds
+ROOSTER_START_FACTION BH Beast Chieftain, Totem Bearer, BSB, Banner of Discipline, Seed of the Dark Forest -345
+Beast Chieftain, HA, Raiding Chariot, The Impaler, Hardened Shield, Lucky Charm -326
+Beast Chieftain, Beast Axe, HA, Raiding Chariot, Dark Rain, Dragonfire Gem, Shield -347
+Soothsayer, General, Evocation, 4 Spells, Master, PW, Crown of Autocracy, Scepter of Power -499
+36 Wildhorn Herd, FCG, PW, Banner of the Wild Herd -542
+10 Wildhorn Herd, M -120
+2x 10 Wildhorn Herd, Ambush -120
+3 x Briar Beast -120
+3 x Cyclops -360
+2 x Jabberwock -320
+Total: 4499
+
+Ivan "Orion" Diaz-Pavon, Ogre Khans
+ROOSTER_START_FACTION OK Mammoth Hunter, Tusker, General, Hunting Spear, Iron Fist, Bluffer's Helm, Dragonfire Gem, Wildheart - 425
+Mammoth Hunter, Tusker, BSB, Hunting Spear, Iron Fist, Aether Icon, Dragonscale Helm, Talisman of Shielding, Headhunter - 485
+Mammoth Hunter, Tusker, Hunting Spear, Iron Fist, Glittering Cuirass, Lucky Charm, Crown of Scorn - 400
+5x 3 Tribesmen, C -180
+2x 2 Yetis, C -180
+3x 2 Tusker Cavalry, Iron Fists -320
+Rock Aurochs, Lance -490
+Rock Aurochs, Ogre Crossbow -480
+Total: 4500
+
+Michael "Asrael" Graham - Sylvan Elves
+ROOSTER_START_FACTION SE Dryad Matriarch, General, Druidism, 2 Spells, Apprentice, Scarred Bark, Tree Singing -340
+Dryad Matriarch, Druidism, Tree Singing, 2 Spells, Apprentice,Entwined Roots -270
+Chieftain, BSB, LA, Shield, Icon of the Relentless Company, Razor Blade, Ring of Fire -296
+Druid, Shamanism, 4 Spells, Master, Sacred Seeds, Sceptre of Power -480
+28 Dryads, C -670
+17 Sylvan Archers, M, S -468
+6 Thicket Beasts, C, Entwined Roots -595
+6 Thicket Beasts, C -505
+2x 7 Pathfinders -310
+8 Sylvan Sentinels -254
+Total: 4498
+
+David "Toughnutt" Trickett � Daemon Legions
+ROOSTER_START_FACTION DL Harbinger of Wrath, General, Crusher, Blood Sword -310
+Harbinger of Wrath, BSB, Crusher, Blood Sword -360
+Harbinger of Wrath, Obsidian Horn, Crusher, Blood Sword -340
+2x 1 Harbinger of Wrath, Crusher, Blood Sword -310
+3x 10 Slaughterers, Onslaught -230
+1x 10 Slaughterers -210
+3x 3 Crusher Cavalry -340
+2x 1 Blood Chariot -330
+2x 5 Furies, Wrath -140
+Total: 4490
+﻿COUNTRY_TAG AUT
+Philip "The Joker" Gollman - NPC
+
+Team Austria
+Matthias "Dr.GonZo" Lederhilger - Daemon Legions - Poly
+ROOSTER_START_FACTION DL 
+Harbringer of Pestilence, General, Bloated Putrifaction, Apprentice, 2 Spells, Halberd, Nauseating Aura,
+Divination - 570
+Harbringer of Change, Farseeing, Apprentice, 2 Spells, Blazing Chariot, Veil of Shadows, Divination - 540
+
+10 Horrors, MC - 340
+25 Tallymen, Contamination, MSC, Banner of Speed - 790
+
+2x 3 Crusher Cavalry - 340
+2x 5 Furies, Mark of Pestilence - 140
+2x 5 Igniter - 250
+Blazing Chariot - 270
+Blood Chariot - 330
+Siren Chariot - 200
+
+4500
+
+Team Austria
+Fabian "Kathal" Gollman - Warriors of the Dark Gods
+ROOSTER_START_FACTION WoTDG 
+Lord of Chaos, General, Steed of Lust, Mark of Lust, Waste-Hardenend Skin, Great Weapon, Bluffers
+Helm, Sprout of Rebirth, Divine Icon - 730
+Harbringer of Chaos, BSB, Steed of Lust, Mark of Lust, Lance, Dusk Stone, Hardenend Shield, War Banner
+- 510
+Sorcerer, Apprentice, 4 Spells, Ring of Fire, Wand of Stability, Shamanism - 475
+
+21 Barbarians, Mark of Lust, Paired Weapons, M - 212
+2x 8 Mounted Barbarians, Mark of Lust, Shield, Light Lance - 280
+8 Warhounds - 130
+
+2x 10 Chosen, Mark of Lust, Halberd - 360
+10 Chosen, Mark of Lust, Paired Weapons, S, Nine-Tailed Standard - 420
+2x 1 Fallen Beast - 130
+2x 1 Battle Shrine, Mark of True Chaos - 240
+4497
+
+eam Austria
+Philipp "Kokosnuss" Merlin Jost - Vermin Swarm
+ROOSTER_START_FACTION VS 
+Magister, General, Master, 4 Spells, Skullplitter, Scepter of Power, Crown of Autocracy - 535
+Chief, BSB, Halberd, Ring of Fire - 218
+Tyrant, Doom Blade - 360
+Assasin, Lethal Strike, Strengh Pot - 380
+
+2x 15 Plague Brotherhood, M - 180
+15 Vermin Guard, MS, Lightning Rod - 310
+46 Slaves, M - 194
+30 Rat at Arms, MSC - 320
+
+Meat Grinder - 140
+2x 11 Plague Disciples - 250
+8 Grenadiers - 180
+2x1 Dreadmill - 250
+2x1 Lightning Cannon - 250
+
+4497
+
+Team Austria
+
+Gaban "Bugsbunny" B�llingen - Kingdom of Equitaine
+ROOSTER_START_FACTION KoE 
+Favour of the king
+
+Duke on Pegasus, Army General, Audacity, Shield, Crusader's Helm, Mace of Tristan, Potion of Swiftness - 620
+Damsel, Barded Warhorse, Apprentice, 3 Spells, Storm Clarion, Divination - 380
+Damsel, Barded Warhorse, Apprentice, 1 Spell, Ring of Fire, Shielding Scroll, Druidism - 280
+Paladin, Barded Warhorse, Daring, Grail Oath, Lance, BSB, Stalkers Standard, Hardened Shield - 387
+
+5 Knight Aspirant - 240
+2x 6 Knight Aspirant - 284
+6 Knight of the Realm, Musician, Veteran Standard, Gleaming Icon - 324
+
+8 Knight of the Grail, Musician, Standard Bearer, Banner of Speed - 730
+8 Knight of the Grail, Musician, Standard Bearer, Rending Banner - 750
+2x 5 Yeoman Outrider - 110
+4499
+
+Team Austria
+Werner "Cleaner" Himsl - Vampire Covenant
+ROOSTER_START_FACTION VC 
+Midnight Aristocracy, General, Strigoi, Bestial Bulk, The Dead Arise, Apprentice, 1 Spell, Great Weapon, Divine Icon, Eternal Ring, Shamanism - 740
+Necromancer, Master, 3 Spells, Ring of fire, Sceptre of power, Evocation - 400
+3x Fell wraith, Banshee - 220
+2x 10 Ghouls - 130
+2x 10 Dire wolfes - 140
+29 Skeletons MSC, Banner of Speed - 360
+
+8 Ghast, Champion - 670
+5 Vampire Knight, MSC, Rending banner, - 580
+3 Winged Reapers, Paired Weapons - 548
+
+4498
+
+Team Austria
+
+Christoph "JimmyGrill" Reiter - HIghborn Elves
+ROOSTER_START_FACTION HE 
+Mage, General, Wizard Master, Asfad Scholar, 4 Spells, Book of Arcane Power, Skullsplitter, Gem of Fortune, Divination - 700
+Commander, BSB, Master of Canreig Tower, Apprentice, 3 Spells, Great Weapon, Great Bow of Elu, Shielding Scroll, 2x Alchemy, 1x Druidism - 536
+
+25 Citizen Spears, SM, Banner of Speed - 440
+12 Citizen Archers, M - 236
+2x 5 Highborn Lancers, M - 270
+
+Lion Chariot - 230
+2x 1 Great Eagle - 100
+12 Lion Guard, Skirmish, CS, Icon of Relentless Company - 378
+2x Sky Sloop, Sky Repeater - 240
+2x Fire Phoenix - 380
+4500
+
+Team Austria
+
+Bernhard "Berti" K�ttner - Dwarven Holds
+ROOSTER_START_FACTION DH 
+King, General, Shield Bearers, Runic Great Weapon: rune of craftmanship, rune of Destruction, Runic Armor: Rune of Iron, Runic Talisman: 3x Rune of Shielding- 580
+Thane, BSB, Great Weapon, Runic Armor:2x Rune of Iron, Runic Talisman: Rune of the Forge, Rune of Dragon Breath - 300
+Anvil of power, Rune of Shattering, Rune of Storms, Rune of Resolve - 300
+
+2x 10 Clan Marksman, Crossbow, shield - 240
+25 Greybeards, Shield, M,C,S, War Standard - 650
+2x 1 Venegance Seeker - 120
+1 Grudge Buster - 370
+10 Miners, Pistol - 230
+2x 1 Steam Copter, Bomber -200
+2 Steam Copter, Attack Copter, Skirmish - 300
+2x 1 Field Artillery, Rune crafted Organ gun - 325
+4500
+Team Austria
+Patrick "Patheo" Toman - Saurian Ancients
+ROOSTER_START_FACTION SA 
+Cuatl Lord, General, BSB, 4 Spells, Essence of a Free Mind, Ring of Fire, Banner of Speed, Pyromancy/Alchemy - 750
+Warlord, Raptor, Great Weapon, Light Armour, Bluffers Helm, Sprout of Rebirth, Jade Staff - 640
+Veteran, Raptor, Great Weapon, Armour of Destiny, Lucky Charm - 410
+
+2x 12 Saurian Warriors, Jaguar, M - 256
+15 Skink Braves, Bows, M - 200
+16 Skink Braves, Bows, M - 210
+
+27 Teample Guard, MSC, Icon of the Relentless Company - 798
+Taurosaur, Engine of the Ancients - 530
+Stygiosaur - 330
+Spearback - 120
+4500
+
+﻿COUNTRY_TAG BEL
+Team: Belgium
+Geoffrey "Gregor" Dutranoit (Captain) - Daemonic Legion - Mono Pestilence
+ROOSTER_START_FACTION DL  Harbinger of Pestilence, General, Wizard Apprentice, 2 Learned Spells, Blight Fly, Flail, Veil of Shadow, Black Orb, Divination - 540
+ Harbinger of Pestilence, BSB, Wizard Apprentice, 2 Learned Spells, Blight Fly, Flail, Token of Pestilence,	Flaming Standard, Bloated Putrefacion, Divination - 655
+ Harbinger of Pestilence, Wizard Apprentice, 2 Learned Spells, Blight Fly, Nauseating Aura, Halberd,
+Divination - 550
+ 27 tallymen, M, S, C, War Standard - 718
+ 10 tallymen - 220
+ 5 furies, Pestilence - 140
+ 5 furies, Pestilence - 140
+ 5 Blight Flies, M,S,C, Contamination, Rending Banner - 800
+ 5 Pestilence Beasts, Contamination - 720
+ Total � 4483
+
+Team : Belgium
+Fran�ois "Jaina" Girard (coach) - Dread Elves
+ROOSTER_START_FACTION DE Dread prince, General, Raptor Chariot, Great Weapon, Heavy Armour, Shield, Bluffer's Helm, Midnight Cloak - 586
+Oracle, Wizard Master, 4 spells, Sceptre of Power, Alchemy - 440
+Captain, BSB, Repeater Crossbow, Ring of Fire, Banner of Discipline - 303
+15x Dread legionnaires - 180
+15x Repeater Auxiliaries, M - 320
+10x Repeater Auxiliaries, M - 220
+10x Repeater Auxiliaries, M - 220
+5x Dark Raiders, Repeater Crossbows - 200
+5x Raven Cloaks - 170
+1x Dread Reaper - 180
+1x Dread Reaper - 180
+1x Dread Reaper - 180
+1x Hydra - 440
+1x Hydra - 440
+1x Hydra - 440
+TOTAL � 4499
+
+Team: Belgium
+Kaj "Chosen of Sigmar" Geenen - Vampire Covenant Army
+ROOSTER_START_FACTION VC Vampire Count, General, 1 Spell, Court of the Damned, Heavy Armour, Shield, Sword of Might, Dragonscale Helm, Eternal Ring, Divine Icon, Wizard Apprentice, Lamia, Mesmerizing Gaze, The Dead Arise, Evocation - 1090
+Necromancer Apprentice, 1 Spell, Cadaver Wagon, Evocation - 330
+Necromancer Apprentice, 1 Spell, Ring of Fire, Evocation - 210
+Necromancer Apprentice, 1 Spell, Evocation - 260
+46 Skeletons, Spear, Light Armour, Shield, M, S, C - 480
+23 Zombies, M - 148
+8 Dire Wolves, C - 136
+8 Dire Wolves, C - 136
+35 Barrow Guard, Halberd, Heavy Armour, M, S, C, Banner of the Barrow Kings - 890
+1 Altar of Undeath - 460
+6 Vampire Spawn - 460
+ Total � 4500
+
+Team: Belgium
+Thomas "Artur" Jacobs - Highborn Elves
+ROOSTER_START_FACTION HE High Prince, General, Royal Huntsman, Lion Chariot, Heavy Armour, Great Weapon, Talisman of Supreme Shielding, Bluffer Helm, 726
+Mage, Wizard Master, Asfad Scholar, 4 spells, Book of Meladys, Skull Splitter, Path of Divination, 655
+Commander, Battle Standard Bearer, Queen's Companion, Great Bow of Elu, Paired Weapon 320
+5 Highborn Lancers 250
+20 Citizen Spears, Musician, 280
+29 Citizen Archers, Musician, Banner, Banner of Speed, 612
+6 Knights of Ryma, Musician, 414
+Skyloop, sky reaper, 240
+Skyloop, sky reaper, 240
+Fire Phoenix 380
+Fire Phoenix 380
+Total � 4497
+
+Team : Belgium
+Loick "Logick" Brunfaut Kingdom of Equitanie
+ROOSTER_START_FACTION KoE Favour of the King
+Duke , General, audacity, barded warhorse, shield, crusader helm, divine icon, great weapon, questing oath - 575
+Paladin, barded warhorse, shield, lance, battle standard bearer, grail oath - 271
+Damsel, 4 learned spells, barded warhorse, wizard master, ring of fire, book of arcane power, Shamanism - 570
+10 Knigths of the realm, standard, musician - 530
+5 Knigths Aspirant - 240
+5 Knigths Aspirant - 240
+5 Knigths Aspirant, 240
+8 Grail knigths, FC, stalker standard - 760
+5 Yeomen - 110
+10 brigand - 200
+10 brigand - 200
+Siege war machine, trebuchet - 280
+Siege war machine, trebuchet - 280
+Total � 4496
+
+Team : Belgium
+Zacharie "Zachounet" Marchais - Ogres Khans
+ROOSTER_START_FACTION OK Shaman : General, Hellfist, Wizard master, Thaumaturgy, 4 spells, ring of fire, Spectre of Power - 770
+5 xTribesmen : M, S ,banner of discipline - 343
+3 Tribesmen - 160
+3 Bruisers - 165
+3 Bruisers - 165
+3 Bruisers - 165
+3 Bruisers - 165
+1x2 Tusker Cavaleries, Iron fist and Light Armour, M - 340
+1x2 Tusker Cavaleries, Iron fist and Light Armour, M - 340
+1x2 Tusker Cavaleries, Iron fist and Light Armour, M - 340
+1 Thunder Canon - 300
+1 Thunder Canon - 300
+1 Scratapult - 230
+1 Scratapult - 230
+2 yetis - 160
+2 yetis -160
+5 scrapling trappers - 80
+Sabretooth Tiger - 80
+ Total � 4493
+
+Team: Belgium
+Paschalis "SmithF" Sidiras - Sylvan Elves
+ROOSTER_START_FACTION SE Dryad Matriarch, general, 2 spells Druidism - 230
+Druid Master, 4 spells Shamanism, Ring of Fire - 440
+Chieftain, Bladedancer Kindred, BSB, Spear of Cadaron -320
+20 Sylvan Archers, musician - 520
+27 Forest Guard, Full Command, Gleaming Icon - 442
+8 Dryads, Skirmish - 170
+3 Kestrel Knights, light armour -307
+3 Kestrel Knights, light armour -307
+8 Bladedancers -320
+12 Bladedancers, Champion, Standard - 480
+Treefather - 480
+Treefather - 480
+Total - 4496
+
+Team : Belgium
+Camille "Sire Trencavel" Giaux - Empire of Sonnstahl
+ROOSTER_START_FACTION EoS Prelate, General, shield, Dragon Mantle, Crown of Autocracy - 286
+Marshall, BSB, Great Tactician, shield, charm of the curse iron, the black helm - 286
+Wizard, 4 learned spells, Book of arcane power, ring of fire, wizard master, Path of Pyromancy - 530
+10 Militia, skirmish, pistols - 150
+10 Militia, skirmish, pistols - 150
+10 Militia - 80
+20 Heavy infantry - 160
+20 Heavy infantry - 160
+5 Electoral Cavalry, shields, lances, M - 220
+5 Electoral Cavalry, shields, lances, M - 220
+28 Imperial Guard, great weapon, M, S, C - 573
+5 Reiters, brace of pistols - 180
+5 Reiters, brace of pistols - 180
+10 Flagellants - 160
+10 Flagellants - 160
+10 Flagellants - 160
+1 Steam Tank - 440
+1 Mortar - 200
+1 Mortar - 200
+Total - 4495
+﻿COUNTRY_TAG BGR
+Anton Nikolov, Ogre Khans - Hellfist
+ROOSTER_START_FACTION OK 
+Shaman, general , Wizard Master, 3 extra spells, Thaumaturgy, Hellfist, Scepter of Power,Razor Blade - 730
+Mammoth Hunter on Tusker, Troll Eater, Hunting Spear, Heart-Ripper, Yeti Furs - 440
+4 x 3 Bruisers - 4 x 165
+1 x 4 Tribesmen , M, S, C, Paired Weapons, Banner of Discipline - 1 x 309
+1 x 3 Tribesmen , Paired Weapons - 1 x 160
+
+2 x 2 Tusker Cavalry, Light Armour and Iron Fist - 2 x 320
+2 x 1 Thunder Cannon - 2 x 300
+2 x 1 Rock Aurochs, Hunting Spear - 2 x 480
+
+Total: 4499
+Hristo Nikolov - Dwarven Holds
+ROOSTER_START_FACTION DH 
+King, General, Shield, Runes of Destruction, Smashing, Fury, Runes of Iron, Iron, Bronze - 480
+Thane, BSB, Shield, Runes of Iron, Iron - 226
+Runic Smith, Shield, Rune of Iron, Rune of Denial, Runes of Resilience, Gleaming, Resolve -359
+Dragon Seeker, Monster Seeker, Runes of Precision, Might, Fury - 390
+Anvil of Power, Runes of Shattering, Storms, Resolve - 300
+
+25 Marksmen, GWs, M,S,C, Banner of Swiftness - 785
+10 Warriors, Shields, TWs, Vanguard - 180
+10 Warriors, Shields, TWs - 160
+
+10 Miners, Pistols - 230
+5 Rangers, Crossbows, Shields - 150
+2 x Steam Bomber - 2 x 200
+
+10 Seekers, Vanguard, Skirmish, C - 300
+
+2 x Cannon � 2 x 270
+
+4500
+
+Georgi Topalov, Orcs and Goblins
+ROOSTER_START_FACTION O&G Lord of Fightin', general, iron orc, divine icon, hardened shield, obsidian sword, talisman of supreme shielding, wyvern - 750
+Lord of Fightin', feral orc, shield, axe of the aporcalypse, bronze breastplate, dragonfire gem, wyvern - 640
+Lord of Sneakin', common goblin chief, battle standart bearer, shield, ring of fire - 170
+Goblin Whitch Doctor, common goblin,school of pyromancy, wizard apprentice, 2x additional learned spells- 240
+
+40x Goblins - common goblin, full command group, bows, 3x shady git, shields - 440
+2x30 Goblins - cave goblin, bows, musician, standart bearer, 2x mad git - 2x 380
+1x Greenhide catapult , Splatterer - 180
+2x Greenhide catapult , Git Launcher - 2x180
+2x Gargantula - 2x480
+Total: 4500
+
+Fabio "Guazza" GUASCONI - Daemon Legions - Monotheist Army (Wrath)
+ROOSTER_START_FACTION DL Scourge of Wrath, General, Supreme Aspect, Eternal Fury, Obsidian Horn, Shackles of Reality, Eternal Sword - 1110
+2 x 16 Slaughterers, Aspect, Onslaught, M, S, C - 2 x 452
+5 x Crusher Cavalry, Aspect, Onslaught, M, S, C, Aether Icon - 725
+5 x Crusher Cavalry, Aspect, Onslaught, M, S, C, Gleaming Icon - 680
+2 x 1 Blood Chariot - 2 x 330
+3 x 5 Furies, Mark of Wrath - 3 x 140
+
+4499
+
+Marc "Leith" Dcyd - Empire of sonsthal
+ROOSTER_START_FACTION EoS Marshal, general, imperial prince, dragon, lucky shield, divin icon - 910
+Wizard, 4 spells, Pyromancy, wizard master, dispell scroll, ring of fire - 530
+Marshal, bsb, skull splitter- 225
+20 heavy infantry, M,S,C, banner of discipiline - 255
+3 x 10 state militia, skirmishers, bows � 3 x 130
+2 x 5 electoral cavalry, lance, shield, M,C - 2 x 240
+3 Knights of the Sun Griffon, lance and shield, M,C - 350
+2 x 3 Knights of the Sun Griffon, lance and shield, M - 2 x 330
+1 Canon - 260
+1 Steam Tank - 440
+Total :4500
+
+Andrea B. "Taro" Sferrazza - Infernal Dwarves
+ROOSTER_START_FACTION ID 
+Overlord, General, Great Bull of Shamut, Bronze Breastplate, Divine Icon, Onyx Hammer, Obsidian Rock - 1005
+Prophet, Engineer, 4 spells, Wizard Master, Pyromancy/Alchemy, Essence of Free Mind, Ring of Fire -580
+Vizier, BSB, Hardened Shield -210
+37x Hobgoblins, Bow, M, C - 360
+2 x 20 Hobgoblins, Bow, M- 2 x 170
+15x Infernal Warriors, Blunderbuss, Shield, M - 265
+10x Infernal Warriors, Blunderbuss, M - 160
+2 x 1 Rocket Battery - 2 x 190
+5x Kadim Incarnates, C - 570
+4x Kadim Incarnates, C - 460
+5x Taurukh, Shield - 170
+4500
+
+Georgi "Ugly Death" Sariev � Saurian Ancients
+ROOSTER_START_FACTION SA Cuatl Lord, General, BSB, Crown of Autocracy, Ancient Plaque, Wizard Master, 4 Spells, Wellspring of Power, Ancient Knowledge, Divination � 960
+Skink Priest, Wizard Apprentice, 1 Spell, Shamanism � 130
+Skink Priest, Dispel Scroll, Wizard Apprentice, 1 Spell, Druidism � 230
+Veteran Firstborn, Raptor, Great Weapon, Armour of Destiny � 400
+2 x 30x Skink Braves, 3x Caimans, M � 2 x 540
+30x Temple Guards, M S C � 855
+Taurosaur, Engine of the Ancients � 530
+1x Spearback Weapon Beast � 120
+11x Skink Hunters, Blowpipes � 194
+4499
+
+*Gio Tira - Dread Elves
+ROOSTER_START_FACTION DE *Oracle, General, 3x Add up to 3 additional Learned Spells, Alchemy, Wizard,Ring of Fire, Wandering Familiar -450
+720 Cult Priest,Battle Standard Bearer, Executioner's Blade,Divine Altar,Midnight Cloak,Cult of Nabh -
+*29x Corsairs, Paired Weapons, M, C,S, Flaming Standard - 703
+*10x Corsairs with Repeater Handbow, M -200
+*10x repeater auxiliaries, musician- 220
+*28x Executioners, M, C, S, Stalker's Standard - 828
+*2 x 5 Harpies � 2 x 130
+*3 x Raptor Chariot � 3 x 190
+*3 x Dread Reaper � 3 x 180
+Total Army: 4491
+
+
+COUNTRY_TAG CZE
+Tobi�s "DrAnthrax" Veska
+Non-playing Captain
+
+Tom�s "Tomlin" Trapl
+Coach
+
+Marek "xberny" Bernard - Warriors of the Dark Gods
+ROOSTER_START_FACTION WoTDG 710 - Lord of Chaos, General, Mark of Wrath, Daemonic Steed, Great Weapon, Sprout of Rebirth, Bluffers Helm, Divine Icon 
+690 - Lord of Chaos, Mark of Wrath, Daemonic Steed, Shield, Jacks Pickaxe, Talisman of Supreme Shielding, Crown of Scorn
+590 - Harbinger of Chaos, BSB, Mark of Change, Daemonic Steed, Great Weapon, Dragonscale Helm,  Talisman of Greater Shielding, Third Eye of Change
+252 - 2x8 Barbarian Horsemen, Shield, S
+397 - 11x Wasteland Warriors, Wrath, Paired Weapons, M, S, C, Banner of Fury
+260 - Battle Shrine, Mark of Wrath
+435 - 10x Chosen, Mark of Lust, Halberd, S, Aether Icon
+360 - 10x Chosen, Mark of Lust, Halberd
+284 - 3x Once-Chosen, Mark of Wrath, Flail, Shield
+266 - 3x Once-Chosen, Mark of Wrath, Flail
+4496
+
+Jan "Ripetti" Plucar - Ogre Khans
+ROOSTER_START_FACTION OK 550 - Shaman, General, 4 Spells, Crown of Autocracy, Sceptre of Power, Wizard Master, Path of
+Pyromancy
+360 - Khan, BSB, Great Weapon, Skull of Qenghet, Ring of Fire
+871 - 10x Bruisers, M, S, C, War Standard
+254 - 28x Scraplings, Spear, M, S
+220 - 2x3 Bombardiers
+465 - 6x Bombardiers, M
+300 - 2x1 Thunder Cannon
+480 - 2x1 Rock Auroch, Hunting Spear
+4500
+
+Michal "Houba" Mal� - Dwarven Holds
+ROOSTER_START_FACTION DH 209 - Runic Smith, General, Shield, Aether Loathstone
+164 - 2x1 Engineer, Shield, Forge Repeater
+180 - 2x10 Clan Warriors, Shield, Throwing Weapons, M
+260 - 3x10 Grey Beards, Shield, Throwing Weapons, M
+120 - 2x1 Vengeance Seeker
+250 - 2x10 Miners, Pistol, M
+370 - 2x1 Grudge Buster
+300 - 2x2 Attack Copters, Skirmish
+200 - Steambomber
+270 - 2x1 Cannon
+4497
+
+Ladislav "Landis" Pesta - Infernal Dwarves
+ROOSTER_START_FACTION ID 570 - Prophet, General, 4 Spells, Lucky shield, Ring of Fire, Essence of Free Mind, Wizard Master, Path of Pyromancy/Alchemy
+325 - Vizier, BSB, Ring of Dessication, Hardened Shield, Flaming Standard
+514 - 16x Citadel Guard, Flintlock Axe, M
+310 - 2x10 Citadel Guard, Flintlock Axe, M
+790 - 26x Immortals, Shield, Infernal Weapons, M, S, C, Rending Banner
+130 - 5x Hobgoblin Wolf Riders
+340 - Rocket Battery, Bound deamon
+90 - 2x1 Hobgoblin Bolt Thrower
+570 - 5x Kadim Incarnates, C
+460 - Infernal Engine, Steam Hammers
+4499
+
+Petr "Ampy" Ambroz - Vampire Counts
+ROOSTER_START_FACTION VC 900 - Vampire Count, General (Dead Arise), 2 Spells, Von Karnstein Bloodline, Great Weapon, Glittering Cuirass, Sprout of Rebirth, Unholy Tome, Wizard Master, Storm Caller, Path of Evocation
+220 - Barrow King, BSB, Hardened Shield
+260 - Necromancer, 1 Spell, Dispell Scroll, Path of Evocation
+210 - Necromancer, 1 Spell, Ring of Fire, Path of Evocation
+470 - 42x Skeletons, M, S, C, War Standart
+160 - 3x25 Zombies, M
+80 - 3x2 Great Bats
+360 - 2x10 Wraiths
+500 - 2x1 Shrieking Horror
+4500
+
+Jakub "FirstFlash" Klinsk� - Saurian Ancients
+ROOSTER_START_FACTION SA 390 - Firstborn Veteran, General, Raptor, Great Weapon, Armour of Fortune, Crown of Scorn
+420 - Firstborn Veteran, BSB, Raptor, Sword of Strength, Dusk Stone, Hardened Shield
+580 - Firstborn Warlord, Raptor, Great Weapon, Divine Icon, Glittering Cuirass, Sprout of Rebith
+410 - Firstborn Veteran, Raptor, Great Weapon, Armour of Destiny, Lucky Charm
+190 - 2x10 Saurian Warriors, M
+260 - 2x15 Skink Braves, Poisoned Javelin, M
+240 - 2x2 Spearback
+152 - 8x Skink Hunters, Blowpipes
+172 - 8x Skink Hunters, Blowpipes, Vanguard
+330 - 3x1 Stygiosaur
+4494
+
+Jan "Naz-ghul" Pus - Beast Herds
+ROOSTER_START_FACTION BH 590 - Beast Lord, General, Razortusk Chariot, Hunting Call, Beast Axe, Hardened Shield, Talisman of Supreme Shielding
+392 - Beast Chieftain, BSB, Raiding Charriot, Beast Axe, Heavy Armour, Shield, War Standart, Dusk Stone
+390 - Minotaur Chieftain, Great Weapon, Aaghor's Flayed Hide
+405 - Soothsayer, 4 Spells, Wizard Master, Path of Druidism
+120 - 12x Mongrel Riders
+160 - 4x10 Wildhorn Herd, Ambush, Throwing Weapons, M
+140 - 10x Wildhorn Herd, Throwing Weapons, M
+160 - 2x5 Centaurs, Paired Weapons
+430 - 2x1 Gortach
+320 - 2x1 Jabberwock
+4497
+
+Michal "Pudl" Bukvic - Orcs and Goblins
+ROOSTER_START_FACTION O&G 590 - Common Orc Warlord, General, Waaargh!, Wyvern, Heavy Armour, Hardened Shield, Sword of
+Strength, Sprout of Rebirth
+660 - Feral Orc Warlord, Wyvern, Shield, Axe of the Aporcalypse, Potion of Swiftness,
+Plates of Tuktek
+340 - Common Goblin Witch Doctor, 4 Spells, Ring of Fire, Path of Pyromancy
+204 - Cave Goblin Chief, BSB, Light Armour, Shield, Bow, Crown of the Cavern King
+238 - 2x21 Cave Goblins, Bow, 1 Mad Git, M
+360 - 30x Cave Goblins, Bow, 2 Mad Git, M
+330 - 30x Cave Goblins, Spear & Shield, 2 Mad Git, M
+200 - 2x1 Splatterer, Orc Overseer
+90 - 2x1 Skewerer
+480 - 2x1 Gargantula
+4500
+﻿COUNTRY_TAG DNK 
+Troels Cederholm [C] � Beastherds
+ROOSTER_START_FACTION BH 650 - Beast Lord: Razor tusk Chariot, Beast Axe, Shield, Bluffer's Helm, Talisman of Supreme Shielding Crown of Horns
+351 - Beast Chieftain: BSB, Greater Totem, Great Weapon, Bronze Breastplate, Gourd of Beetles
+405 � Soothsayer: 4 spells, Druidism, Scepter of Power, Ring of Fire
+120 - 10 Wildhorn Herd: Ambush
+650 - 45 Wildhorn Herd: FC, Paired Weapons, Banner of the Wild Herd
+130 - 11 Mongrel Raiders: Scout & Ambush
+734 - 31 Longhorn Herd: FC, Great Weapons
+720 - 20 Centaurs: FC, Great Weapons
+160 - 3 x 5 Centaurs: Paired Weapons
+255 - 3 Minotaurs: Paired Weapons
+Total Roster Cost: 4495
+
+Wilhelm Gr�fte � Ogre Khans
+ROOSTER_START_FACTION OK 720 - shaman master, General, Hellfist, 4 Spells, sceptre of power, Thaumaturgy
+450 - Mammoth Hunter, Trolleater, Tusker, Iron Fist, Bluffer's Helm
+308 - 5x Tribesmen, S, M,
+165 - 4x3 Bruisers
+80 - 2x15 Scrablings,
+300 - 2x1 Thunder cannon
+320 - 2x2 Tusker Cavalry, Ironfist
+480 - 2x1 Rock Aurochs, Hunting spear
+Total Roster Cost: 4498
+
+Kasper Jensen (Manny) - O&G
+ROOSTER_START_FACTION O&G 630 - Iron Orc Warlord, Boar Chariot, General, Great Weapon, Bluffers Helm, Talisman of Supreme
+ Shielding
+410 - Common Goblin Witch Doctor, Master Wizard, 4 Learned Spells, Essence of the free mind (Fire,
+Thaumaturgy)
+174 - Common Goblin Chief, BSB, Bow, Shield, Ring of fire
+167 - Cave Goblin Chief, Cave Gnasher, Lance, Shield, Bronze Breastplate, Lucky Charm
+187 - Cave Goblin Chief, Cave Gnasher, Lance, Shield, Dragonscale Helm, Gem of Fortune
+217 - Cave Goblin Chief, Cave Gnasher, Lance, Shield, Crown of the cavern king, Dragonfire Gem
+602 - 45 Cave Goblins, FC, Bows, 3 fanatics, Icon Of The Relentless Company
+360 - 30 Cave Goblins, M, Bows, 2 fanatics
+190 - 20 Common Goblins, M, Bows, 1 Shady git
+80 - 3 x 3 Grotlings
+90 - 4 x 1 Skewerer
+480 - 2 x 1 Gargantula
+4497 points
+
+Jakob Nygren � Highborn elves
+ROOSTER_START_FACTION HE 835 - Prince, Fleet Officer, General, Dragonforged Armour, Talisman of Supreme Shielding, Jack's Pickaxe, Hardened Shield, Shard of Cenyrn, Sky Sloop (Sky Reaper)
+635 - Mage, Master, Asfad Scholar, Skull Splitter, Sceptre of Power, Ring of Fire, 4 Learned Spells,
+Pyromancy
+320 - Commander, BSB, Queen's Companion, Great Bow of Elu, Lucky Shield
+580 - 30x Citizen Archers: M,C
+280 - 2x20 Citizen Spears: M
+514 - 6x Knights of Ryma, Full command, War Banner of Ryma
+100 - 1x Giant Eagle
+168 - 2x6 Queen's Guard
+240 - 1xSky Sloop, sky reaper
+380 - 1xFire Phoenix
+4.500 points
+
+Kaare Siesing � Vampire Covenant
+ROOSTER_START_FACTION VC 860 - Vampire, Brotherhood of the Dragon, 1 Learned, Occultism, Shield, Spectral Steed, The Dead Arise, Bluffers Helm, Potion of Strength, Blessed Sword, Crimson Rage
+360 - Barrow King, Skeletal Steed, Battlestandard, Dusk Stone, War Standard, Hardend Shield
+230 - Necromancer, 2 Learned, Evocation, Scepter of Power
+160 - Necromancer, 1 Learned, Evocation
+160 - Necromancer, 1 Learned, Evocation
+500 - 1 x Shrieking Horror
+500 - 1 x Shrieking Horror
+80 - 2 x Great Bats
+80 - 2 x Great Bats
+670 - 12 x Barrow Knights, Full Command, Black Standard of Zagvozd
+450 - 43 x Skeletons, Spears, Full Command
+150 - 20 x Zombies, Full Command
+150 - 20 x Zombies, Full Command
+150 - 20 x Zombies, Full Command
+4500 points
+
+Anders N�hr: WotDG
+ROOSTER_START_FACTION WoTDG 730 - Lord of Lust, General, Steed of Lust, Great Weapon, Bluffer's Helm, Sprout of Rebirth,
+Divine Icon, Waste-Hardened Skin
+545 - Sorcerer, Wand of Stability, Ring of Fire, Alchemy, 4 Spells, Wizard Master
+510 - Harbinger of Lust, BSB, Steed of Lust, Lance, Dusk Stone, Dragonscale Helm, Shield
+160 - 20 Barbarians, M
+745 - 20 Wasteland Warriors of Wrath, M, S, Halberd, Banner of Fury
+200 - 5 Hell Riders, Hellish Whip, Shield
+150 � Barbarian Horsemen
+360 - 10 Chosen of Lust, Halberd
+440 � 6 Wasteland Knights of Lust, M
+420 - 10 Chosen of Lust, Paired weapons, S, Nine-Tailed Standard
+240 - Battle Shrine
+4500
+
+Michael Vedel: Kingdom of Equitaine
+ROOSTER_START_FACTION KoE The Blessing - Favour of the King
+605 � Duke, General, Questing Oath, Virtue of Audacity, Barded Warhorse, Shield, Great Weapon
+Crusaders Helm, Crown of Autocrazy
+363 - Paladin, BsB: Questing Oath, Barded Warhorse, Great Weapon, Hardened Shield, Dusk Stone
+War Standard
+510 - Damsel Mistress, Barded Warhorse, 4 spells, Ring of Fire, Wand of Stability, Wizard Master, Druidism
+315- Duke, Humility, Wizards Hood
+678- 12 Knights of the Quest: FC
+460 - 2x55 Peasant Levy, Spear, FC
+292 � 34 Peasant Levy: Spear, FC
+260 - Sacred Reliquary
+220 � 2 x 3 Knights of the Grail
+110 � 5 Mounted Yeomen
+4493
+
+Rasmus M�lbak: Undying Dynasties
+ROOSTER_START_FACTION UD 260 - Death Cult Hierach, General, 2 spells, Sandstorm Cloak, evocation
+210 - Death Cult Hierach, Hierophant, 2 spells, evocation
+330 - 2x3 skeleton chariots, musician, standard
+360 - 3 skeleton chariots, musician, standard, warstandard
+120 - 10 skeleton archers
+245 - 15 Necropolis guards, paired weapon, champion
+225 - 15 Necropolis guards, paired weapon
+450 - Battle Sphinx
+430 - 2x1 Colossus, Scales of destiny
+390 - 3 Cataphracts, underground ambush
+360 - 2x3 Sand stalkers, underground ambush
+4500
+﻿COUNTRY_TAG ENG
+Mike Newman (C)
+Vampire Counts
+ROOSTER_START_FACTION VC 
+Vampire Courtier - Dead Arise, Von Karsten, Hour of the Wolf, 1 Learned spell
+Evocation Crown of Autocracy, Scroll of shielding - 470
+Vampire Courtier - BSB, Von Karsten Great Weapon, Unholy Tome, Bronze
+Breastplate, 1 Learned spell Evocation - 435
+Necromancer - 1 Learned spell Evocation, Charm of Cursed Iron - 190
+Necromancer - 1 Learned spell Evocation , Obsidian Rock- 200
+Fell Wraith - Great Weapon - 160
+Fell Wraith - Great Weapon - 160
+41 Skeletons - FC, Warbanner - 460
+20 zombies � 110
+20 zombies � 110
+20 zombies � 110
+20 zombies � 110
+5 Dire Wolves � 80
+5 Dire Wolves � 80
+5 Dire Wolves - 80
+2 Great Bats � 80
+2 Great Bats - 80
+7 Vampire Spawn � 540
+7 Vampire Spawn - 540
+9 wraiths - 324
+5 wraiths - 180
+4499
+
+Dan Thomas
+Empire of Sonnstahl
+ROOSTER_START_FACTION EoS 
+Marshal -shield, general, skull-splitter 231
+Marshal -bsb, dragon mantle, shield 216
+Prelate -blessed armour of frederick the great, great weapon, locket of sunna, lucky charm 322
+Wizard -master, 4 spells, alchemy, ring of fire, book of arcane power 530
+46 Heavy infantry -spears, full command, flaming standard 571
+10 State militia -skirmish, pistols 150
+10 State militia -skirmish, pistols 150
+10 State militia -skirmish, pistols 150
+13 State militia 104
+Steam tank 440
+25 Imperial guard -full command 435
+4 Knights of the sun griffin -lances&shields, standard, gleaming icon 450
+4 Knights of the sun griffin -lances&shields, standard, war standard 470
+Arcane Engine -arcane shield 280
+Total 4499pts
+
+Chris Legg
+Infernal Dwarfs
+ROOSTER_START_FACTION ID Prophet: Wizard Master, 4 Learned Spells, Path of Alchemy, Lucky Shield, Book of Arcane Power 570
+Vizier: Shield, Battle Standard Bearer, Ring of Fire 254
+Hobgoblin Chieftain: Light Armour, Shield, Light Lance, Wolf, Gem of Dragonfire 159
+17 Citadel Guard: Musician, Standard Bearer, Flintlock Axe 568
+17 Citadel Guard: Musician, Standard Bearer, Flintlock Axe 568
+6 Taurukh Anointed: Musician, Standard Bearer (Flaming Standard), Shields 877
+Hobgoblin Bolt Thrower 90
+Hobgoblin Bolt Thrower 90
+6 Kadim Incarnates 660
+6 Kadim Incarnates 660
+4,496 points
+
+Rafael Harbinson
+Kingdom of Equitaine
+ROOSTER_START_FACTION KoE 
+Favour of the King
+Duke, General, Humility, Hardened Shield, Crown of Autocracy: 290
+Damsel, Druidism, Master, 4 Learned Spells, Ring of Fire, Wand of Stability: 460
+Damsel, Divination, 2 Learned Spells: 200
+Paladin on Pegasus, BSB, Questing, Audacity, Great Weapon, Shield, Crusader's Helm: 532
+49 Peasant Levy, Champion, Musician: 392
+49 Peasant Levy, Champion, Musician: 392
+47 Peasant Levy, Musician: 356
+20 Peasant Levy, Musician: 140
+Sacred Reliquary: 260
+Sacred Reliquary: 260
+Trebuchet: 280
+Trebuchet: 280
+5 Pegasus Knights, Standard Bearer, Champion, Banner of Discipline: 655
+Total: 4497
+
+Amit Hindocha
+Undying Dynasties
+ROOSTER_START_FACTION UD 
+Death Cult Hierarch: 555 evocation, hierophant, add 3 learned spells, wizard master, skullsplitter, book of the dead, talisman of shielding - 
+Pharaoh: general, great aspen bow, Halberd, light armour, crown of pharaohs, Wizards hood - 535
+Tomb Architect: Ring of Fire, Obsidian Rock- 250
+Tomb Harbringer, BSB, Heavy Armour, Dragon Mantle, Shield, Talisman of Greater Shielding: 370
+50 Skeletons, Spears, Full Command, War Banner: 550
+23 archers - champ, musician - 316
+5 skeleton cavalry - 130
+5 skeleton cavalry - 130
+33 necropolis guard: full command, paired weapons, rending banner - 836
+10 shabti archers: musician and standard, flaming standard - 823
+Total: 4495
+
+Will Goodwin
+Vermin Swarm
+ROOSTER_START_FACTION VS 
+Tyrant: Army General, Heavy Armour, Vermin Guard Litter, Crown of Autocracy, Hardened Shield 336
+Chief: Battle Standard Bearer, Ring of Fire 210
+Magister: Master, 4 Learned Spells, Thaumaturgy, Book of Arcane Power 480
+15 Plague Brotherhood: Musician 180
+15 Plague Brotherhood: Musician 180
+20 Rats-at-Arms: Musician 180
+35 Slaves: Musician 150
+36 Slaves: Musician 154
+15 Vermin Guard: Musician, Standard Bearer, The Lightning Rod 310
+8 Plague Disciples: Champion 210
+8 Plague Disciples: Champion 210
+8 Plague Disciples 190
+8 Plague Disciples 190
+8 Plague Disciples 190
+8 Grenadiers 180
+8 Grenadiers 180
+8 Grenadiers 180
+Plague Catapult 170
+Plague Catapult 170
+Rotary Gun 150
+Rotary Gun 150
+Rotary Gun 150
+Total: 4,500
+
+Craig Johnson
+Beastherds
+ROOSTER_START_FACTION BH 
+Centaur Chieftain: General, Throwing Weapons, Paired Weapons, Greater Totem Bearer, Crown of
+Autocracy 402
+Centaur Chieftain: Paired Weapons, Battle Standard, Greater Totem Bearer 376
+Centaur Chieftain: Throwing Weapons, Paired Weapons, Potion of Strength 312
+Centaur Chieftain: Throwing Weapons, Paired Weapons, Aaghor's Flayed Hide 352
+Soothsayer: 4 Learned Spells, Sceptre of Power, Druidism 355
+10 Wildhorn Herd: Paired Weapons, Throwing Weapons, Ambush 160
+10 Wildhorn Herd: Paired Weapons, Throwing Weapons, Ambush 160
+10 Wildhorn Herd: Paired Weapons, Throwing Weapons, Ambush 160
+10 Wildhorn Herd: Paired Weapons, Throwing Weapons, Ambush 160
+10 Mongrel Raiders 100
+14 Mongrel Raiders: Scout & Ambush 160
+14 Centaurs: Standard (Banner of Discipline), Paired Weapons, Throwing Weapons 523
+13 Centaurs: Paired Weapons, Throwing Weapons 436
+6 Centaurs: Paired Weapons, Throwing Weapons 212
+17 Centaurs: Great Weapons, Throwing Weapons 632
+4,500 points
+
+Adam `Tanka' Jones
+Orge Kingdoms
+ROOSTER_START_FACTION OK 
+
+Shaman, General, Hellfist, 4 Spells Thaumaturgy, Ring of Fire, Sceptre of Power = 700pts
+Hunter, Tusker, Ironfist, Dragonhelm, Duskstone = 390pts
+Hunter, Tusker, Ironfist, Bluffers Helm, Dragonbane Gem = 395pts
+3 Bruisers = 165pts
+3 Bruisers = 165pts
+3 Bruisers = 165pts
+3 Bruisers = 156pts
+17 Scraplings, Foreman = 132pts
+6 Tribesmen, Banner = 342pts
+2 Tusker Cavalry, Ironfists = 320pts
+Thunder Cannon = 300pts
+Thunder Cannon = 300pts
+Rock Auroch, Hunting Spear = 480pts
+Rock Auroch, Hunting Spear = 480pts
+4499
+﻿
+COUNTRY_TAG FIN
+Juuso L�hdekorpi, Ogre Khans
+ROOSTER_START_FACTION OK Shaman, General, Hellfist, Wizard Master, Thaumaturgy, 4 spells, Ring of Fire, Talisman of Greater Shielding, GW, 812
+Mammoth Hunter, Trolleater, Bluffer's Helm, Lucky Charm, Ogre Crossbow, GW, Tusker, 460
+4 bruisers, FCG, 313
+3 Bruisers, 165
+3 Bruisers, 165
+3 Bruisers, 165
+3 Bruisers, 165
+18 Scraplings, bow, musician, 154
+2 Tusker Cavalry, ironfist & light armor, musician, 340
+2 Tusker Cavalry, ironfist & light armor, musician, 340
+2 Tusker Cavalry, ironfist & light armor, musician, 340
+Thunder Cannon, 300
+Thunder Cannon, 300
+Rock Aurochs, 480
+Total: 4499
+
+Pyry Peitso, Vampire Covenant
+ROOSTER_START_FACTION VC Vampire Count, general, heavy armour, Skeletal Steed, Wizard Apprentice 1 spell, Evocation, The Dead Arise, Von Karnstein, Storm Caller, Blade of Red Thirst, Hardened Shield, Talisman of Supreme Shielding, 825
+Vampire Courtier, battle standard bearer, heavy armour, shield, Skeletal Steed, Wizard Apprentice 1 spell,
+Evocation, Von Karnstein, Jack's Pickaxe, Dragonscale Helm, 520
+Necromancer, Apprentice Wizard 1 spell, Evocation, Ring of Fire, Shielding Scroll, 240
+20 Skeletons, full command, 220
+21 Zombies, musician, standard, 156
+20 Zombies, musician, standard, 150
+20 Zombies, musician, standard, 150
+8 Dire Wolves, 116
+2 Bat Swarms, 120
+10 Barrow Knights, full command, War Standard, 520
+5 Vampire Spawn, 380
+5 Vampire Spawn, 380
+10 Wraiths, 360
+10 Wraiths, 360
+Total: 4497
+
+Lasse Lindstr�m, Dwarven Holds
+ROOSTER_START_FACTION DH Runic Smith, General, Shield, 179
+Anvil of Power, Rune of Shattering, Rune of Storms, Rune of Resolve, 300
+16 Clan Marksmen, Guild Crafted Handguns, Shields, 448
+10 Greybeards, Musician, Shields, Throwing Weapons, 260
+10 Clan Warriors, Shields, 140
+10 Clan Warriors, Shields, 140
+10 Clan Warriors, Shields, 140
+10 Miners, Pistols, 230
+10 Miners, Pistols, 230
+10 Miners, Shields, 200
+Attack Copter, Added Copter, Skirmish, 300
+Attack Copter, Added Copter, Skirmish, 300
+Grudge Buster, 370
+Grudge Buster, 370
+Field Artillery, Cannon, Flaming Shot, 280
+Field Artillery, Cannon, 270
+Field Artillery, Flame Cannon, Runecrafted, 170
+Field Artillery, Flame Cannon, Runecrafted, 170
+Total: 4497
+
+Antti H�kli, Daemon Legions
+ROOSTER_START_FACTION DL Scourge of Wrath, General, Supreme Aspect: Eternal Fury, Eternal Sword, Shackles of Reality, Elixir of Souls, 1100
+Harbinger of Wrath, BSB, Blood Sword, Supreme Aspect: Eternal Fury, Veil of Shadows, Obsidian Horn, 450
+28 Slaughterers, Aspect: Onslaught, FCG, Banner of Speed, 826
+10 Slaughterers, Aspect: Onslaught, Musician, 250
+10 Slaughterers, Aspect: Onslaught, Musician, 250
+10 Slaughterers, Aspect: Onslaught, Musician, 250
+5 Furies, Mark of Wrath, 140
+5 Furies, Mark of Wrath, 140
+6 Hellhounds, Aspect: Onslaught, Ambush, 434
+Blood Chariot, 330
+Blood Chariot, 330
+Total: 4500
+
+Julius Castr�n, Saurian Ancients
+ROOSTER_START_FACTION SA Cuatl Lord: General, BSB, Divination, Ancient Knowledge, Jade Staff, 720
+Firstborn Veteran on Raptor: Armor of Fortune, Great Weapon, 360
+Firstborn Veteran on Raptor: Armor of Destiny, Great Weapon, 400
+30 Saurian Warriors: FCG, 650
+10 Saurian Warriors: 170
+10 Saurian Warriors: 170
+10 Skink Hunters: Blowpipes, 180
+10 Skink Hunters: Blowpipes, 180
+Spearback: 120
+Spearback: 120
+3 Rhamphodon Riders: Shields, 265
+3 Rhamphodon Riders: Shields, 265
+Stygiosaur: Champion, 450
+Stygiosaur: Champion, 450
+Total: 4500
+
+Olli Katila, Orcs and Goblins
+ROOSTER_START_FACTION O&G Common Warlord on : General, Crown of Autocracy, Bluffer's Helm, Talisman of Greater Shielding, Shield, Lance, Waaargh!, 600
+Orc Shaman: Shamanism, Wizard Master, 4 Spells, Book of Arcane Power, Ring of Fire, 555
+Cave Goblin Chief on Cave Gnasher: Shield, Light Armour, Lance, Bow, 126
+Cave Goblin Chief on Cave Gnasher: Shield, Light Armour, Lance, Bow, 126
+30 Common Goblins: Bow, Shield, Musician, 3x Shady Gits, Standard Bearer, War Standard, 340
+30 Common Goblins: Bow, Shield, Musician, 3x Shady Gits, Standard Bearer, 310
+20 Feral Orc: Paired Weapons, Bow, Musician, 280
+20 Feral Orc: Paired Weapons, Bow, Musician, 280
+10 Iron Orcs: Musician, 220
+10 Iron Orcs: Musician, 220
+3 Grotlings: 80
+Git Launcher: Orc Overseer, 200
+Git Launcher: Orc Overseer, 200
+Gargantula: 480
+Great Green Idol: BSB, 480
+Total: 4497
+
+Jere Jukka, Undying Dynasties
+ROOSTER_START_FACTION UD Death Cult Hierarch: General, Hierophant, Evocation, 4 learned spells, Wizard Master, Book of the Dead, Sandstorm Cloak, 530
+Tomb Architect: Ring of Fire, 210
+Casket of Phatep: 200
+15 Archers: Musician, 200
+15 Archers: Musician, 200
+3 Skeleton Chariots: Banner, 310
+3 Skeleton Chariots: 290
+5 Skeleton Scouts: 130
+15 Necropolis Guard: Musician, Paired Weapons, 240
+15 Necropolis Guard: Musician, Paired Weapons, 240
+15 Necropolis Guard: Musician, Paired Weapons, 240
+15 Necropolis Guard: Musician, Paired Weapons, 240
+10 Shabti: Standard, Musician, Paired Weapons, Banner of Speed, 928
+Charnel Catapult: 200
+Sand Scorpion: 170
+Sand Scorpion: 170
+Total: 4498
+
+Johannes Rimpil�inen, Beast Herds
+ROOSTER_START_FACTION BH Beast Lord: General, Beast Axe, Shield, Throwing Weapons, Razortusk Chariot , Dark Rain, Armour of Fortune, Lucky Charm, 596
+Minotaur Warlord: Heavy Armour, Beast axe. Hardened shield, Wizards hood, Sprout of Rebirth, 715
+Centaur chieftain: Battle Standard Bearer, Additional Hand Weapons, Throwing Weapons, Greater Totem Bearer, Aaghors flayed hide, 482
+3 Raiding Chariots: 370
+10 Wildhorn Herd: Ambush, Throwing Weapons, 140
+10 Wildhorn Herd: Ambush, Throwing Weapons, 140
+10 Wildhorn Herd: Ambush, Throwing Weapons, 140
+10 Wildhorn Herd: Ambush, Throwing Weapons, 140
+15 Centaurs: Musician, Standard Bearer, Throwing Weapons, Additional Hand Weapons, Banner of Speed, 590
+5 Centaurs: Additional Hand Weapon, 160
+5 Centaurs: Additional Hand Weapon, 160
+Gortach: 430
+Gortach: 430
+Total: 4493
+
+﻿COUNTRY_TAG FRA
+Team France
+Benjamin "Benji" Nardelli - Daemon Legion Mono Wrath
+ROOSTER_START_FACTION DL 
+Scourge of Wrath, General, Eternal Fury, Elixir of Souls, Veil of Shadows, Eternal Sword - 1090
+29x Slaughterers, Onslaught, Hell Axe, M, C, S, Gleaming Icon - 900
+5x Furies of Wrath - 140
+5x Furies of Wrath - 140
+5x Furies of Wrath - 140
+Blood Chariot - 330
+Blood Chariot - 330
+5x Crushers Cavalry, M, C, S, Onslaught, Aether Icon, - 725
+5x Crushers Cavalry, M, C, S, Onslaught, War Standard - 700
+Total � 4495
+
+Team : France
+BERNAT "Vince3310" Vincent - Vampire
+
+Necromancer, General,dead arise, 3 spells, Book of Arcane Power, Wizard Master, evocation - 460
+Necromancer, 1 spell, Dispel Scroll, evocation - 260
+Necromancer, 1 spell, Cadaver Wagon + Endless Horde, evocation - 350
+Fell Wraith, Beast-Bane Halberd - 200
+Barrow King, BSB, Dragon Mantle, Flaming Standard - 305
+2x20 Zombies, M - 2x130
+38 Ghouls, C - 654
+32 Barrow Guard, Shield, MSC, Banner of the Barrow King - 751
+2x2 Great Bats --> 2x80
+5x3 Vampire Spawn - 5x220
+total - 4500
+
+Team France
+Pierre-Emmanuel "Vargo Hoat" Guillet, Warriors of the Dark Gods
+ROOSTER_START_FACTION WoTDG 
+Wrath Priest on Wasteland Chariot, General, Flail, Lucky Shield, Crown of Scorn, Talisman of Shielding,
+Waste-Hardened Skin - 420
+40x Barbarians, Mark of Wrath, Flails, M, C, S, Banner of Fury - 665
+20x Barbarians, Mark of Lust, Spears and Shields, M - 240
+6x Wasteland Knights, Mark of Lust, Daemon Weapons, M, S, War Standard - 538
+6x Wasteland Knights, Mark of Lust, Daemon Weapons, M, S, Gleaming Icon - 518
+6x Wasteland Knights, Mark of Lust, Daemon Weapons, M, S - 508
+5x Wasteland Knights, Mark of Lust, Daemon Weapons, S - 410
+Wasteland Chariot, Single Mauler, Mark of Lust - 340
+Wasteland Chariot, Single Mauler, Mark of Lust - 340
+Wasteland Chariot, Pair of Waste Steeds, Mark of Lust - 260
+Wasteland Chariot, Pair of Waste Steeds, Mark of Lust - 260
+Total: 4499
+
+Geoffrey "Vvalor" SANCHEZ - Ogre Khans
+ROOSTER_START_FACTION OK Shaman : General, 4 Spells, Hellfist, Ring of fire, Thaumaturgy - 680
+Mammoth Hunter, Paired Weapons, Dragonscale Helm, Scout - 250
+Mammoth Hunter, Paired Weapons, Dragonfire Gem, Scout - 235
+Mammoth Hunter, Paired Weapons, Scout - 220
+Mammoth Hunter, Paired Weapons, Leader of the pack - 200
+Mammoth Hunter, Paired Weapons, Leader of the pack - 200
+3x Bruisers, S - 185
+3x Bruisers, S - 185
+3x Bruisers, S - 185
+3x Bruisers - 165
+3x Bruisers - 165
+4x Tribesmen, M, S, Banner of Discipline - 289
+2x Yetis - 160
+2x Yetis - 160
+1x Sabretooth Tigers - 80
+1x Sabretooth Tigers - 80
+1x Thunder Cannon - 300
+1x Thunder Cannon - 300
+1x Scratapult - 230
+1x Scratapult - 230
+
+Total - 4499
+
+Team France
+Yohann "AltF4" Teston - Infernal Dwarves
+ROOSTER_START_FACTION ID Prophet, General, Wizard Master, 4 Spells , Pyromancy, Dispel scroll, Ring of Fire, Hardened Shield, Dragonfire Gem - 635
+Vizier, BSB, Shield, Dragon Mantle, Dusk Stone - 314
+10 Citadel Guards, M - 210
+47 Hobgoblins, Bows, M, S - 460
+47 Hobgoblins, Bows, M, S - 460
+5 Hobgoblin Wolf Riders - 130
+30 Immortals, M, S, C, Flaming Standard, Shields - 885
+30 Immortals M, S, C, Gleaming Icon, Shields - 850
+5 Kadim Incarnates - 550
+Total - 4494
+
+Vincent "Pti Vincent" Arnaud - Kingdom of Equitaine - Favour of the King
+ROOSTER_START_FACTION KoE Duke, general, Humility, crown of autocracy, Skull Splitter, Lucky Shield - 355
+Duke, Humility, Hardened Shield - 220
+Damsel, 4 Spells, DIVINATION, Wizard Master, Book Of Arcane Power, Ring Of Fire - 520
+50 Peasant Levy : M, Spears - 380
+50 Peasant Levy : M, Spears - 380
+50 Peasant Levy : M, Spears - 380
+29 Peasant Levy : M, Spears - 212
+20 Peasant Levy : M, Spears - 140
+20 Peasant Levy : M, Spears - 140
+15 Brigands - 290
+15 Brigands - 290
+1 Sacred Reliquary - 260
+1 Sacred Reliquary - 260
+1 Trebuchet - 280
+1 Trebuchet - 280
+5 Yoeman Outriders, Throwing Weapons - 110
+Total - 4497
+
+Team France
+Nicolas "noki" LEMERY, Orcs and goblins
+ROOSTER_START_FACTION O&G 
+Common Orc Shaman, general , 4 Learned Spells, Shamanism, Wizard master, dispel scroll, crown of autocracy - 575
+Forest Goblin Witch Doctor, 4 learned spells, Wizard Apprentice, Thaumaturgy/pyromancy, essence of a free mind - 340
+Common Goblin Chief, BSB, Maza's Zappin Bow, Shield, light armor -180
+Cave Goblin Chief , Cave Gnasher , lance, Shield , light armor, Dragonfire gem -137
+Cave Goblin Chief , Cave Gnasher, great weapon, Shield, light armor, pan of protection pintchin -152
+41x common Goblins, Bow+shield, 3 Shady Git, M, S, Veteran Standard Bearer: War Standard � 428
+40x cave Goblins, Bow, 2 Mad Gits, M - 440
+20 feral Orcs, Bow, M - 260
+Gnasher Wrecking Team: 140
+Gnasher Wrecking Team: 140
+7 Common Trolls: 528
+7  Cave Trolls: 640
+Git Launcher 180
+Git Launcher 180
+2x skrewerer 180
+Total: 4500
+
+Team France
+Lionel "Wingaal" PALUDETTO, Beast Herds
+ROOSTER_START_FACTION BH 
+Soothsayer, general, Lore Evocation , 4 Spell, Wizard Master, Raiding Chariot mount,Paired Weapons,Dispel Scroll, Eye of Dominance,Crown of Horns - 589
+Beast Chieftain, BSB, Raiding Chariot mount, Greater Totem Bearer, Heavy Armour, Beast Axe, Throwing  Weapons,Lucky Shield,Dusk Stone, War Standard - 480
+10x Wildhorn, Ambush, Paired Weapons, Throwing Weapons - 160
+3x Raiding Chariot - 370
+3x Raiding Chariot - 370
+5x Gargoyles - 140
+5x Centaurs, Paired Weapons - 160
+5x Centaurs, Paired Weapons - 160
+6x Minotaurs, Paired Weapons, FCG, Gleaming Icon - 580
+6x Minotaurs, Paired Weapons,FCG, Stalker's Standard - 630
+Gortach - 430
+Gortach - 430
+Total: 4499
+﻿COUNTRY_TAG GER
+Team Germany
+Thomas - "Scrub" - Ahlich - Highborn Elves - Captain
+ROOSTER_START_FACTION HE High Prince, General, Royal Huntsmen, Lion Chariot, Heavy Armour, Great Weapon, Bluffer's Helm,Talisman of Supreme Shielding, Shard of Cenryn -746
+Mage, Asfad Scholar, 4 Spells, Book of Meladys, Ring of Fire, Wizard Master, Pyromancy -640
+Commander, BSB, Queens Companion, Great Bow of Elu -310
+22x Citizen Archers, M -416
+20x Citizen Spears, M -280
+5x Highborn Lancers, M -270
+5x Elein Reaver, Bow -190
+2x1 Giant Eagle -100
+30x Lion Guard, M, C, S, Banner of Becalming -900
+3x1 Sea Guard Reaper -180
+4496
+
+Team Germany
+Nils "SirProxALot" Reinke - Dwarfen Holds
+ROOSTER_START_FACTION DH King, General, Shield, Rune of Destruction, , Rune of Smashing, Rune of Iron (x2), Rune of Steel - 470
+Thane, BSB, Shield, Aether Loathestone, Rune of Iron, Aether Icon - 291
+Engineer, Forge Repeater - 160
+28 Greybeards, Shield, M, C, S - 692
+11 Clan Warriors, Shield - 156
+2x 10 Clan Warriors, Shield - 140
+19 Deep Watch, M, C, S - 502
+3x 10 Miners, Pistol, M - 250
+2x 2 Steam Attack Copters - 300
+Field Artillery - Organ Gun, Rune Crafted - 325
+Field Artillery - Cannon - 270
+4496
+
+Team Germany
+Stefano "Toto" Ferrante - Vampire Covenant � Von Karnstein
+ROOSTER_START_FACTION VC Midnight Aristocracy, Vampire Count, General, Von Karnstein, 1 Spell, Great Weapon, Divine Icon, Mantle of Night, Mithril Mail, Hour of the Wolf, Wizard Apprentice, Evocation - 720
+Necromancer, 1 Spell, Cadaver Wagon, Endless Horde, Ring of Fire, Sceptre of Power, Wizard Apprentice,Evocation - 420
+Necromancer, 1 Spell, Dispell Scroll, Wizard Apprentice, Evocation - 260
+Necromancer, 1 Spell, Wizard Apprentice, Evocation - 160
+38x Skeletons, Spear, M, S, C - 400
+37x Skeletons, Spear, M, S, C - 390
+20x Zombies, M - 130
+Altar of the Undeath, Dark Tome - 460
+Altar of the Undeath - 400
+2x2x Great Bats - 80
+2x1 Shrieking Horror - 500
+Total 4500
+
+Team Germany
+Tim "Fireborn" Bargmann - Infernal Dwarfs
+ROOSTER_START_FACTION ID Prophet, General, Wizard, Wizard Master, 4 Spells, Wand of Stability, Flintlock Axe, Alchemy - 516
+Prophet, Wizard, Wizard Master, 4 Spells, Skull Splitter, Szepter of Power, Pyromancy - 545
+Taurukh Subjugator, BSB, Razor Blade, Hardened Shield, Gauntlets of Madzhab, Dusk Stone - 470
+16 Citadel Guard, Flintlock Axe, M - 514
+2x10 Citadel Guard, Flintlock Axe, M - 310
+20 Immortals, Shield, MSC, Banner of the Flame, Infernal Weapon - 585
+6 Kadim Incarnates - 660
+Infernal Engine, Steam Hammers - 460
+5 Wolf Riders - 130
+4500
+
+Team Germany
+Peter "Duc de Guerre" Folle � Vermin Swarm
+ROOSTER_START_FACTION VS Tyrant, General, Light Armor, Vermin Guard Litter, Crown of Autocracy - 310
+Chief, BSB, Light Armour, Ring of Fire - 210
+Magister, 4 Spells, Book of Arcane Power, Wizard Master, Thaumaturgy - 440
+15 Vermin Guards, M, S, Lightning Rod - 310
+2 x 15 Plague Brotherhood, M - 180
+20 Rat at Arms, M - 180
+2 x 45 Slaves, M - 190
+3 x 10 Plague Disciples - 230
+10 Plague Disciples, C - 250
+3 x 8 Grenadiers - 180
+3 x 1 Weapon Team, Rotary Gun - 150
+2 x 1 Plague Catapult - 170
+4500
+
+Team Germany
+Yannic Titgemeyer � Kingdom of Equitaine
+ROOSTER_START_FACTION KoE Favour of the King
+Duke, General, Virtue of Humility, Crown of Autocrazy - 280
+Duke , Virtue of Humility, Hardened Shield, Sceptre of Power, Wizards Hood - 345
+Damsel, 4 Spells, Book of Arcane Power, Ring of Fire, Wizard Master, Divination - 520
+3 x 57 Peasent Levy, Spears, M - 436
+2 x 27 Peasent Bowmen, M - 364
+12 Brigands - 236
+2 x1 Sacred reliquary - 260
+2 x1 Siege War Machine, Trebuchet - 280
+4497
+
+Team Germany
+Thomas "Zwergnase" M�ller - Ogre Khans
+ROOSTER_START_FACTION OK Great Khagan, General, Heart-Ripper, Mammoth-Hide Cloak, Talisman of Greater Shielding, Potion of Swiftness - 540
+Khagan, BSB, Gem of Furtune - 295
+Shaman, 4 Spells, Pyromancy, Wizard Master, Sceptre of Power, Ring of Fire - 530
+Mammoth Hunter, Tusker, Iron Fist, Bluffers Helm, Dragonfire Gem, Headhunter - 435
+10x Bruiser, FCG, Flaming Standard - 886
+31x Scraplings, Musican, Spear - 258
+3x Tusker Cavalry, Musican, LA&Iron Fist, Standardbearer, Gleaming Icon - 520
+2x Yetis - 160
+1x Sabretooth Tigers - 80
+6x Mercenary Veterans, Accurate, Poisoned Attacks, Musican, Standardbearer, Brace of Ogre Pistols, Banner of Discipline - 795
+4499
+
+eam Germany
+Peter "Borgio" Ridder - Orcs & Goblins
+ROOSTER_START_FACTION O&G Orc Shaman, General, 4 Spells, Crown of Autocracy, Dispel scroll, Wizard Master, Shamanism - 575
+Cave Goblin Witch Doctor, 4 Spells, Sceptre of Power, Skullsplitter, Wizard Master, Thaumaturgy - 485
+Iron Orc Chief, BSB, Ring of Fire, Hardened shield - 270
+Cave Goblin Chief, Cave Gnasher, Lucky Shield - 120
+Cave Goblin Chief, Cave Gnasher, Lance, Shield, Dragonhelm - 152
+Cave Goblin Chief, Cave Gnasher, Shield, Dragonbane Gem - 125
+45 Cave Goblins, Bows, 3 Mad Gits, C, S, M, Banner of Discipline - 605
+45 Cave Goblins, Bows, 3 Mad Gits, M - 530
+28 Iron Orcs, C, S, M, Flaming Standard - 773
+2x Git Launcher, Orc Overseer - 200
+2x Gnasha Wrecking Team - 140
+2x Skewerer - 90
+4495
+﻿COUNTRY_TAG HUN
+Bal�zs P�sztor 4500 Pts - Undying Dynasties Army
+ROOSTER_START_FACTION UD 25 Skeleton Archers @ 332.0 Pts
+
+   Aspen Bow, Light Armour
+   1 Champion @ [20.0] Pts
+24 Skeleton Archers @ 288.0 Pts
+   Aspen Bow, Light Armour
+6 Skeleton Chariots @ 520.0 Pts
+   Light Armour, Veteran Magic Standard, Scoring
+   12 Skeleton Charioteer @ [0.0] Pts
+
+       Light Lance, Aspen Bow
+   12 Skeletal Horse @ [0.0] Pts
+1 Death Cult Hierarch @ 480.0 Pts
+   Hierophant, The Evocation, 4 Learned Spells
+   Book of the Dead [100.0]
+1 Pharaoh @ 564.0 Pts
+   General, Great Weapon, Great Aspen Bow, Heavy Armour, Flammable
+   Crown of the Pharaohs [90.0]
+   Talisman of Supreme Shielding [100.0]
+1 Tomb Architect @ 231.0 Pts
+   Paired Weapons, Flammable
+   Bronze Breastplate [35.0]
+   Charm of Cursed Iron [30.0]
+9 Shabtis @ 878.0 Pts
+   Paired Weapons, Light Armour, Standard
+   1 Champion @ [20.0] Pts
+28 Nercopolis Guard @ 726.0 Pts
+   Halberd, Light Armour, Standard
+   Icon of Relentless Company [30.0]
+   1 Champion @ [20.0] Pts
+1 Tomb Harbringer @ 305.0 Pts
+   Aspen Bow, Heavy Armour, Flammable
+   Fencer's Swords [45.0]
+   Dragonscale Helm [30.0]
+   Talisman of Shielding [10.0]
+1 Sand Scorpion @ 170.0 Pts
+   Underground Ambush
+Models in Army: 96
+Total Army Cost: 4494.0
+
+Atilla D�lczeg 4500 Pts - Warriors of the Dark Gods Army
+ROOSTER_START_FACTION WoTDG 1 Chaos Harbinger of Lust @ 490.0 Pts
+   Mark of Dark Gods (Lust), Shield, Battle Standard, Steed of Lust
+   Flaming Lance [20.0]
+   Dragonscale Helm [30.0]
+   Banner of Temptation [40.0]
+   Talisman of Shielding [10.0]
+   1 Steed of Lust @ [0.0] Pts
+
+1 Daemon Prince of Pestilence @ 1010.0 Pts
+   General, Mark of Dark Gods (Pestilence), Wizard Master, 4 Learned Spells,
+   The Shamanism
+   Waste Hardened Skin [60.0]
+   Necrotic Miasma [50.0]
+   Hardened Shield [10.0]
+   Sceptre of Power [20.0]
+   Razor Blade [10.0]
+   Lucky Charm [10.0]
+
+18 Wasteland Warriors of Pestilence @ 606.0 Pts
+   Mark of Dark Gods (Pestilence), Shield, Veteran Magic Standard
+   Banner of Filth [50.0]
+
+8 Barbarian Horseman of Lust @ 300.0 Pts
+   Mark of Dark Gods (Lust), Light Lance, Light Armour, Shield, Standard,
+   Horse
+   8 Warhorse @ [0.0] Pts
+
+1 Chimera @ 425.0 Pts
+   Breath Weapon, Regeneration (5+)
+
+4 Crusher Knights of Wrath @ 656.0 Pts
+   Mark of Dark Gods (Wrath), Chosen of Wrath, Frenzy, Lance, Shield,
+   Standard, Crusher
+   Gleaming Icon [10.0]
+   4 Crusher @ [0.0] Pts
+
+3 Dragon Centaurs of True Chaos @ 646.0 Pts
+   Mark of Dark Gods (True Chaos), Great Weapon, Light Armour
+   1 Dragon Centaur Champion @ [20.0] Pts
+
+1 Battle Shrine (Priest) of Wrath @ 260.0 Pts
+   Mark of Dark Gods (Wrath), Shrine Bearers, The Gods are Watching
+   #Wrath [0.0]
+   1 Shrine Bearers @ [0.0] Pts
+
+5 Warhounds @ 100.0 Pts
+Models in Army: 42
+Total Army Cost: 4493.0
+
+Bal�zs Bornemissza 4500 Pts - Sylvan Elves Army
+ROOSTER_START_FACTION SE 7 Pathfinders @ 310.0 Pts
+   Sylvan Blades, Longbow
+
+5 Wild Huntsmen @ 422.0 Pts
+   Frenzy, Sylvan Lance, Light Armour, Shield, Standard
+   1 Champion @ [20.0] Pts
+   6 Elven Deer @ [0.0] Pts
+
+5 Wild Huntsmen @ 402.0 Pts
+   Frenzy, Sylvan Lance, Light Armour, Shield
+   1 Champion @ [20.0] Pts
+   6 Elven Deer @ [0.0] Pts
+
+10 Dryad Skirmishers @ 218.0 Pts
+   Scoring, Skirmishers
+
+10 Sylvan Archers @ 290.0 Pts
+   Longbow, Veteran Magic Standard, Fey Arrows: Black Arrows
+   Gleaming Icon [10.0]
+
+10 Sylvan Archers @ 260.0 Pts
+   Longbow, Fey Arrows: Black Arrows
+
+10 Sylvan Archers @ 260.0 Pts
+   Longbow, Fey Arrows: Black Arrows
+
+5 Heath Riders @ 200.0 Pts
+   Sylvan Lance, Longbow, Light Armour, Ambush, Fast Cavalry
+   5 Elven Horse @ [0.0] Pts
+
+1 Treefather @ 480.0 Pts
+   Tree Singing, Impaling Roots
+   #Tree Singing [0.0]
+
+1 Treefather @ 480.0 Pts
+   Tree Singing, Impaling Roots
+   #Tree Singing [0.0]
+
+1 Druid Master @ 580.0 Pts
+   The Druidism, 4 Learned Spells
+   Bow of Wyscan [100.0]
+   Mist Walker's Mirror [70.0]
+   Sceptre of Power [20.0]
+
+1 Forest Prince - Wild Huntsman @ 598.0 Pts
+   General, Longbow, Elven Cloak, Light Armour, Shield, Fey Arrows:
+   Perforating Tips, Kindred - Wild Hunter, Frenzy
+   Helm of the Wild Hunt [40.0]
+   Hail Shot [80.0]
+   Flaming Lance [20.0]
+   Talisman of Greater Shielding [50.0]
+   1 Elven Horse @ [0.0] Pts
+
+Models in Army: 62
+Total Army Cost: 4500.0
+
+David de los �ngeles: 4500pts- Infernal Dwarfs
+ROOSTER_START_FACTION ID 20 Hobgoblins @ 210.0 Pts
+   Bow, Light Armour, Shield, Standard
+
+1 * Taurhuk Subjugator @ 490.0 Pts
+   Infernal Armour, Shield, Battle Standard
+   Bluffer's Helm [80.0]
+   Flaming Lance [20.0]
+
+1 Prophet Master @ 530.0 Pts
+   General, Wizard Master, 4 Learned Spells, The Alchemy, Infernal Armour
+   Hardened Shield [10.0]
+   Sceptre of Power [20.0]
+   Charm of Cursed Iron [30.0]
+   Talisman of Shielding [10.0]
+
+4 Taurukh Anointed @ 710.0 Pts
+   Light Lance, Heavy Armour, Shield
+   1 Champion @ [20.0] Pts
+
+1 Kadim Titan @ 600.0 Pts
+   Frenzy
+
+10 Taurukh @ 390.0 Pts
+   Light Lance, Heavy Armour, Shield, Standard
+   Gleaming Icon [10.0]
+
+1 Infernal Engine @ 480.0 Pts
+   Shrapel Guns, Daemonic Infusion
+   3 Crew @ [0.0] Pts
+
+5 Hobgoblin Wolf Riders @ 160.0 Pts
+   Bow, Light Lance, Light Armour, Shield
+   5 Wolf @ [0.0] Pts
+
+39 Infernal Warriors @ 780.0 Pts
+   Blunderbuss, Heavy Armour, Shield, Veteran Magic Standard, Musician
+   Banner of Speed [50.0]
+   1 Champion @ [20.0] Pts
+
+20 Hobgoblins @ 150.0 Pts
+   Bow, Light Armour
+
+Models in Army: 106
+Total Army Cost: 4500.0
+
+Antonio 4500 Pts - Vampire Covenant Army
+ROOSTER_START_FACTION VC 1 Vampire Count of Brotherhood of the Dragon @ 935.0 Pts
+   Brotherhood of the Dragon, Plate Armour, General, The Dead Arise, Wizard
+   Master, 2 Learned Spells, The Occultism, Shield, Mount's Protection (5+)
+   Blade of Red Thirst [75.0]
+   Talisman of Supreme Shielding [100.0]
+   Sceptre of Power [20.0]
+   Crimson Rage [130.0]
+   #The Dead Arise [30.0]
+   1 Skeletal steed @ [0.0] Pts
+
+1 Vampire Courtier of Brotherhood of the Dragon @ 570.0 Pts
+   Brotherhood of the Dragon, Plate Armour, Battle Standard Bearer, Wizard
+   Apprentice, 2 Learned Spells, The Occultism, Mount's Protection (5+)
+   Talisman of Greater Shielding [50.0]
+   Divine Icon [40.0]
+   Perfect Warrior [60.0]
+   1 Skeletal steed @ [0.0] Pts
+
+40 Ghouls @ 670.0 Pts
+8 Dire Wolves @ 116.0 Pts
+8 Dire Wolves @ 116.0 Pts
+4 Vampire Knights @ 570.0 Pts
+
+   Barding, Lance, Shield, Blood Ties (Dragon Brotherh.)
+   1 Champion @ [20.0] Pts
+   5 Undead Mount @ [0.0] Pts
+5 Vampire Knights @ 780.0 Pts
+   Barding, Lance, Shield, Standard, Blood Ties (Dragon Brotherh.)
+   Black Standard of Zagvozd [80.0]
+   1 Champion @ [20.0] Pts
+   6 Undead Mount @ [0.0] Pts
+5 Spectral Hunters @ 280.0 Pts
+   Great Weapon, Ghost Steed
+   5 Ghost Steed @ [0.0] Pts
+1 Dark Coach @ 460.0 Pts
+   Extended Chasis, Soul Syphon
+   #Soul Syphon [0.0]
+   #1-3: [0.0]
+   #4-6: [0.0]
+   #7-9: [0.0]
+   #10-12: [0.0]
+   #13+ [0.0]
+   1 Coachman @ [0.0] Pts
+
+       Great Weapon
+   1 Awakened Vampire (*) @ [0.0] Pts
+   2 Undead Mount @ [0.0] Pts
+Models in Army: 73
+Total Army Cost: 4497.0
+
+�lex Serrano 4500 Pts - The Vermin Swarm Army
+ROOSTER_START_FACTION VS 1 Vermin Daemon- Deceiver @ 945.0 Pts
+   Path of Shadows, General, 4 Learned Spells, Wizard Master, The Occultism,
+   Lightning Reflex
+
+1 Chief @ 207.0 Pts
+   Heavy Armour, Ratlock Pistol, Battle Standard
+   Hardened Shield [10.0]
+   Dragonfire Gem [15.0]
+
+19 Rats-at-Arms @ 180.0 Pts
+   Light Armour, Shield
+   1 Champion @ [20.0] Pts
+
+19 Rats-at-Arms @ 180.0 Pts
+   Light Armour, Shield
+   1 Champion @ [20.0] Pts
+
+19 Plague Brotherhood @ 290.0 Pts
+   Frenzy, Paired Weapons, Standard, Musician
+   1 Champion @ [20.0] Pts
+
+14 Plague Brotherhood @ 180.0 Pts
+   Frenzy, Paired Weapons
+   1 Champion @ [20.0] Pts
+
+14 Vermin Guard @ 310.0 Pts
+   Halberd, Heavy Armour, Shield, Veteran Magic Standard
+   The Lightning Rod [100.0]
+   1 Champion @ [20.0] Pts
+
+12 Plague Disciples @ 270.0 Pts
+   Frenzy, Plague Flail
+
+12 Plague Disciples @ 270.0 Pts
+   Frenzy, Plague Flail
+
+12 Plague Disciples @ 270.0 Pts
+   Frenzy, Plague Flail
+
+12 Plague Disciples @ 270.0 Pts
+   Frenzy, Plague Flail
+
+8 Grenadiers @ 180.0 Pts
+   Gas Globes, Heavy Armour
+
+8 Grenadiers @ 180.0 Pts
+   Gas Globes, Heavy Armour
+
+6 Gutter Blades @ 214.0 Pts
+   Paired Weapons, Throwing Weapons, Scout & Ambush
+
+6 Gutter Blades @ 214.0 Pts
+   Paired Weapons, Throwing Weapons, Scout & Ambush
+
+1 Plague Catapult @ 170.0 Pts
+   3 Crew @ [0.0] Pts
+       Frenzy
+
+1 Plague Catapult @ 170.0 Pts
+   3 Crew @ [0.0] Pts
+       Frenzy
+
+Models in Army: 164
+Total Army Cost: 4500.0
+
+Eck Krist�f 4500 Pts - Ogre Khans Army
+ROOSTER_START_FACTION OK 8 Sabretooth Tigers @ 290.0 Pts (core)
+9 Bruisers @ 891.0 Pts
+
+   Great Weapon, Heavy Armour, Scrapling Lookout, Veteran Magic Standard,
+   Musician
+   Banner of Speed [50.0]
+   1 Champion @ [20.0] Pts
+1 Shaman Master Rottenjaw @ 670.0 Pts
+   General, Rottenjaw, Wizard Master, 4 Learned Spells, The Shamanism,
+   Shamanism wizard
+   Axe-Breaker Gauntlet [40.0]
+   Crown of Autocracy [70.0]
+   Talisman of Shielding [10.0]
+   Sceptre of Power [20.0]
+1 Khan Trolleater @ 440.0 Pts
+   Trolleater, Brace of Ogre Pistols, Heavy Armour, Battle Standard,
+   Scrapling Lookout
+   Heart-Ripper [60.0]
+   Yeti Furs [40.0]
+1 Rock Aurochs @ 480.0 Pts
+   Frenzy, Ogre Crossbow
+   1 Huntsman @ [0.0] Pts
+1 Rock Aurochs @ 480.0 Pts
+   Frenzy, Ogre Crossbow
+   1 Huntsman @ [0.0] Pts
+4 Tusker Cavalry @ 744.0 Pts
+   Great Weapon, Heavy Armour, Standard
+   Dragonskin Banner [80.0]
+   4 Tusker @ [0.0] Pts
+1 Kin-Eater @ 200.0 Pts
+4 Yetis @ 300.0 Pts
+   Paired Weapons
+Models in Army: 31
+Total Army Cost: 4495.0
+
+Juan Jesus Cortez 4500 Pts - Orcs & Goblins Army
+ROOSTER_START_FACTION O&G 1 Goblin Chief @ 124.0 Pts
+   Goblin Chief, Bow, Light Armour, Shield, Battle Standard
+
+1 Forest Goblin Witch Doctor Master @ 520.0 Pts
+   Forest Goblin Big Shaman, 4 Learned Spells, The Pyromancy
+   Book of Arcane Power [100.0]
+   Maza's Zappin Bow [60.0]
+
+1 Goblin Chief @ 132.0 Pts
+   Goblin Chief, Lance, Light Armour, Shield
+   1 Wolf @ [0.0] Pts
+
+1 Goblin King @ 284.0 Pts
+   General, Goblin King, Green Tide, Bow, Heavy Armour
+   Crown of Autocracy [70.0]
+   Crown of the Cavern King [80.0]
+
+38 Cave Goblins @ 424.0 Pts
+   Cave Goblins, Bows, Musician, Scoring
+   2 Mad Git @ [100.0] Pts
+
+38 Cave Goblins @ 424.0 Pts
+   Cave Goblins, Bows, Musician, Scoring
+   2 Mad Git @ [100.0] Pts
+
+5 Feral Orc Boar Riders @ 140.0 Pts
+   Frenzy, Light Lance
+   5 War Boar @ [0.0] Pts
+
+5 Feral Orc Boar Riders @ 140.0 Pts
+   Frenzy, Light Lance
+   5 War Boar @ [0.0] Pts
+
+3 Grotlings @ 80.0 Pts
+   Throwing Weapons
+
+3 Grotlings @ 80.0 Pts
+   Throwing Weapons
+
+8 Trolls @ 596.0 Pts
+   Trolls
+
+8 Trolls @ 596.0 Pts
+   Trolls
+
+1 Gargantula @ 480.0 Pts
+   8 Forest Goblin Crew @ [0.0] Pts
+       Light Lance, Bow
+
+1 Gargantula @ 480.0 Pts
+   8 Forest Goblin Crew @ [0.0] Pts
+       Light Lance, Bow
+
+Models in Army: 112
+Total Army Cost: 4500.0
+﻿COUNTRY_TAG IRL
+Ciar�n Dunne (Captain) - Vermin Swarm
+ROOSTER_START_FACTION VS 
+Magister, master wizard, 3 extra spells, plague patriarch, shamanism, book of arcane power 520
+Tyrant on litter General, hardened shield, crown of autocracy 320
+Chief, Bsb, ring of fire 210
+2 x 50 slaves M 210
+50 slaves 190
+15 monks M, C 200
+2 x 15 monks 160.
+3 x 13 grenadiers 290
+3 x 10 plague disciples 230
+2 x 9 plague disciples 210
+2x1 Verminous Artillery - Plague catapult 170
+
+Total 4500
+
+Colin Power Saurian Ancients
+ROOSTER_START_FACTION SA Cuatl lord, General, bsb, Alchemy, unconquerable will, book of arcane power, 770
+Warlord on raptor, armour of destiny, fleshrender, 490
+Veteran on raptor, duskstone, hardened shield, sword of might, 370
+Skink priest, druidism, jade staff, 170
+2x10 Saurian Warriors 170
+30 Skink Braves, 3 caiman, musician, 560
+2x1 spearbacks 120
+2x10 skink hunters, vanguard, blowpipes, 200
+7 chameleons 180
+Taurosaur 450
+Taurosaur engine of the gods 530
+
+4500
+
+Stephen Coleman - Daemonic Legions
+ROOSTER_START_FACTION DL 
+Courtesan of Lust, General, 4 Spells, Lash of Lust, Shackles of Reality, Black Orb, Wizard Master, Aspect
+Clawed Caress, Divination, 1240
+Harbinger of Lust, BSB, 1 Spell, Barbed Claws, Blissful Bindings, Token of Lust, Wizard Apprentice, Aspect
+Dance of Death, Divination, 500
+15 Sirens, M, S, 280
+10 Slaughterers, M, S, 250
+24 Sirens, FC, War Banner, Aspect Clawed Caress, 600
+2 x 5 Mounted Sirens, S, 200
+2 Clawed Fiends, 220
+Blood Chariot, 330
+Blazing Chariot, 270
+3 Crusher Cavalry, FC, Gleaming Icon, 410
+4500
+
+Fergus Finch Dwarven Holds
+ROOSTER_START_FACTION DH Characters
+
+King: Army General, Shield, HW, , Runes of Destruction, Fury, 2x Iron, Smashing, Steel 500
+Thane: BSB: Shield, Runic Standard of Shielding, Rune of Dragon's Breath, rune of the forge.336
+Runic Smith: Shield, Rune of Denial, Rune of Dragon's Breath Battle Rune of Reckoning, Gleaming, Swift Striking 399
+Anvil of Power: Rune of Resolve, Rune of Shattering, Rune of Storms 300
+
+Core
+29 Greybeards, Shield, HW, FC 716
+25 Clan Warriors: Shield, HW, FC, 440
+
+Special
+2 x Vengeance Seeker 120
+21 Deep Watch, FC, War Standard 588
+
+Clans' Thunder
+Steam Bomber 200
+
+Engines of War
+Organ Gun, Flaming Shot 290
+Catapult 220
+Cannon 270
+4499
+
+Marc O'Maoldomhnaigh - High Born Elves
+ROOSTER_START_FACTION HE 
+Commander, Master of Canreig Tower, Battle Standard Bearer, Heavy Armour, Shield, 4x Alchemy spell,Dragon Mantle, Spear of the Blazing Dawn, 584
+High Prince, Royal Huntsman, Great Weapon, Heavy Armour, Lion Chariot Mount, Longbow, General,Bluffer's Helm, Talisman of Supreme Shielding 732
+
+10x Archer, M, 200
+10x Archer, 180
+3* 5 Highborn Lancer 250
+2* Fire Phoenix 380
+24x Flame Warden, FCG, Flaming Standard 751
+3 x Sea Guard Reaper 180
+
+Denis Coffey - Kingdom of equitaine
+ROOSTER_START_FACTION KoE 
+Blessing of the King
+Duke :General, humility, hardened sheild, crown of autocracy, 290
+Duke : humility 210
+Damsel : wizard master, 4 spells, Shamanism, ring of fire 420
+3 x 59 Peasants : FC 492
+58 Peasants : FC 484
+2 x 10 Bowmen : M 160
+2 x 5 Yeomen 110
+2 x 1 Sacred reliquary 260
+2 x 1 Treb 280
+
+Thibault Rigolet - Vampire covenant
+ROOSTER_START_FACTION VC Count on Colossal Zombie Dragon : General, Wizard Apprentice, 1 Spell, The Dead Arise, Von Karnstein, Storm Caller, Divine Icon, Blade of Red Thirst, Evocation 1175
+Necromancer : Wizard Apprentice, Evocation, 1 Spell, Dispel scroll 260
+Necromancer : Wizard Apprentice, Evocation, 1 Spell, wand of stability 200
+3x 21 Zombie : Musician, 136
+20 Zombies : 110
+3x 10 Ghouls : 130
+Altar of Undeath : Dark Tome, 460
+Altar of undeath 400
+2x5 wraith 180
+4 winged reapers, halberd 736
+
+Total army : 4499
+
+Vivion Grisewood - Beastherds
+ROOSTER_START_FACTION BH 
+Beast Lord : Army General, Great Weapon, Heavy Armour, Razortusk Chariot Mount, Shield, Bluffer's Helm Crown of Horns, Talisman of Supreme Shielding 664
+Beast Chieftain : Battle Standard Bearer, Beast Axe, Raiding Chariot mount, Shield, Totem Bearer Armour of Fortune, Ring of Fire, Throwing Weapons. 470
+Soothsayer, 3 extra spells, wizard master, Raiding Chariot Mount, Book of Arcane Power, Gourd of Beetles,Talisman of Greater Shielding. Shamanism 635
+
+2 x 1 Raiding Chariots 130
+1 x 17 Wildhorn Herd Musician, Standard, Paired Weapons, Throwing Weapons, Banner of Discipline, Ambush 333
+3 x 13 Wildhorn Herd Ambush, Throwing Weapons, paired weapons 202
+
+2 x 5 Centaurs: Paired Weapons 160
+2 x 5 Gargoyles 140
+2 x 4 Minotaur Paired Weapons 340
+Razortusk Chariot 250
+
+COUNTRY_TAG ITA
+Luca Gulli, Coach
+
+Alberto Petrosino - Captain - Daemon Legions - Polytheist Army
+ROOSTER_START_FACTION DL Scourge of Wrath, General, Eternal Fury, Eternal Sword, Shackles of Reality, Elixyr of souls - 1100
+Harbringer of Pestilence, Bsb, 2 Spells, Blight Fly, Nauseating Aurea, Wizard Apprentice, Bloated Putrefaction, Divination - 650
+18x Tallymen, M, C - 452
+10x Horrors, M, C - 340
+10x Horrors, M, C - 340
+5x Furies, Wrath - 140
+5x Furies, Wrath - 140
+5x Crusher Cavalry, M, C, - 620
+5x Blight Flies, C, S, Banner of Speed - 710
+4492
+
+Simone Cucuzza - Dwarven Holds
+ROOSTER_START_FACTION DH King, General, War Throne, Shield, Rune of Destruction, Rune of Might (x2), Rune of Steel - 790
+Runic Smith, Shield, Rune of Gleaming, Rune of Resilience, Rune of Resolve - 239
+Anvil of Power, Rune of Storms, Rune of Shattering, Rune of Resolve - 300
+25x Greybeards, Throwing Weapons, Shield, M, C, S, Runic Standard of Swiftness - 770
+10x Greybeards, Shield, Vanguard - 220
+10x Clan Warriors, Shield - 140
+20x Forge Wardens, M, C - 600
+Steam Bomber - 200
+2x Steam Attack Copters, Skirmish - 300
+2x Steam Attack Copters, Skirmish - 300
+Field Artillery, Catapult, Rune Crafted - 320
+Field Artillery, Catapult, Rune Crafted - 320
+4499
+
+Lorenzo Martinelli - Highborn Elves
+ROOSTER_START_FACTION HE Mage, General, Asfad Scholar Prince, 4 Spells, Dispell Scroll, Wizard Apprendice, Pyromancy - 530
+Commander, BSB, Master of Carneig Tower, 4 Spells, Shield, Spear of Blazing Dawn, Shielding Scroll, Potion of Swiftness, Wizard Apprendice, Druidism - 564
+22x Citizen Archers, M, S, C, Icon of Relentless Company - 486
+5x Highborn Lancers, M - 270
+5x Elein Reavers - 180
+5x Elein Reavers, Bow - 190
+Sea Guard Reaper - 180
+Sea Guard Reaper - 180
+Sea Guard Reaper - 180
+9x Queen's Guard - 252
+28x Sword Masters, S, M, C, Stalker's Standard - 830
+9x Knights of Ryma, M, S, War Banner of Ryma - 656
+4498
+
+Francesco Leoni - Infernal Dwarvves
+ROOSTER_START_FACTION ID Overlord, General, Shield, Dragon Mantle, Onyx Hammer, Potion of Swiftness, Ring of Dessication - 526
+Vizier, BSB, Infernal Weapon, Banner of Speed, Crown of Scorn, Dusk Stone, Hardened Shield - 380
+Hobgoblin Chieftain: Wolf, Light Armour, Shield - 138
+Hobgoblin Chieftain: Wolf, Shield - 134
+29x Infernal Warriors, Shield, Blunderbuss, M - 503
+29x Infernal Warriors, Shield, Blunderbuss, M - 503
+20x Hobgoblins, M - 130
+28x Immortals, Infernal Weapon, Shield, C, M, S, Flaming Standard - 825
+6x Kadim Incarnates, C - 680
+6x Kadim Incarnates, C - 680
+4499
+
+Gianluca Carapellese - Empire of Sonnstahl
+ROOSTER_START_FACTION EoS Prelate, General, Altar of Battle, Barding, Crown of Autocracy, Hardened Shield - 690
+Wizard, 4 spell, Ring of Fire, Dispel scroll, Wizard Master, Pyromancy - 530
+Marshal, BSB, Great Weapon, Blessed Armor of frederick the great - 238
+40x Heavy Infantry, Spears, M, C, S - 460
+10x State Militia, Skirmish, Bow - 130
+10x State Militia, Skirmish, Bow - 130
+5x Electoral Cavalry, Shields, M - 210
+5x Electoral Cavalry, Shields, M - 210
+37x Imperial Guard, M, C, S, Rending Banner - 791
+Imperial Artillery, Mortar - 200
+Imperial Artillery, Cannon - 260
+Steam Tank - 440
+Arcane Engine, Arcane Shield - 280
+4499
+
+Luigi "Giggino" Rinaldi - Dread Elves
+ROOSTER_START_FACTION DE Dread Captain, General, Cult of Nabh, Manticore, Heavy Armour, Lance, Shield, Midnight Cloack - 491
+Cult Priest, BSB, Cult of Nabh, Divine Altar, Executioner's Blade, Aether Icon, Crown of Scorn, Lucky Shield - 715
+30x Dread Legionnaires, Spears, M, C, S - 540
+35x Dread Legionnaires, M, C, S, Banner of Discipline - 595
+Divine Altar, Light Lance - 350
+28x Executioners, M, C, S, Stalker's Standard - 828
+5x Harpies - 130
+5x Harpies - 130
+Kraken - 360
+Kraken - 360
+449
+
+Andrea " Manfro " Manfroni - Ogre Khans
+ROOSTER_START_FACTION OK Shaman Apprentice, General, 4 Spells, Great Weapon, Sceptre of Power, Crown of Autocracy, Wizard Apprendice, Pyromancy- 492
+Khan, BSB - 260
+3x Bruisers - 165
+3x Bruisers - 165
+9x Bruisers, M, C, S, Flaming Standard - 798
+7x Mercenary Veterans, Poisoned Attacks, Swiftstride, Brace of Ogre Pistols, M - 870
+4x Tusker Cavalry, Iron Fist, M, S, Gleaming Icon - 670
+2x Yeti - 160
+2x Yeti - 160
+Frost Mammoth, Ogre Crossbow (2x) - 380
+Frost Mammoth, Ogre Crossbow (2x) - 380
+4500
+
+Giuseppe Gaudiano - Saurian Ancients
+ROOSTER_START_FACTION SA Cuatl Lord, General, BSB, Ancient Plaque, Ring of Fire, Ancient Knowledge, Divination - 820
+Skink Priest, Druidism - 130
+Skink Priest, Druidism - 130
+20x Skink Braves, 2x Add Caiman, M - 390
+20x Skink Braves, 2x Add Caiman, M - 390
+20x Skink Braves, 2x Add Caiman, M - 390
+2x Weapon Beasts, Salamander - 300
+2x Weapon Beasts, Spearback - 240
+2x Weapon Beasts, Spearback - 240
+Taurosaur, Engine of the Ancients - 530
+Taurosaur, Great Bow - 470
+Taurosaur, Great Bow - 470
+4500
+
+﻿COUNTRY_TAG LVA
+Wonderman - Konstantin Kafarov - Saurian Army
+ROOSTER_START_FACTION SA
+Characters 40 %: 1640 > 36,4%
+Core 20%: 990 > 22%
+Special: 528 > no limit
+Jungle Guerillas 25%: 480> 10,6%
+Thunder Lizards 35%: 860 > 19,1%
+
+820 - Cuatl Lord, General, Level 4, The Alchemy/The Pyromancy , Battle Standard, D: Wellspring of Power,
+Essence of Free Mind, Ring of Fire
+600 - Firstborn Warlord, Great Weapon, Glitering Cuirass, Divine Icon, Talisman of Supreme Shielding,
+Raptor
+220 - Skink Priest, Wizard Apprentice, 1 Level, The Druidism, Skink Palanquin, Jade Staff
+590 - 25 Saurian Warriors, FCG, No Totem Animal, Veteran Magic Standard, Flaming Standard
+200 - 15 Skink Braves, Bow, Champion
+200 - 15 Skink Braves, Bow, Musician
+240 - 2x2 Weapon Beasts - Spearback
+330 - Stygiosaur
+530 - Taurosaur with Godly Engine
+528 - 6 Caimans, Great Weapon
+
+Total Army Cost: 4498.0
+
+"Conjurer" - Sergey Vishnyakov - The Vermin Swarm
+ROOSTER_START_FACTION VS 
+Points of Characters: 37% : 1699 < 1800
+Points of Core: 25% : 1150 > 1125
+Special: 10%: 460, no limit
+Tunnel Gunners: 26%: 1185 < 1350
+Built and Bred: 11%: 510 < 1350
+Special, no limit
+
+386 - Tyrant, The Doom Blade, Heavy Armour, Shield
+833 - Plague Prophet, General, Plague Pendulum, Cauldron of Blight, Dragonfire Gem, Crown of
+Autocracy, Wizard Apprentice, The Shamanism, Halberd
+270 - Chief, BSB, Heavy Amour, Hardened Shield, Charm of Cursed Iron, Stalker's Standard
+210 - Rakachit Machinist, Heavy Armour, Eye of the Storm
+
+180 - 20xRats-at-Arms, Spear, Light Armour, Shield
+180 - 20xRats-at-Arms, Spear, Light Armour, Shield
+500 - 35xPlague Brotherhood, FCG
+290 - 15xVermin Guard, Veteran Magic Standard, The Lightning Rod
+
+90 - 2xRat Swarm
+90 - 2xRat Swarm
+180 - 8xGrenadiers
+250 - Lightning Cannon
+250 - Lightning Cannon
+140 - Meat Grinder
+140 - Meat Grinder
+150 - Rotary Gun
+355 - 2xThunder Hulks
+Total Roster Cost: 4494
+
+Dark Madness - Sergey Medvedev - Ogre Khan Army
+ROOSTER_START_FACTION OK Characters 40 %: 1168 > 25,9%
+Core 25%: 1126 > 25,05%
+Special: 640 > no limit
+Powder Keg 25%: 600 > 13,3%
+Chained Beasts 30%: 960 > 21,36%
+
+718 - Shaman Master, General, Hellfist, Wizard Master, 3 Learned Spells, The Thaumaturgy, Iron Fist, Ring of Fire, Talisman of Shielding
+450 - Mammoth Hunter, Trolleater, Hunting Spear, Iron Fist, Light Armour, Tusker, Light Troops, Bluffer's Helm
+165 - 4x3 Bruisers
+466 - 6 Tribesmen, FCG, Iron Fist, Light Armour, FCG
+320 - 2x2 Tusker Cavalry, Iron Fist
+300 - 2x1 Thunder Cannon
+480 - 2x1 Rock Aurochs, Hunting Spear
+
+Total Army Cost: 4494.0
+
+WFilinn - Roman Harchevnikov - Vampire Covenant Army
+ROOSTER_START_FACTION VC 
+Characters 40 %: 930 > 20,6%
+Core 20%: 1000> 22,2%
+Special: 940 > no limit
+The Suffering 20%: 360 > 8%
+Swift Death 30%: 1270> 28,2%
+
+610 - Vampire Count, Von Karnstein, General, The Dead Arise, Wizard Apprentice, Level 1, The Evocation,
+Heavy Armour, Shield
+Dragonscale Helm, Storm Caller, The Dead Arise
+160 - Necromancer Apprentice, Level 1, The Evocation
+160 - Necromancer Apprentice, Level 1, The Evocation
+360 - 31 Skeletons, Spear, Veteran Magic Standard, FCG, War Standard
+320 - 30 Skeletons, Spear, FCG
+110 - 20 Zombies
+210- 30 Zombies, Standard, Musician
+400 - 1 Altar of Undeath
+460 - 1 Altar of Undeath, Dark Tome
+80 - 2 Great Bats
+360 - 10 Wraiths
+270 - 3 Vampire Knights
+500 - 2xShrieking Horror
+Total Army Cost: 4500.0
+
+Evgeny Kovrov_White Boy_KoE
+Characters 40 %: 1784 > 39,6%
+Core 25%: 1189 > 26,4%
+Special: 1136 > no limit
+Abn Gallantry 40%: 390 > 8,6%
+
+Favour of the King
+605 - Duke, General, Questing Oath, Virtue of Audacity, Barded Warhorse, Fleshrender, Crusader's Helm,
+Shield, Divine Icon
+555 - Damsel, Wizard Master, Path of Shamanism, Barded Warhorse, Level 4, Dispel Scroll, Gem of
+Fortune
+345 - Paladin, Battle Standard Bearer, Virtue of Daring, Barded Warhorse, Hardened Shield, Lucky Charm,
+Banner of Speed
+279 - Paladin, Barded Warhorse, Dragon Lance, Shield, Potion of Swiftness
+260 - 5 Knights Aspirant, Standard Bearer
+280 - 5 Knights Aspirant, Musician, Standard Bearer
+649 - 11 Knights of the Realm, FCG, Flaming Standard
+390 - 3 Pegasus Knights, Skirmish
+576 - 7 Knights of the Grail, Standard Bearer
+280 - 2xTrebuchet
+Total: 4500
+
+Vitaly Marina_Ragnor_WotDG
+Characters 45 %: 1555 > 34%
+Core 20%: 900 = 20%
+Special: 2040 > 45,3%
+Empowered 35%: 0
+
+620 - Chaos Lord - Characters, General, mark of Wrath, Lucky Shield, Waste Hardened Skin, Burning
+Blade of Chaos, Potion of Strength
+360 - Chaos Harbinger - Characters, BSB , mark of True Chaos, Shield, Nine-Tailed Standard
+575 - Sorcerer - Characters, mark of Change, Wizars master, 4 spells, Essence of a Free Mind, Hardened
+Shield, Shamanism & Alchemy
+180 - 2 x 5 Fallen of Wrath: Core
+130 - 2 x 8 Warhounds: Core
+140 - 2 x 20 Barbarians: Core
+220 - 1 Wasteland Chariot � Special, mark of True Chaos
+240 - 2 x 1 Battle Shrine � Special, mark of True Chaos
+340 - 10 Chosen � Special, mark of Wrath, Halberd
+360 - 10 Chosen � Special, mark of Wrath, C, Halberd
+320 - 2 � 10 Chosen � Special, mark of of Wrath, C, Paired Weapons
+Total: 4495
+
+Sergey Kovrov_DM Crew,_HE
+Characters 40 %: 998 > 22%
+Core 25%: 1136 > 25%
+Special: 1302 > 28%
+Peacekeepers 15%: 660 > 14%
+Elder Service 30%: 888 > 20%
+Ancient Allies 20%: 0 = 0%
+
+690 - Mage, Wizard Master, 4 spells (Divination), Asfad Scholar, Gleaming Robe, Book of Arcane Power
+308 - Commander, BSB, Dragonforged Armor, Shield, Dragon Mantle, Charm of Cursed Iron
+636 - 24 Sea Guards, FCG
+250 - 2*5 Highborn Lancers
+100 - 2*1 Giant Eagle
+782 - 26 Lion Guards, FCG, Stalker's Standart
+235 - 2*9 Sword Masters
+252 - 9 Queen Guards
+240 - 2*1 Sky loops, Sky Reaper
+180 � Sea Guard Reaper
+Total: 4498
+
+Flavus - Andrey Vilkov - Sylvan Elves Army
+ROOSTER_START_FACTION SE 
+Characters 40%: 1531 > 34%
+Core 25%: 1126 > 25%
+Special: 100 > no limit
+Unseen Arrows 35%: 780 > 17%
+Fleet of Foot 45%: 960> 21,3%
+
+880 - Treefather Ancient, General, The Druidism, 4 Spells, Book of Arcane Power, Wizard Master
+285 - Chieftain, Pathfinder, Longbow, LA, Hawthorn Point, Ring of Fire
+366 - Chieftain, BSB, Forest Guardian, LA, Shield, Sacred Spear of Cadaron, Dragonscale Helm
+472 - 18 Sylvan Archers, M
+654 - 39 Forest Guard, FCG, War Standard
+320 � 2 x 8 Blade Dancers
+320 - 5 Wild Huntsmen, Shield
+100 - 1 Forest Eagle
+390 � 2 x 9 Pathfinders
+Total Army Cost: 4497.0
+
+﻿COUNTRY_TAG LUX
+Charles "kiri" OIKNINE - Dwarven holds (c)
+ROOSTER_START_FACTION DH 
+*King on shiled bearer, General, Shield Plate armour, Runic Weapon:rune of might x2, Rune of destruction, Runic Talisman: rune of shielding x3 - 620
+*Runic Smith, Battle runes x3(Bound Spell), rune of gleaming, rune of resilience, rune of resolve, Rune of the Forge, Plate armour, Shield - 249
+*Anvil of Power, Anvil runes, rune of storms, rune of shattering, rune of Gleaming - 300
+*3x10 Clan Warrior, Musician, Throwing Weapons - 160
+*26 Greybeards, Musician, Standard Bearer, Champion, Shield, Magic standard, Gleaming Icon - 654
+*2x2 Steam Copter, attack copter, Skirmish - 300
+* 1 Vengeance Seeker - 120
+*18x Forge Warden, musician, Standard Bearer, Runic Standard of Swiftness - 594
+*2x1 Flame Cannon, Rune Crafted - 170
+*2x 1 Canon - 270
+Total: 4497
+
+S�bastien "Wally" WOILLARD - Infernal Dwarves
+ROOSTER_START_FACTION ID *Wizard, General, Wizard Master, 4 spells , Essence of a free mind, Hardened Shield, Alchemy/ Pyromancy - 520
+*Vizier, BSB, Shield - 204
+*16x Citadel Guard, Flintlock Axe, M - 514
+* 2x 10 Citadel Guard, Flintlock Axe, M - 310
+*2x 1 Infernal Artillery, Rocket Battery - 190
+*2x 1 Hobgoblin Bolt Thrower - 90
+*1x 5 Hobgoblin Wolf riders, Shield -140
+*2x 5 Tauruhk, Shield, M - 190
+*1x Infernal Engine, Steam Hammers - 460
+*2x 5 Kadim Incarnates - 550
+Total : 4498 points
+
+Jeremy PAYEN - Vampire Covenant
+ROOSTER_START_FACTION VC *Count, General, Colossal Zombie Dragon, 1 Spell, Divine Icon, Blade of Red Thirst, The Dead Arise, Von Karnstein, Storm Caller, Wizard Apprentice, Evocation - 1175
+*Necromancer, 1 Spell, Dispel Scroll, Wizard Apprentice, Evocation - 260
+*Necromancer, 1 Spell, Wand of Stability, Wizard Apprentice, Evocation - 200
+*3x 20 Zombies, Musician - 130
+*1x 21 Zombies, Musician - 136
+*1x 20 Skeletons, Musician, Champion - 200
+*1x 20 Skeletons, Musician - 180
+*1x Altar of Undeath, Dark Tome - 460
+*1x Altar of Undeath - 400
+*2x 5 Wraiths - 180
+*1x 4 Winged Reapers, Halberd - 736
+Total: 4497
+
+Quentin BRETON - Highborn Elves
+ROOSTER_START_FACTION HE High Prince, General, Ancient Dragon, Divine Icon, Giant Sword, Lucky Shield, Lucky Charm - 1150
+Mage, Elven Horse, Asfad Scholar, 4 Spells, Essence of free mind, Ring of Fire, Wizard Master,Pyromancy and Divination- 640
+*8 x Highborn Lancers, Champion, Musician, Standard Bearer, Banner of Discipline - 483
+*7 x Highborn Lancers, Musician - 362
+*10 x Sea Guard, Ambush - 300
+*3x 5 Knights of Ryma, Musician - 360
+*2x 1 Skysloop, Sky reaper - 240
+Total: 4495
+
+Hoang "Peax" NGUYEN - Sylvan Elves
+ROOSTER_START_FACTION SE *Druid, General, wizard master, shamanism, 4 spells, crown of autocracy, dispel Scroll, bound spell tree singing - 590
+*Chieftain, BSB, Pathfinder, longbow, Hawthorn point, Ring of fire, light armour, shield - 341
+*2x11 Sylvan Archers, Musician - 304
+*2x8 Dryads - 170
+*1x5 Heath riders, longbow and fast cavalry - 180
+*2x1 Forest eagle - 100
+*1x4 Thicket Beasts - 315
+*2x3 Kestrels Knights, Shield - 307
+*2x9 Blade Dancers - 350
+*1x10 Sylvan sentinels - 310
+*1x9 Sylvan sentinels, scouts - 300
+Total: 4 498
+
+William BRETON - Daemon Legion
+ROOSTER_START_FACTION DL *Scourge of Wrath, General, onslaught, heart seeker, shackles of reality, obsidian horn - 1020
+*Demon Prince of Wrath, fly, eternal sword, iron hide - 765
+*1x25 Slaughterers, onslaught, champion, musician, standard bearer, war standard - 725
+*2x10 Slaughterers, onslaught - 230
+*2x1 Blood Chariot - 330
+*1x5 Crushers, onslaught, champion, musician, standard bearer, aether icon - 725
+*1x5 Furies of Wrath - 140
+Total: 4 495
+
+Renaud VILLENEUVE - Orcs and Goblins
+ROOSTER_START_FACTION O&G * Iron Orc Chief, General, Waaargh!, shield, Crown of Autocracy , Dragonscale helm 290
+* Forest Goblin Witch Doctor, Master, 4 Learned Spells, The Pyromancy, ring of fire, 410
+* Common Goblin Chief, Shield, Battle Standard, bow 124
+* Cave Goblin Chief: Cave Gnasher, lance, Shield, Dragonfire gem, 137
+* Cave Goblin Chief: Cave Gnasher, Lance, Shield, pan of protection pinchin, 152
+* Cave Goblin Chief: Cave Gnasher, Lance, Hardened shield, bow 136
+* 32 Cave Goblins- M, 2 mad gits, Bows 376
+* 45 Cave Goblins- M, 3 mad gits, Bows 530
+* 20 common orcs M, Bows 220
+* 29 iron orcs- M, C, B banner of speed 804
+* 2x1 Gargantula, 480
+* 2x1 Greenhide Catapult - Git Launcher, 180
+Total : 4499
+
+Enguerran GEORGES - Ogre Khans
+ROOSTER_START_FACTION OK *Mammoth hunter , General, wildheart , Tusker, ironfist, Glittering cuirass, Aurochs charm, talisman of shielding -430
+*Mammoth hunter , BSB , Tusker , Trolleater, ironfist, Bluffer's helm -500
+*Shaman , wizard master, pyromancie, 4 spells , book of arcane power, ring of fire -610
+*19 scraplings , musician, scrapling foreman -164
+*15 scraplings , musician -100
+*15 scraplings -80
+*7 tribesmen , musician -396
+*3 tribesmen -160
+*2 Tusker cav , -300
+*2 Tusker cav , iron fist -320
+*2 Tusker cav , iron fist -320
+*Sabertooth tiger -80
+*Sabertooth tiger -80
+*Roch auroch, Ogre crossbow -480
+*Roch auroch , Ogre crossbow -480
+Total: 4500
+﻿COUNTRY_TAG MLT
+Vampire Covenant Roster - Danielle Cappitta
+ROOSTER_START_FACTION VC 
+Midnight Aristocracy (1#, 870 pts)
+1 Vampire Count, 870 pts (General, Plate Armour, Shield, The Dead Arise, Awaken (Zombies), Evoked
+(1), Fear, Inspiring Presence, Undead, Vampiric (6+))
+1 Brotherhood of the Dragon Bloodline
+1 Crimson Rage
+1 Ogre Sword
+1 Bluffer's Helm
+1 Divine Icon
+1 Spectral Steed (Ethereal, Fly (8), Mount's Protection (6+), Undead)
+
+Necromancer (1#, 410 pts)
+1 Necromancer, 410 pts (Wizard Apprentice, Learned Spells x4, Awaken (Zombies, Skeletons), Channel,
+Gates of the Netherworld, Light Troops, Undead)
+1 Unholy Tome
+1 Ring of Fire
+1 Path of Evocation
+
+Dire Wolves (8#, 116 pts)
+8 Dire Wolves, 116 pts (Ashes to Ashes, Evoked (D3+4), Swiftstride, Thunderous Charge, Undead,
+Vanguard)
+
+Dire Wolves (8#, 116 pts)
+8 Dire Wolves, 116 pts (Ashes to Ashes, Evoked (D3+4), Swiftstride, Thunderous Charge, Undead,
+Vanguard)
+
+Dire Wolves (5#, 80 pts)
+5 Dire Wolves, 80 pts (Ashes to Ashes, Evoked (D3+4), Swiftstride, Thunderous Charge, Undead,
+Vanguard)
+
+Bat Swarm (2#, 120 pts)
+2 Bat Swarm, 120 pts (Ashes to Ashes, Distracting, Evoked (D6+4), Fly (6), Skirmisher, Storm of Wings,
+Undead, Unstable)
+
+Bat Swarm (2#, 120 pts)
+2 Bat Swarm, 120 pts (Ashes to Ashes, Distracting, Evoked (D6+4), Fly (6), Skirmisher, Storm of Wings,
+Undead, Unstable)
+
+Skeletons (23#, 250 pts)
+22 Skeletons, 250 pts (Musician, Standard Bearer, Light Armour, Shield, Ashes to Ashes, Evoked (D6+4),
+Scoring, Undead)
+1 Champion (Light Armour, Shield, Ashes to Ashes, Undead)
+
+Zombies (30#, 210 pts)
+30 Zombies, 210 pts (Musician, Standard Bearer, Ashes to Ashes, Evoked (3D6), Scoring, Undead)
+
+Cadaver Wagon (1#, 240 pts)
+1 Cadaver Wagon, 240 pts (Ashes to Ashes, Bring Out Your Dead, Cart, Endless Horde, Evoked (1),
+Impact
+Hits (D6), Mount's Protection (5+), Necromantic Aura, Regeneration (4+), Undead, Wake the Dead)
+
+1 Cadaver Master
+1 Shambling Horde (Random Attacks (2D6))
+
+Vampire Knights (5#, 655 pts)
+4 Vampire Knights, 655 pts (Musician, Standard Bearer, Brotherhood of the Dragon, Lance, Plate Armour,
+Shield, Evoked (1), Fear, Scoring, Undead, Vampiric (6+))
+1 Champion (Brotherhood of the Dragon, Lance, Plate Armour, Shield, Fear, Undead)
+5 Undead Mount (Barding, Mount's Protection (6+), Swiftstride)
+1 Flaming Standard
+
+Vampire Knights (5#, 640 pts)
+4 Vampire Knights, 640 pts (Musician, Standard Bearer, Brotherhood of the Dragon, Lance, Plate Armour,
+Shield, Evoked (1), Fear, Scoring, Undead, Vampiric (6+))
+1 Champion (Brotherhood of the Dragon, Lance, Plate Armour, Shield, Fear, Undead)
+5 Undead Mount (Barding, Mount's Protection (6+), Swiftstride)
+1 War Standard
+
+Barrow Knights (10#, 490 pts)
+9 Barrow Knights, 490 pts (Musician, Standard Bearer, Lance, Heavy Armour, Shield, Ashes to Ashes,
+Evoked (D3+2), Lethal Strike, Magical Attack, Multiple Wounds (2, Infantry, War Beast, Cavalry), Scoring,
+Undead)
+1 Champion (Lance, Heavy Armour, Shield, Ashes to Ashes, Lethal Strike, Undead)
+10 Skeletal Steed (Ethereal, Mount's Protection (5+))
+
+Wraiths (5#, 180 pts)
+5 Wraiths, 180 pts (Great Weapon, Armour Piercing (6), Ashes to Ashes, Ethereal, Evoked (1), Light
+Troops, Reaper, Terror, Undead)
+
+Daemon Legions Roster - Brian
+ROOSTER_START_FACTION DL Courtesan of Lust (1#, 1260 pts)
+1 Courtesan of Lust, 1260 pts (General, Daemon of Lust, Wizard Master, Learned Spells x4, Dance of
+Death, Armour Piercing (1), Channel, Daemonic Instability, Innate Defence (5+), Inspiring Presence,
+Otherworldly, Stomp (D6), Swiftstride, Terror, Towering Presence)
+1 Lash of Lust
+1 Blissful Bindings
+1 Token of Lust
+1 Path of Divination
+
+Sirens (20#, 490 pts)
+19 Sirens, 490 pts (Musician, Standard Bearer, Daemon of Lust, Clawed Caress, Armour Piercing (1),
+Daemonic Instability, Otherworldly, Scoring)
+1 Champion (Daemon of Lust, Clawed Caress, Armour Piercing (1), Daemonic Instability, Otherworldly)
+
+Sirens (20#, 470 pts)
+20 Sirens, 470 pts (Musician, Standard Bearer, Daemon of Lust, Clawed Caress, Armour Piercing (1),
+Daemonic Instability, Otherworldly, Scoring)
+
+Clawed Fiends (6#, 760 pts)
+6 Clawed Fiends, 760 pts (Daemon of Lust, Clawed Caress, Barbed Claw, Armour Piercing (1), Daemonic
+Instability, Fear, Otherworldly, Stomp (1), Swiftstride)
+
+Clawed Fiends (6#, 760 pts)
+6 Clawed Fiends, 760 pts (Daemon of Lust, Clawed Caress, Barbed Claw, Armour Piercing (1), Daemonic
+Instability, Fear, Otherworldly, Stomp (1), Swiftstride)
+
+Clawed Fiends (6#, 760 pts)
+6 Clawed Fiends, 760 pts (Daemon of Lust, Clawed Caress, Barbed Claw, Armour Piercing (1), Daemonic
+Instability, Fear, Otherworldly, Stomp (1), Swiftstride)
+
+Infernal Dwarves Roster - Noel
+ROOSTER_START_FACTION ID Lords of Fire (1#, 340 pts)
+1 Overlord, 340 pts (General, Infernal Weapon, Infernal Armour, Chosen of Ashuruk, Inspiring Presence,
+Light Troops, Relentless, Sturdy)
+1 Hardened Shield
+1 Lucky Charm
+
+Taurukh Subjugator (1#, 490 pts)
+1 Taurukh Subjugator, 490 pts (Battle Standard Bearer, Paired Weapons, Infernal Armour, Chosen of
+Ashuruk, Hold Your Ground, Innate Defence (6+), Stomp (1), Swiftstride, Thunderous Charge)
+1 Bluffer's Helm
+1 Gauntlets of Madzhab
+
+Prophet (1#, 360 pts)
+1 Prophet, 360 pts (Wizard Apprentice, Learned Spells x3, Infernal Weapon, Infernal Armour, Channel,
+Chosen of Ashuruk, Light Troops, Relentless, Sturdy)
+1 Path of Occultism
+
+Prophet (1#, 590 pts)
+1 Prophet, 590 pts (Wizard Master, Learned Spells x4, Infernal Weapon, Infernal Armour, Channel, Chosen
+of Ashuruk, Light Troops, Relentless, Sturdy)
+1 Lucky Shield
+1 Book of Arcane Power
+
+Hobgoblins (20#, 190 pts)
+19 Hobgoblins, 190 pts (Musician, Bow, Light Armour, Insignificant, Opportunist, Scoring, Unruly)
+1 Champion (Bow, Light Armour, Insignificant, Opportunist, Unruly)
+
+Hobgoblins (20#, 190 pts)
+19 Hobgoblins, 190 pts (Musician, Bow, Light Armour, Insignificant, Opportunist, Scoring, Unruly)
+1 Champion (Bow, Light Armour, Insignificant, Opportunist, Unruly)
+
+Infernal Warriors (33#, 755 pts)
+32 Infernal Warriors, 755 pts (Musician, Standard Bearer, Great Weapon, Heavy Armour, Chosen of
+Ashuruk, Relentless, Scoring, Sturdy)
+1 Champion (Great Weapon, Heavy Armour, Chosen of Ashuruk, Relentless, Sturdy)
+1 Flaming Standard
+
+Hobgoblin Wolf Riders (5#, 130 pts)
+5 Hobgoblin Wolf Riders, 130 pts (Light Armour, Fast Cavalry, Unruly)
+5 Wolf (Fast Cavalry, Mount's Protection (6+), Swiftstride)
+
+Infernal Engine (1#, 480 pts)
+1 Infernal Engine, 480 pts (Shrapnel Guns, Cannot March, Daemonic Infusion, Full Steam Ahead!, Grinding
+Attack (D3), Impact Hits (D6+1), Innate Defence (3+), Ponderous, Towering Presence, Unbreakable)
+3 Crew
+
+Taurukh (5#, 190 pts)
+5 ~[(^One or more selected options present a potential usage conflict]�~[(#]Taurukh, 190 pts (Light Lance,
+Heavy Armour, Shield, Chosen of Ashuruk, Half Bull, Innate Defence (6+), Scoring, Swiftstride, Thunderous
+Charge)
+
+Hobgoblin Bolt Thrower (1#, 90 pts)
+1 Hobgoblin Bolt Thrower, 90 pts (Cannot March, Move or Fire, Reload!)
+2 Crew
+Hobgoblin Bolt Thrower (1#, 90 pts)
+
+1 Hobgoblin Bolt Thrower, 90 pts (Cannot March, Move or Fire, Reload!)
+2 Crew
+
+Kadim Titan (1#, 600 pts)
+1 Kadim Titan, 600 pts (Daemonic Instability, Extra Attack, Fireborn, Frenzy, Innate Defence (5+), Lord of
+Flame, Otherworldly, Searing Rage, Stomp (D6), Terror, Towering Presence, Volcanic Embrace)
+
+Beast Herds Roster - Piccone
+ROOSTER_START_FACTION BH Pack Leaders (2#, 690 pts)
+1 ~[(^One or more selected options present a potential usage conflict]�~[(] Beast Lord, 690 pts (General,
+Hunting Call, Beast Axe, Shield, Inspiring Presence, Pack Tactics, Primal Instinct, Strider (Forest))
+1 Glittering Cuirass
+1 Talisman of Supreme Shielding
+1 Divine Icon
+(5+))
+1 Wildhorn Crew (Light Lance, Light Armour, Primal Instinct, Strider (Forest))
+1 Razortusk (Swiftstride, Thunderous Charge)
+
+Pack Leaders (2#, 396 pts)
+1 ~[(^One or more selected options present a potential usage conflict]�~[(] Beast Chieftain, 396 pts (Battle
+Standard Bearer, Beast Axe, Heavy Armour, Hold Your Ground, Pack Tactics, Primal Instinct, Strider
+(Forest))
+1 Greater Totem Bearer (Gnarled Hide Totem, Blooded Horn Totem, Clouded Eye Totem, Black Wing
+Totem)
+1 Lucky Shield
+1 Lucky Charm
+1 Raiding Chariot (Cannot March, Impact Hits (D6), Light Troops, Mount's Protection (5+), Strider (Forest))
+1 Wildhorn Crew (Light Lance, Light Armour, Primal Instinct, Strider (Forest))
+2 War Hog (Swiftstride)
+
+Soothsayer (2#, 549 pts)
+1 Soothsayer, 549 pts (Wizard Master, Learned Spells x4, Paired Weapons, Blood Offering, Channel, Pack
+Tactics, Primal Instinct, Strider (Forest))
+1 Shielding Scroll
+1 Dark Rain
+1 Path of Druidism
+1 Raiding Chariot (Cannot March, Impact Hits (D6), Light Troops, Mount's Protection (5+), Strider (Forest))
+1 Wildhorn Crew (Light Lance, Light Armour, Primal Instinct, Strider (Forest))
+2 War Hog (Swiftstride)
+
+Wildhorn Herd (10#, 180 pts)
+10 Wildhorn Herd, 180 pts (Musician, Ambush, Paired Weapons, Throwing Weapons, Pack Tactics, Primal
+Instinct, Scoring, Strider (Forest))
+
+Wildhorn Herd (10#, 180 pts)
+10 Wildhorn Herd, 180 pts (Musician, Ambush, Paired Weapons, Throwing Weapons, Pack Tactics, Primal
+Instinct, Scoring, Strider (Forest))
+
+Wildhorn Herd (10#, 180 pts)
+10 Wildhorn Herd, 180 pts (Musician, Ambush, Paired Weapons, Throwing Weapons, Pack Tactics, Primal
+Instinct, Scoring, Strider (Forest))
+
+Raiding Chariot (3#, 370 pts)
+3 Raiding Chariot, 370 pts (Cannot March, Impact Hits (D6), Light Troops, Mount's Protection (5+), Strider
+(Forest))
+3 Wildhorn Crew (Light Lance, Light Armour, Primal Instinct, Strider (Forest))
+3 Longhorn Crew (Great Weapon, Light Armour, Primal Instinct, Strider (Forest))
+6 War Hog (Swiftstride)
+
+Razortusk Herd (1#, 100 pts)
+1 Razortusk Herd, 100 pts (Stomp (1), Strider (Forest), Swiftstride, Thunderous Charge)
+Razortusk Herd (1#, 100 pts)
+
+1 Razortusk Herd, 100 pts (Stomp (1), Strider (Forest), Swiftstride, Thunderous Charge)
+Centaurs (6#, 278 pts)
+5 Centaurs, 278 pts (Musician, Standard Bearer, Paired Weapons, Light Armour, Shield, Drunkard, Half
+Horse, Primal Instinct, Scoring, Strider (Forest), Swiftstride)
+1 Champion (Paired Weapons, Light Armour, Shield)
+1 Totem Bearer (Blooded Horn Totem)
+1 Gleaming Icon
+
+Briar Beast (1#, 120 pts)
+1 Briar Beast, 120 pts (Fear, Random Attacks (1D6+1), Stomp (1), Strider (Forest), Swiftstride,
+Unbreakable)
+
+Briar Beast (1#, 120 pts)
+1 Briar Beast, 120 pts (Fear, Random Attacks (1D6+1), Stomp (1), Strider (Forest), Swiftstride,
+Unbreakable)
+
+Jabberwock (1#, 370 pts)
+1 Jabberwock, 370 pts (Breath Weapon (Strength 3, Armour Piercing (2)), Aura of Madness, Fly (8),
+Immune to Psychology, Innate Defence (4+), Poisoned Attacks, Stomp (D6), Strider (Forest), Terror,
+Towering Presence)
+
+Gortach (1#, 430 pts)
+1 Gortach, 430 pts (Extra Attack, Frenzy, Immune to Psychology, Impact Hits (D3), Lethal Strike, Primal
+Instinct, Stomp (D6), Strength From Flesh, Strider (Forest), Stubborn, Terror, Towering Presence)
+
+Gortach (1#, 430 pts)
+1 Gortach, 430 pts (Extra Attack, Frenzy, Immune to Psychology, Impact Hits (D3), Lethal Strike, Primal
+Instinct, Stomp (D6), Strength From Flesh, Strider (Forest), Stubborn, Terror, Towering Presence)
+
+4500 Pts - Highborn Elves Roster
+1 Prince , 1150 pts (General, Light Armour, Inspiring Presence, Lightning Reflexes, Martial Discipline)
+
+1 Giant Sword
+1 Lucky Shield
+1 Lucky Charm
+1 Divine Icon
+
+1 Dragon Ancient (Breath Weapon (Strength 4, Flaming Attacks), Fly (7), Innate Defence (3+),
+Stomp (D6), Terror, Towering Presence)
+
+1 Mage , 530 pts (Wizard Master, Learned Spells x4, Channel, Light Troops, Lightning Reflexes, Martial Discipline, Master of the Balance)
+
+1 Dispel Scroll
+1 Talisman of Shielding
+1 Path of Pyromancy
+
+
+26 Sea Guard , 718 pts (Weapon Master, Musician, Standard Bearer, Spear, Bow, Light Armour, Shield, Fight in Extra Ranks, Lightning Reflexes, Martial Discipline, Scoring, Steady Aim)
+
+1 Gleaming Icon
+
+Citizen Spears (25#, 410 pts)
+24 Citizen Spears , 410 pts (Musician, Standard Bearer, Spear, Light Armour, Shield, Fight in Extra Ranks, Lightning Reflexes, Martial Discipline, Scoring)
+
+1 Giant Eagle , 100 pts (Fly (9), Stomp (1))
+1 Sky Sloop , 240 pts (Sky Repeater, Cannot March, Hard Target, Impact Hits (D6), Mount's Protection
+1 Sky Sloop , 240 pts (Sky Repeater, Cannot March, Hard Target, Impact Hits (D6), Mount's Protection
+
+6 Knights of Ryma , 508 pts (Musician, Standard Bearer, Lance, Dragonforged Armour, Shield, Devastating Charge, Lightning Reflexes, Martial Discipline, Scoring) 
+Discipline)
+
+19 Sword Masters , 600 pts (Musician, Standard Bearer, Great Weapon, Heavy Armour, Lightning Reflexes, Martial Discipline, Scoring, Sword Sworn)
+1 War Standard
+
+Kingdom of Equitaine - Vikingus
+ROOSTER_START_FACTION KoE 
+Nobility (1#, 635 pts)
+1 Grail Duke, 635 pts (General, Favour of the Grail, Shield, Inspiring Presence, Jousting, Lance Formation,
+Oath of Fealty, The Blessing)
+1 Dragon Lance
+1 Armour of Percival
+1 Dragonfire Gem
+1 Potion of Swiftness
+1 Virtue of Audacity
+1 Pegasus (Barding, Fly (8), Mount's Protection (6+), Stomp (1))
+
+Nobility (1#, 467 pts)
+1 Questing Paladin, 467 pts (Battle Standard Bearer, Great Weapon, Heavy Armour, Shield, Hold Your
+Ground, Jousting, Lance Formation, Oath of Fealty, Strider (Forest), The Blessing)
+1 Crusader's Helm
+1 Virtue of Renown
+1 Barded Warhorse (Barding, Mount's Protection (6+), Swiftstride, Thunderous Charge)
+
+Damsel (1#, 570 pts)
+1 Damsel, 570 pts (Wizard Master, Learned Spells x4, Beloved, Channel, Insignificant, Lance Formation,
+Magic Resistance (1), The Blessing)
+1 Book of Arcane Power
+1 Talisman of Roland
+1 Path of Druidism
+1 Barded Warhorse (Barding, Mount's Protection (6+), Swiftstride, Thunderous Charge)
+
+Knights of the Realm (11#, 644 pts)
+10 Knights of the Realm, 644 pts (Musician, Standard Bearer, Lance, Heavy Armour, Shield, Jousting,
+Lance Formation, Oath of Fealty, Scoring, The Blessing)
+1 Champion (Lance, Heavy Armour, Shield, Oath of Fealty, The Blessing)
+11 Barded Warhorse (Barding, Mount's Protection (6+), Swiftstride, Thunderous Charge)
+1 Banner of the Last Charge
+
+Knights of the Realm (11#, 604 pts)
+10 Knights of the Realm, 604 pts (Musician, Standard Bearer, Lance, Heavy Armour, Shield, Jousting,
+Lance Formation, Oath of Fealty, Scoring, The Blessing)
+1 Champion (Lance, Heavy Armour, Shield, Oath of Fealty, The Blessing)
+11 Barded Warhorse (Barding, Mount's Protection (6+), Swiftstride, Thunderous Charge)
+
+Knights of the Grail (8#, 770 pts)
+7 Knights of the Grail, 770 pts (Standard Bearer, Lance, Heavy Armour, Shield, Divine Attacks, Jousting,
+Lance Formation, Monstrous Support, Oath of Fealty, Pure of Heart, Scoring)
+1 Champion (Lance, Heavy Armour, Shield, Divine Attacks, Jousting, Lance Formation, Monstrous Support,
+Oath of Fealty)
+8 Barded Warhorse (Barding, Divine Attacks, Mount's Protection (6+), Swiftstride, Thunderous Charge)
+1 The Oriflamme
+
+Yeoman Outriders (5#, 110 pts)
+5 Yeoman Outriders, 110 pts (Light Lance, Bow, Fast Cavalry, Insignificant, Serfs)
+5 Horse (Mount's Protection (6+), Swiftstride)
+
+Yeoman Outriders (5#, 120 pts)
+5 Yeoman Outriders, 120 pts (Light Lance, Bow, Shield, Fast Cavalry, Insignificant, Serfs)
+5 Horse (Mount's Protection (6+), Swiftstride)
+
+Pegasus Knights (4#, 580 pts)
+3 Pegasus Knights, 580 pts (Musician, Standard Bearer, Skirmisher, Lance, Heavy Armour, Shield,
+Devastating Charge, Oath of Fealty, The Blessing)
+1 Champion (Skirmisher, Lance, Heavy Armour, Shield, Devastating Charge, Oath of Fealty)
+4 Young Pegasus (Barding, Fly (9), Mount's Protection (6+), Stomp (1))
+1 Gleaming Icon
+
+Dwarven Holds - Clive
+ROOSTER_START_FACTION DH Anvil of Power - 300pts
+Rune of Gleaminig
+Rune of Shattering - 50pts
+Rune of Storms
+- 50pts
+
+Enigineer - 184pts
+wyrm-Slayer Rocket - 40pts
+sheild
+
+Lords of Stone Thane - 440pts
+BSB
+Mount Shield Bearers - 120pts
+Rune of Craftsmanship - 40pts
+Rune of Iron
+- 20pts
+Rune of Resistance - 90pts
+
+Runic Smith - 389pts
+Army General
+Shield
+Rune of Gleaming - 20pts
+Rune of Resilience - 20pts
+Rune of Brilliance - 70pts
+Rune of iron *2 - 40pts
+Rune of Sheilding *2 - 60pts
+
+Clan Marksmen *10 - 300pts
+Full Command
+Handguns
+Shields
+
+Clan Marksmen *20 - 620pts
+Full Command
+Guild-Crafted Handguns
+Shields
+
+Greybeards *14 - 336
+Champion, Standard
+shields
+
+Cannon - 270pts
+
+Dwarf Ballista - 120pts
+
+Organ Gun - 280pts
+
+Steam Copters Bomber - 200pts
+
+King's Guard *25 - 820pts
+Full Command
+DH - Runic Stnadard of Dismay - 100pts
+
+Vengence Seeker - 120pts
+Vengence Seeker - 120pts
+
+Sylvan Elves Roster - Bazzu
+ROOSTER_START_FACTION SE Lords of the Forest (1#, 280 pts)
+1 Chieftain, 280 pts (General, Forest Walker, Inspiring Presence, Light Troops, Lightning Reflexes)
+1 Sacred Spear of Cadaron
+1 Potion of Swiftness
+1 Blade Dancer
+
+Lords of the Forest (1#, 310 pts)
+1 Chieftain, 310 pts (Battle Standard Bearer, Forest Walker, Hold Your Ground, Light Troops, Lightning
+Reflexes)
+1 Beast-Bane Halberd
+1 Blade Dancer
+
+Druid (1#, 490 pts)
+1 Druid, 490 pts (Wizard Master, Learned Spells x4, Channel, Forest Walker, Light Troops, Lightning
+Reflexes)
+1 Book of Arcane Power
+1 Path of Druidism
+
+Druid (1#, 420 pts)
+1 Druid, 420 pts (Wizard Apprentice, Learned Spells x4, Channel, Forest Walker, Light Troops, Lightning
+Reflexes)
+1 Dispel Scroll
+1 Path of Cosmology
+
+Sylvan Archers (11#, 389 pts)
+10 Sylvan Archers, 389 pts (Musician, Standard Bearer, Long Bow, Black Arrow, Forest Walker, Lightning
+Reflexes, Scoring)
+1 Champion (Long Bow, Black Arrow)
+1 Flaming Standard
+
+Sylvan Archers (10#, 320 pts)
+9 Sylvan Archers, 320 pts (Musician, Standard Bearer, Long Bow, Black Arrow, Forest Walker, Lightning
+Reflexes, Scoring)
+1 Champion (Long Bow, Black Arrow)
+
+Dryads (10#, 238 pts)
+9 Dryads, 238 pts (Skirmisher, Forest Walker, Otherworldly)
+1 Champion (Forest Walker, Otherworldly)
+
+Heath Riders (5#, 180 pts)
+5 Heath Riders, 180 pts (Sylvan Lance, Long Bow, Light Armour, Armour Piercing (1), Fast Cavalry, Forest
+Walker, Lightning Reflexes)
+5 Elven Horse (Mount's Protection (6+), Strider (Forest), Swiftstride)
+
+Blade Dancers (12#, 480 pts)
+11 Blade Dancers, 480 pts (Standard Bearer, Sylvan Blades, Armour Piercing (1), Dances of Cenyrn,
+Forest Walker, Hard Target, Immune to Psychology, Light Troops, Lightning Reflexes, Magic Resistance
+(1), Scoring, War Paint)
+1 Champion (Sylvan Blades, Armour Piercing (1), Dances of Cenyrn, Forest Walker, Lightning Reflexes,
+Magic Resistance (1), War Paint)
+
+Blade Dancers (12#, 480 pts)
+11 Blade Dancers, 480 pts (Standard Bearer, Sylvan Blades, Armour Piercing (1), Dances of Cenyrn,
+Forest Walker, Hard Target, Immune to Psychology, Light Troops, Lightning Reflexes, Magic Resistance
+(1), Scoring, War Paint)
+1 Champion (Sylvan Blades, Armour Piercing (1), Dances of Cenyrn, Forest Walker, Lightning Reflexes,
+
+Magic Resistance (1), War Paint)
+Forest Eagle (1#, 100 pts)
+1 Forest Eagle, 100 pts (Fly (9), Stomp (1), Strider (Forest))
+
+Pathfinders (10#, 430 pts)
+10 Pathfinders, 430 pts (Sylvan Blades, Long Bow, Armour Piercing (1), Forest Walker, Lightning Reflexes,
+Master Archers, Scout, Skirmisher)
+
+Wild Huntsmen (6#, 382 pts)
+6 Wild Huntsmen, 382 pts (Sylvan Lance, Light Armour, Shield, Armour Piercing (1), Devastating Charge
+(Riders only), Extra Attack, Forest Walker, Frenzy, Immune to Psychology, Light Troops, Lightning
+Reflexes, War Paint)
+6 Elven Deer (Extra Attack, Frenzy, Immune to Psychology, Mount's Protection (6+), Swiftstride)
+
+﻿COUNTRY_TAG MEX
+James "ChiHammer" Silva - Orcs and Goblins
+ROOSTER_START_FACTION O&G 
+Characters - 1795
+General: Iron Orc Warlord 620pts  Bluffers Helmet, Sprout of Rebirth, Waaagh!, Great Weapon, Paired Weapons, Orc Boar Chariot
+BSB: Forest Goblin Chief 194 pts
+Bow, War Standard, Shield
+Goblin Shaman Pyromancy 355pts
+4 Spells, Skull Splitter
+Forest Goblin Shaman Witchcraft 240pts
+3 Spells
+Forest Goblin King 386 pts
+Dragonscale Helm, Obsidian Sword, Talisman of Supreme Shielding, Huntsman Spider, Shield, Heavy
+Armor
+
+Core- 1185
+Cave Goblins x 30 - 360 pts
+Bows, Musicians, x2 Mad Gits , Nets
+Forest Goblin x20 - 315 pts
+Skirmish, Veteran Standard : Banner of Discipline, Bows, Throwing Weapons
+Common Goblins x 45- 450 pts
+Bows, Shields, FCG, x3 Shady Gits
+
+Special - 660
+Goblin Wolf Chariot x3 -320pts
+Iron Orcs x10 - 220 pts
+Musician
+Goblin Raiders x 5 -120
+common Goblins
+
+Big'N Nasty - 860
+Great Green Idol - 380 pts
+Gargantula - 480
+
+H�ctor "El Antiguo Guardi�n" Pe�a Manterola - Daemonic Legions
+ROOSTER_START_FACTION DL 
+1220 - Courtesan of Lust - Characters - Dark Gods Might - General, 4 Learned Spells,
+Eternal Sword, Seventh Seal, Dance of Death, Divination
+510 - Harbinger of Pestilence - Characters - Minions of Pestilence - Bligth Fly -
+Halberd, Nauseating Aura, Contamination
+320 - 10 Horrors - Core - Minions of Change - C
+285 - 11 Slaughteres - Core - Minions of Wrath - C, S, Gleaming Icon
+260 - 15 Sirens - Core - Minions of Lust - C
+260 - 15 Sirens - Core - Minions of Lust - C
+620 - 5 Blight Flies - Minions of Pestilence
+335 - 5 Hellhounds - Minions of Wrath - Ambush
+330 - Blood Chariot - Minions of Wrath
+180 - 5 Mounted Sirens - Minions of Lust
+180 - 5 Mounted Sirens - Minions of Lust
+4500
+
+Lucas "Superorko" Hidalgo Martin - Empire of the Sonnstahl
+ROOSTER_START_FACTION EoS Characters -1008
+General: Marshal 196 pts Black Helm, Shield
+BSB: Marshal - 166 Shield
+Prelate - 166 Shield
+Wizard - 480 4 spells, wizard master, essence of the free mind (Pyromancy/Alchemy), ring of fire
+
+Core - 1130
+Heavy Infantry x 50 - 615
+FCG - Veteran Standard: Flaming Standard, Spears
+Heavy Infantry x 20 - 200 pts Champ, Musician
+State Militia x 11- 165 pts Imperial Auxillaries , Pistol, Skirmish
+State Militia x 10 - 150 Imperial Auxillaries - Pistol , Skirmish
+
+Special - 1181
+Imperial Guard x 32 - 561 FCG
+Knights of the Sun Griffon x3 - 310 Lance, Shield
+Knights of the Sun Griffon x3 - 310 Lance, Shield
+
+Sunna's Fury - 720
+Arcane Engine - 280
+
+Imperial Armory - 900
+Mortar - 200
+Cannon - 260
+Steam Tank - 440
+
+Carlos "Charly" Romero - Vampire Counts
+ROOSTER_START_FACTION VC 
+210 * Necromancer: general, wizard apprentice, 1 learned spell, path of evocation, sceptre of power, the
+dead arise
+260 * Necromancer: wizard apprentice, 1 learned spell, path of evocation, dispell scroll
+160 * Necromancer: wizard apprentice, 1 learned spell, path of evocation
+350 * Necromancer on cadaver wagon with endless horde: wizard apprentice, 1 learned spell, path of
+evocation
+400 * 38 skeletons: M,S,C, spears
+370 * 37 skeletons: M,C, spears
+136 * 21 zombies: M
+80 * 2 great bats
+80 * 2 great bats
+460 * Altar of Undeath: dark tome
+400 * Altar of Undeath
+704 * 4 winged reapers: paired weapons
+890 * 35 barrow guards: M,S,C, halberds, banner of barrow kings
+4500
+
+Joseph "El Pyro" Abel - Infernal Dwarfs
+ROOSTER_START_FACTION ID Characters
+General- Overlord - 536
+Onyx Hammer, Shield, Potion of Swiftness, Dragon Mantle, Sprout of Rebirth BSB- Vizier -364
+Infernal Weapon, Mask of the Furnace, Ring of Dessication Prophet - 605
+4 spells Pyromancy, Scepter of Power, Ring of Fire, Hardened Shield, Skull Splitter
+
+Core
+Hobgoblins x 28 w/ Bows, Musician- 250
+Hobgoblins x 29 w/ Bows, Musician - 260
+Citadel Guardx 19 w/ Flint Axe, Musician- 616
+
+Special
+Immortals x 20- 585
+w/ Infernal Weapon, Shield, Musician, Standard: Flaming Standard
+
+Bound and Binders
+Kadim Titan -600
+
+Barrage
+Bound Demon -Flame Cannon-340
+Bound Demon - Flame Cannon-340
+
+Neil "Hamburger" Hamilton - Beast Herds
+ROOSTER_START_FACTION BH Beast Chieftain [466pts]: Battle Standard Bearer, Beast Axe, Raiding Chariot mount, Shield, Upgrade to
+Totem Bearer
+. Magic Items: Armour of Fortune, Gourd of Beetles
+
+Beast Lord [410pts]: Army General, Great Weapon, Hunting Call
+. Magic Items: Aaghor's Flayed Hide, Crown of Horns
+
+Soothsayer [550pts]: 3x May add up to 3 learned spells, May become Wizard Master, Shamanism
+. Magic Items: Dark Rain, Skull Splitter
+
++ Core +
+
+Mongrel Herd [300pts]: Champion, 35x Mongrel, Standard Bearer
+
+Mongrel Raiders [100pts]: 10x Mongrel Raider
+
++ Special +
+
+Centaurs [180pts]: 5x Centaur, Paired Weapons, Throwing Weapons
+
+Centaurs [180pts]: 5x Centaur, Paired Weapons, Throwing Weapons
+
+Longhorn Herd [592pts]: 23x Longhorn
+. Champion
+. . Upgrade to Totem Bearer: Black Wing Totem
+. Musician
+. Standard Bearer: Icon of the Relentless Company
+
+Minotaurs [530pts]: 6x Minotaur, Musician, Paired Weapons
+
+Raiding Chariots [130pts]: Raiding Chariot
+Razortusk Herd [100pts]: Razortusk
+
+Terrors of the Wild
+
+Gortach [430pts]
+
++ Ambushing Core +
+
+Ambushing Wildhorn Herd [308pts]: Paired Weapons, Throwing Weapons, 17x Wildhorn
+. Musician
+. Standard Bearer
+. . Veteran Standard: Gleaming Icon
+
+Ambushing Wildhorn Herd [222pts]: Musician, Paired Weapons, Throwing Weapons, 13x Wildhorn
+++ Total: [4498pts] ++
+
+Alan "Sippycup Jr." Marttini - Dwarven Holds
+ROOSTER_START_FACTION DH Characters
+General - Engineer 260pts
+Forge Repeater, Aether Loathestone, Rune of Retribution
+
+Core
+Warriors x 10 - 140 pts
+Musician
+Warriors x 10 - 140 pts
+Musician
+Greybeards x 30 - 850 pts
+Musician, Veteran Standard : Gleaming Icon, Great Weapons
+
+Special
+Seekers x 25 - 570 pts
+Musician
+Seekers x 25 - 570 pts
+Musician
+Seekers x 24 - 548 pts
+Musician
+
+Clan's Thunder
+Steam Coptersx2 -300 pts
+Skirmish
+Steam Coptersx2 - 300 pts
+Skirmish
+Steam Bomber - 200
+
+Engine's of War
+Catapult -320
+Runecrafted
+Forge Wardensx10 - 300 pts
+Musician
+
+Jesse "The Juggernaut" Silva - Ogre Khans
+ROOSTER_START_FACTION OK Characters - 948 pts
+General- lvl 4 Pyromancy Shaman- 648 pts
+4 Spells Pyromancy, Iron Fist, Wizard Master, Fire Blessing, Crown of Autrocracy
+Big Name: Rotten Jaw
+BSB- Khan- 450 pts
+Big Name: TrollEater, Stalker Standard, Yeti Fur
+
+Core - 1149
+Scraplings x 17- 152 pts
+Bows, Scrapling Foreman, Throwing Weapons
+Bruisers x 3 -165
+Bruisers x 3 -165
+Bruisers x 3 - 165
+Tribesmen x 6 - 481 pts
+Ironfist, FCG, Veteran Standard : Banner of Discipline
+
+Special- 820 pts
+Mercenary Veterans x 7- 970 pts
+Ironfist, Poison, Thunderous Charge, Champion, Standard: Dragonskin Banner
+
+Powder Keg - 600pts
+Thunder Cannon - 300
+Thunder Cannon - 300
+Scratapult - 230
+Scratapult - 230
+Scratapult - 230
+
+﻿COUNTRY_TAG NLD
+Non playing coach, Ralph van der Calck
+
+Edwin de Vries - Vermin Swarm - Captain ( MORGAN )
+ROOSTER_START_FACTION VS Plague Prophet, general, Plague pendulum, crown of autocrary, halberd - 668
+Chief, bsb, aether icon, crown of scorn - 245
+4 x 15 plague brotherhood, m - 180
+34 plague brotherhood, m,s,c - 486
+4 x 12 plague disciples - 270
+2 x Dreadmill - 250
+2 x Abomination - 400
+Total: 4499
+
+Alexander Frenzel � Vampire Covenant
+ROOSTER_START_FACTION VC Vampire Count, General, Nosferatu ,The Dead Arise, 3 learned spells, Talisman of Supreme Shielding, Book of Arcane power, Arcane Knowledge, Wizard Master, Occultism - 810
+Vampire Courtier, BSB, Nosferatu, 2 learned spells, Wizard Apprentice, Evocation - 330
+23 Zombies, M - 148
+20 Zombies, M - 130
+30 Ghouls, C - 510
+8 Dire Wolves -116
+30 Barrow Guards, Shields, M,C,S - 625
+2 Phantom Host - 120
+7 Wraiths - 252
+7 Wraiths - 252
+Shrieking Horror - 500
+4 Winged Reapers, Paired Weapons - 704
+Total: 4497
+
+Jan Willem Veenhof � Dwarven Holds
+ROOSTER_START_FACTION DH Runic Smith, General, Rune of Gleaming, Rune of Reckoning, Rune of Resolve, Rune of Denial, 2 x Rune of Iron, Rune of the Forge, Shield - 389
+Anvil of Power, Rune of Resilience, Rune of Shattering, Rune of Storms - 300
+30 Greybeards, Great Weapons, Throwing Weapons, C, M, F, Cleaming Icon - 990
+10 Clan Marksman, Crossbows, Musician, Shields - 260
+2 x 10 Forge Warders, M - 300
+1 x Attack Copter - 160
+2 x Grudge Buster 370
+1 x 2 Attack Copters, Skirmish, - 300
+2 x 1 Canon 270
+Catapult � 220
+Total: 4499
+
+Reinier Gouverneur � Highborn Elves
+ROOSTER_START_FACTION HE High Prince, General, Royal Huntsman, Lion Chariot, Great Weapon, Heavy Armour, Lion Fur, longbow, Bluffer's Helm, Talisman of Supreme Shielding - 732
+Mage, Asfad Scholar, 4 learned spells, ring of fire, Book of Maledys, Wizard Master, Pyromancy, - 640
+Commander, BSB, Queen's Companion, longbow, great weapon, Moonlight - 270
+25 Citizen Archers, m, c - 490
+20 Citizen spears, m - 280
+2 x 5 Elein Reavers, Bow - 190
+5 knight of Ryma, M - 360
+2 x Sky Sloop, sky Reaper - 240
+2 x Fire Phoenix - 380
+Eagle - 100
+Total: 4492
+
+Jacques van der Puil - Saurus Ancients
+ROOSTER_START_FACTION SA Warlord, General, Raptor, Fleshrender, Glittering Cuirass, Sprout of Rebirth - 540
+Veteran, BSB, Raptor, Great weapon, Armour of Destiny - 450
+Veteran, Raptor, Sword of Strength, Hardened Shield, Dusk Stone - 370
+Veteran, Raptor, GW, Armour of Fortune, Crown of Scorn - 390
+3x10 Saurus Warriors, M - 190
+2x10 Saurus Warriors - 170
+2x5 Rhamphodon Riders, Shields - 425
+3x1 Stygiosaurus - 330
+Total: 4500
+
+Paul Hasselt - Orcs and goblins
+ROOSTER_START_FACTION O&G Iron Orc Warlord, General, Waaargh, Wyvern, Great Weapon, Paired Weapons, Shield, Dragonscale helm, Talisman of Supreme Shielding, Divine Icon -770
+Common Goblin Chief , BSB, Bow, Shield, Crown of the Cavern King - 204
+Common Goblin Witch Doctor, 4 spells, Book of Arcane Power, Ring of Fire, wizard master, pyromancy - 510
+40 Common goblins, bow, shield, m, s, c, Warbanner, 3 shady Gits - 440
+2 x 30 Cave Goblins, bow, m, s, c, 2 Mad Gits - 400
+3 x Scrap Wagons - 90
+Splatter - 180
+2 x Git Launchers -180
+2 x Gargantula - 480
+Total: 4494
+
+Menno van Tergouw - Ogre Khans
+ROOSTER_START_FACTION OK Shaman, General, 4 Spells, Iron Fist, Book of Arcane Power, Ring of Fire, Wizard Master, Pyromancy - 618
+Khan, BSB, Heavy Armour, Razor Blade, Hardened Shield, Sprout of Rebirth - 360
+Hunter, Tusker, Trolleater, Ironfist, Hunting spear, Bluffers Helm, Lucky Charm - 460
+10 Bruisers, M, C, S, Skull of Qenqhet - 861
+3 Bruisers, - 165
+15 Scraplings, M - 100
+2 x 5 Scrapling Trappers - 80
+2 Tusker Cavalry, IF - 320
+2 x Thunder Cannon - 600
+6 Bombardiers, M - 465
+5 Bombardiers, M - 390
+Total: 4499
+
+Sander Hodes � Deamonic Legion
+ROOSTER_START_FACTION DL Harbinger of Change, General, 2 Learned Spells, Blazing Chariot, Veil of Shadows, Evocation - 510
+Harbinger of Change, BSB, 2 Learned Spells, Blazing Chariot, Seventh Seal, Far Seeing, Evocation � 620
+10 Horrors, C, M - 340
+2 x 10 Horrors, M, Far Seeing - 220
+11 Horrors, M - 218
+3x8 Igniters, Far Seeing - 464
+1 Blazing Chariot, Far Seeing - 290
+1 Blazing Chariot, - 270
+3x5 Furies of Change -140
+Total: 4500
+﻿COUNTRY_TAG NZL
+David Meachen � Daemon Legions - Monotheist Army of Lust
+ROOSTER_START_FACTION DL *Courtesan of Lust, General, Supreme Aspect: Dance of Death, 4 Spells, Lash of Lust, Veil of Shadows, Token of Lust, Wizard Master, Divination � 1280
+*16x Sirens, M, S � 300
+*16x Sirens, M, S � 300
+*16x Sirens, M, S � 300
+*6x Clawed Fiends, Clawed Caress � 760
+*6x Clawed Fiends, Clawed Caress � 760
+*5x Mounted Sirens, Clawed Caress, C, M � 220
+*5x Mounted Sirens, Clawed Caress, C, M � 220
+*5x Mounted Sirens, Clawed Caress, C, M � 220
+*5x Furies, Daemon of Lust � 140
+
+Mark "Monty Zuma" Skilton � Infernal Dwarves
+ROOSTER_START_FACTION ID *Prophet Wizard, General, 4 Spells, Ring of Fire, Essence of a Free Mind, Lucky Shield, Wizard Master, Pyromancy/Alchemy - 570
+*Vizer, BSB, Blade of Burning Steel, Hardened Shield, Potion of Swiftness - 270
+*Hobgoblin Chieftan, Wolf Mount, Light Armour, Shield, Throwing Weapons, Dragonfire Gem - 157
+*Hobgoblin Chieftan, Wolf Mount, Light Armour, Shield, Throwing Weapons - 142
+*20x Citadel Guard, Flintlock Axes, M, C - 670
+*28x Hobgoblins, Bows, M - 250
+*28x Hobgoblins, Bows, M - 250
+*4x Tauruhk Anointed, Light Lance, Shield, M - 572
+*3x Tauruhk Anointed, Paired Weapons, Shield - 414
+*3x Tauruhk Anointed, Paired Weapons, Shield - 414
+*1x Titan Mortar, Bound Daemon - 395
+*1x Titan Mortar, Bound Daemon - 395
+
+Simon "Mr T-800" Turner- Ogre Khans
+ROOSTER_START_FACTION OK *Khagan, Great Khan, General, Brace of Ogre Pistols, Khagadai's Maul, Mammoth-Hide Cloak, Talisman of Shielding, Headhunter � 590
+*Khagan, Khan, BSB, Brace of Ogre Pistols, Dragonskin Banner, Lucky Shield, Potion of Swiftness, Spinesplitter - 410
+*Shaman, 4 Spells, Great Weapon, Ring of Fire, Book of Arcane Power, Obsidian Rock, Wizard Master, Pyromancy - 662
+*3x Brusiers - 165
+*3x Brusiers - 165
+*3x Brusiers - 165
+*3x Brusiers - 165
+*3x Brusiers - 165
+*20x Scraplings, Bows - 150
+*20x Scraplings, Bows - 150
+*7x Bombardiers, M, C, S, War Banner - 610
+*6x Bombardiers, M - 465
+*6x Bombardiers, M - 465
+*6x Scrapling Trappers - 92
+*5x Scrapling Trappers � 80
+
+Mal "Token" Patel - Saurian Ancients
+ROOSTER_START_FACTION SA *Firstborn Warlord, General, Raptor, Fleshrender, Armour of Destiny, Dragonfire Gem, Divine Icon - 545
+*Firstborn Warlord, Raptor Great Weapon, Light Armour, Dragonscale Helm, Talisman of Supreme Shielding - 570
+*Skink Priest, 2 Spells, Jade Staff, Scroll of Shielding, Wizard Apprentice, Druidism - 250
+*Skink Priest, 2 Spells, Ring of Fire, Wizard Apprentice, Shamanism - 230
+*Skink Captain, BSB, Skull Splitter - 195
+*10x Saurian Warriors, M - 190
+*10x Saurian Warriors, M - 190
+*10x Saurian Warriors - 170
+*10x Saurian Warriors - 170
+*10x Saurian Warriors, Spears - 180
+*10x Skink Hunters, Blowpipes, Vanguard - 200
+*8x Chameleons - 200
+*1x Taurosaur, Great Bow - 470
+*1x Taurosaur, Great Bow - 470
+*1x Taurosaur, Great Bow - 470
+
+Ben Wadsworth � Orcs and Goblins
+ROOSTER_START_FACTION O&G *Lords of Fightin', Iron Orc Warlord, General, Waaargh!, Shield, Axe of the Aporcalypse, Dragon Mantle, Talisman of Shielding, Potion of Swiftness - 550
+*Lords of Sneakin', Common Goblin Chief, BSB, Shield, Bow - 124
+*Goblin Witch Doctor, Common Goblin, 4 Spells, Scroll of Shielding, Wizard Master, Pyromancy - 390
+*Lords of Sneakin', Cave Goblin Chief, Cave Gnasher, Lance, Shield - 122
+*Lords of Sneakin', Cave Goblin Chief, Cave Gnasher, Lance, Shield - 122
+*39x Common Orcs, Spears, Bows, M, S, C, Ironhide Icon- 596
+*46x Cave Goblins, Bows, 3 Mad Gits, M, C - 558
+*46x Cave Goblins, Bows, 3 Mad Gits, M - 538
+*Greenhide Catapults, Git launcher - 180
+*Greenhide Catapults, Git launcher - 180
+*Greenhide Catapults, Splatterer - 180
+*1x Gargantula - 480
+*1x Gargantula - 480
+
+Gareth Barton - Undying Dynasties
+ROOSTER_START_FACTION UD *Monarchs of the Dead, Nomarch, General, Halberd, Armour of Destiny, Potion of Swiftness - 328
+*Death Cult Hierarch, Hierophant, 4 Spells, Ring of Fire, Book of the Dead, Wizard Master, Evocation - 530
+*Tomb Architect, Gem of Fortune, Hardened Shield - 205
+*5x Skeleton Scouts - 130
+*5x Skeleton Scouts - 130
+*28x Skeleton Archers, M, S - 376
+*44x Skeletons, C, M, S, War Banner - 490
+*30x Necropolis Guard, Paired Weapons, C, M, S, Rending Banner - 755
+*8x Shabtis, Paired Weapons, M, S, Flaming Standard - 755
+*2x Tomb Reapers, Paired Weapons - 392
+*Charnel Catapult - 200
+*Charnel Catapult - 200
+
+Simon "Woodsy" Wood - Vermin Swarm
+ROOSTER_START_FACTION VS *Dictator, Tyrant, General, Vermin Guard Litter, Crown of Autocracy, Lucky Shield, Talisman of Shielding - 330
+*Dictator, Chief, BSB, Ring of Fire - 210
+*Magister, Plague Patriarch, 4 Spells, 2 Dark Shards, Book of Arcane Power, Gem of Fortune, Wizard Master, Shamanism - 595
+*17x Plague Brotherhood, M, S, Icon of Ruin - 278
+*15x Plague Brotherhood, M - 180
+*15x Plague Brotherhood, M - 180
+*15x Plague Brotherhood, M - 180
+*41x Slaves - 154
+*41x Slaves - 154
+*14x Plague Disciples - 310
+*14x Plague Disciples - 310
+*14x Plague Disciples - 310
+*14x Plague Disciples - 310
+*3x Vermin Hulks - 210
+*Verminous Artillery, Plague Catapult - 170
+*Verminous Artillery, Plague Catapult - 170
+*10x Grenadiers - 224
+*10x Grenadiers - 224
+
+Tom Cochrane � Sylvan Elves
+ROOSTER_START_FACTION SE *Treefather Ancient, General, 4 Spells, Sceptre of Power, Wizard Master, Divination - 800
+*Lords of the Forest, Forest Prince, Wild Hunter, Elven Horse, Light Armour, Elven Cloak, Longbow, Fey Arrows (Black Arrows), Giant Sword, Hardened Shield, Dusk Stone, Potion of Swiftness � 598
+*Lords of the Forest, Chieftan, BSB, Sacred Spear of Cadaron, Icon of Relentless Company � 350
+*13x Sylvan Archers, M - 352
+*13x Sylvan Archers, M - 352
+*13x Sylvan Archers, M - 352
+*10x Sylvan Archers, M - 280
+*10x Briar Maidens, C, S, Flaming Standard - 605
+*9x Briar Maidens � 378
+*11x Blade Dancers, C - 430
+﻿COUNTRY_TAG NOR
+Team Norway (captain)
+Team Norway
+Kyrre "Grayfox" �vreb� - Vampire Covenant
+ROOSTER_START_FACTION VC Vampire count: general, 1 spell + the dread arise, shield, Jack's pickaxe, dragon mantle, dusk stone, potion of swiftness, wizard apprentice, brotherhood of the dragon bloodline, eternal duelist, path of occultism - 660
+Barrow king, BSB, tullius' teeth - 310
+Necromancer, 1 spell, path of evocation - 160
+Necromancer, 1 spell, path of evocation - 160
+Necromancer, 1 spell, ring of fire, wizard master, path of evocation - 280
+59x skeletons, spears, M, C, S, war standard - 640
+20x zombies, M, S - 150
+20x zombies, M, S - 150
+39x barrow guards, great weapons, M, C, S, banner of the barrows king - 1068
+2x Great bats - 80
+2x Great bats - 80
+2x Great bats - 80
+Cadaver wagon, endless horde - 240
+3x vampire spawns - 220
+3x vampire spawns - 220
+4498
+
+Team Norway
+J�rund "Harakiri" Haugland - Daemon Legions
+ROOSTER_START_FACTION DL Weaver of Change, general, Power vortex, 4 spells, aether wand, shackes of reality, Scroll of the eight
+pacts, 3 spells thaumaturgy + 1 spell divination - 1270
+Harbinger of pestilence, BSB, blight fly, nauseating aura, bloated putrefication - 530
+10x horrors - 180
+10x horrors - 180
+29x tallymen, M, C, S, war standard - 766
+5x Blight flies - 620
+5x Hellhounds, ambush - 335
+5x Hellhounds, ambush - 335
+5x furies, mark of change - 140
+5x furies, mark of change - 140
+4496
+
+Team Norway
+Lars Morten �Zuhlmatul� Thu - Infernal Dwarves
+ROOSTER_START_FACTION ID Overlord, General, shield, Onyx hammer, Dragon mantle, Spout of rebirth, Potion of swiftness - 536
+Prophet, Wizard master, 4 spells, Hardened shield, Essence of a free mind, Ring of desiccation, Ring of fire, path of alchemy/pyromancy - 640
+30x Citadel guard, M, C, S, Gleaming icon - 740
+32x Hobgoblins, M - 280
+32x Hobgoblins, M - 280
+5x Hobgoblin wolf riders, Shields - 140
+5x Hobgoblin wolf riders, Shields - 140
+Infernal artillery, rocket battery - 190
+Infernal artillery, rocket battery - 190
+6x Kadim incarnates, C - 680
+6x Kadim incarnates - 660
+4496
+
+Team Norway
+Karl-Erik "Kalerith" Hansen - Orcs and Goblins
+ROOSTER_START_FACTION O&G Iron Orc Warlord, General, Waaargh! Boar chariot, Great weapon, paired weapons, Bluffer's helm, talisman of supreme shielding - 640
+Forest Goblin Witch Doctor, 4 spells, wizard master, Book of Arcane power, Path of pyromancy - 460
+Common Goblin Chief, shield, ring of fire, banner of dicipline - 205
+20x Forest Goblins, skirmish, bows, S, Ironhide icon - 310
+21x Feral Orcs, spears, M - 275
+20x Feral Orcs, spears, M, S - 280
+20x Feral Orcs, Spears, M - 260
+Gnasher Wrecking Team - 140
+Gnasher Wrecking Team - 140
+1x Goblin Wolf Chariot - 120
+1x Goblin Wolf Chariot - 120
+1x Goblin Wolf Chariot - 120
+10x Iron Orcs - 200
+10x Iron Orcs - 200
+10x Iron Orcs - 200
+10x Iron Orcs - 200
+Scrap Wagon - 90
+Scrap Wagon - 90
+Scrap Wagon - 90
+Greenhide Catapult, Git launcher - 180
+Greenhide Catapult, Git launcher - 180
+4500
+
+Team Norway
+Hermund "Herminard" Furu - Empire of Sonnstahl
+ROOSTER_START_FACTION EoS Marshall, general, Great tactician - 220
+Marshall, BSB, banner of dicipline - 195
+Wizard, wizard master, 4 spells, shielding scroll, path of pyromancy - 410
+20x heavy infantry, M, S - 200
+20x heavy infantry, M, S - 200
+20x heavy infantry, M, S - 200
+10x state militia, pistols, skirmish - 150
+10x state militia, pistols, skirmish - 150
+10x state militia, pistols, skirmish - 150
+10x state militia, pistols, skirmish - 150
+15x imperial guards, M, C, S, war standard - 285
+15x imperial guards, M, C, S - 255
+15x imperial guards, M, S - 235
+3x knights of the sun griffon, lances and shields - 310
+3x knights of the sun griffon, lances and shields - 310
+10x flagellants - 160
+10x flagellants - 160
+10x flagellants - 160
+Artillery, mortar - 200
+Artillery, mortar - 200
+Artillery, mortar - 200
+4500
+
+Team Norway
+Andreas "True Norse" L�hren - The Vermin swarm
+ROOSTER_START_FACTION VS Tyrant, General, Vermin Guard Litter, Crown of Autocracy, Talisman of shielding - 320
+Magister, 4 Spells, Book of Arcane Power, Wizard Master, path of Thaumaturgy - 480
+Chief, BSB, Ring of Fire, Banner of Discipline - 245
+40x Slaves, M - 170
+41x Slaves, M - 174
+15x Plague Brotherhood, M - 180
+15x Plague Brotherhood, M - 180
+20x Rats-at-arms, M - 180
+15x Vermin Guards, M, S, The Lightning Rod - 310
+8x Grenadiers - 180
+8x Grenadiers - 180
+8x Grenadiers - 180
+3x Jezails - 120
+3x Jezails - 120
+5x Jezails - 210
+Verminous artillery, Plague Catapult - 170
+Verminous artillery, Plague Catapult - 170
+8x Plague Diciples, C - 210
+8x Plague Diciples - 190
+8x Plague Diciples - 190
+7x Plague Diciples - 170
+7x Plague Diciples - 170
+4499
+
+Team Norway
+Valentino "Nantuko" Giorgini - Sylvan Elves
+ROOSTER_START_FACTION SE Thicket Shepard, general, entwined roots - 270
+Druid, 4 spells, tree singing, wizard master, path of druidism - 420
+Chieftain, BSB, sacred seed, blade dancer kindred - 320
+18x sylvan archers, M - 472
+18x sylvan archers, M - 472
+10x sylvan archers, M - 280
+6x thicket beasts, entwined roots upgrade, C - 595
+6x thicket beasts, C - 505
+5x thicket beasts, C - 420
+1x forest eagle - 100
+8x blade dancers - 320
+8x blade dancers - 320
+4494
+
+Team Norway
+Hallvard "dfrubs" Haugen - Ogre Khans
+ROOSTER_START_FACTION OK Mammoth Hunter, General, Wildheart, Tusker, Iron fist, Bluffer`s helm, Dragonfire gem - 425
+Mammoth Hunter, BSB, Iron fist, Tusker, Dragonscale helm, Crown of scorn - 410
+12x Tribesmen, Iron Fists, M, S, C, Banner of speed - 924
+4x Tusker Cavalry, Light Armour and Iron Fists, M, S, Aether icon - 715
+2x Tusker Cavalry, Light Armour and Iron Fists, M - 340
+2x Tusker Cavalry, Light Armour and Iron Fists, M - 340
+Rock Auroch - 480
+Rock Auroch - 480
+Frost Mammoth - 380
+4494
+﻿COUNTRY_TAG POL
+Coach: Aleksander "Rince" Jaworowski
+
+Jerzy ,,Furion" Brzozowski (c) - Highborn Elves
+ROOSTER_START_FACTION HE 752 - Prince on Lion Chariot, General, Royal Hunstman, Great Weapon, Longbow, Heavy Armour, Lion
+Fur, Bluffer's Helm, Talisman of Supreme Shielding, Shard of Cenyrn
+690 - Archmage, Asfad Scholar Prince, 4 Spells, Divination, Wizard Master, Skull Splitter, Book of Maledys,
+Cloak of Stars
+326 - Commander, Queen's Companion, Great Weapon, Light Armour, Battle Standard, Great Bow of Elu
+630 - 30x Citizen Archers, M, S, Banner of Speed
+180 - 5x Elein Reavers
+320 - 20x Citizen Spears, M, S, C
+240 - 2x1 Sky Sloop
+360 - 5x Knights of Ryma, M
+380 - 2x1 Fire Phoenix
+4498
+
+Piotr "Janus the Vezyr " Borowski - Warriors of the Dark Gods
+ROOSTER_START_FACTION WoTDG 720 - Chaos Lord of Lust, General, Steed of Lust, Great Weapon, Bluffer's Helm, Sprout of Rebirth, Crown
+of Scorn, Waste Hardened Shield
+660 - Chaos Lord of Wrath, Burning Blade of Chaos, Potion of Strength, Daemonic Wings, Lucky Shield
+510 - Chaos Harbinger of Lust, Battle Standard, Steed of Lust, Lance, Dusk Stone, War Standard,
+Hardened Shield
+260 - Battle Shrine (Priest) of Wrath
+512 - 17x Wasteland Warriors of True Chaos, Shield, S, M, C, Banner of Speed,
+160 - 20x Barbarians of True Chaos, Paired Weapons, Light Armour, M
+232 - 8x Barbarian Horseman of True Chaos, Light Armour, Shield
+160 - 5x Barbarian Horseman of True Chaos, Light Armour, Shield,
+460 - 10x Chosen of Lust, Halberd, Shield, S, Nine-Tailed Standard
+435 - 10x Chosen of Lust, Halberd, Shield, S, Aether Icon
+390 - 5x Wasteland Knights of Lust, Lance, Shield, Standard, Musician, WastelandSteed,
+4499
+
+Konrad "Abrasus" Krystecki - Infernal Dwarves
+ROOSTER_START_FACTION ID 450 - Prophet, General, 4 spells, Essence of Free Mind (Alchemy, Pyromancy), Lucky Shield
+325 - Vizier, BSB, Hardened Shield, Talisman of Shielding, Wizard's Hood
+200 - 21x Hobgoblins, M, C, Bow
+310 - 3x10 Citadel Guard, M, Flitnlock Axe
+130 - 5x Hobgoblin Wolf Riders
+190 - 5x Taurukh Shields, M
+540 - 19x Immortal, M, S, C, Shield, Infernal Weapon, War Banner
+90 - 2x Hobgoblin Bolt Thrower
+660 - 6x Kadim Incarnate
+550 - 5x Kadim Incarnate
+340 - Rocket Battery, Bound Daemon
+4495
+
+Marek "Szaitis" Gmyrek - Vampire Covenant
+ROOSTER_START_FACTION VC 510 - Vampire Count, Brotherhood of the Dragon, General, 2 spells, Occultism, Shield, Dragonscale Helm, Razor Blade
+435 - Vampire Courtier, Brotherhood of the Dragon, Battle Standard Bearer, 2 spells, Occultism, shield,
+Dragon Mantle, Dragonfire Gem
+260 - Necromancer, 2 spells, Evocation, Unholy Tome
+160 - Necromancer, 1 spell, Evocation
+160 - Necromancer, 1 spell, Evocation
+340 - 29x Skeletons, Hand Weapon + Shield, M, S, C, War Banner
+150 - 2x20 Zombies, M, S
+156 - 21 Zombies, M, S
+116 - 8x Dire Wolves
+360 - 2x10 Wraiths
+80 - 2x2 Great Bats
+590 - 2x5 Vampire Knights, Blood Ties (Dragon Brotherh.), M, S
+4497
+
+Filip "Elvis" Glowacki - Ogre Khans
+ROOSTER_START_FACTION OK 850 � Shaman, Hellfist, General, 4 Spells, Thaumaturgy, Wizard Master, Book of Arcane Power, Ring of Fire
+450 - Mammoth Hunter on Tusker, Trolleater, Bluffer's Helm, Iron Fist, Hunting Spear
+185 � 3x3 Bruisers, M
+106 � 2x16 Scraplings, Throwing Weapons, M
+363 � 6x Tribesmen, Paired Weapons, M, S, C, Banner of Discipline
+510 � 3x Tusker Cavalry, Iron Fist, M, S,
+300 � 2x1 Thunder Canon
+480 � 2x1 Rock Auroch, Hunting Spear
+4500
+
+Marek "Solo" Kielbasa - Vermin Swarm
+ROOSTER_START_FACTION VS 320 - Tyrant, General, Light Armour, Vermin Guard Litter, Crown of Autocracy, Lucky Shield
+210 - Chief, Light Armour, Battle Standard, Ring of Fire
+520 - Magister Master, 4 Learned Spells, Wizard Master, The Thaumaturgy, Book of Arcane Power, Eye of the Storm
+180 - 20x Rats-at-Arms, M
+180 - 2x15 Plague Brotherhood, M
+162 - 2x38 Slaves, M
+310 - 15x Vermin Guard, S, M, The Lightning Rod
+190 - 1x8 Plague Disciples
+170 - 1x7 Plague Disciples
+190 - 3x7 Plague Disciples, C
+150 - 3x1 Weapon Team, Rotary Gun
+355 - 1x2 Thunder Hulks
+180 - 3x8 Grenadiers
+4499
+
+Tomasz "Laik" Gegotek Sylvan Elves
+ROOSTER_START_FACTION SE 230 - Dryad Matriarch, General, Wizard Apprentice, 2 Spells, Divination
+230 - Dryad Matriarch, Wizard Apprentice, 2 Spells, Divination
+375 - Chieftain, Pathfinder, Longbow, Light Armour, BSB, Hawthorn, Hail Shot, Lucky Shield
+170 - 8x Dryads
+194 - 9x Dryad Skirmishers
+200 - 2x5 Heath Riders, M
+372 - 13x Sylvan Archers, M, C
+390 - 2x9 Pathfinders
+320 - 8x Blade Dancers
+330 - 5x Briar Maidens, C
+480 - 1x Treefather
+307 - 2x3 Kestrel Knights, Shield
+4495
+
+Marcin "Kali" Szlasa-Rokicki
+630 - Beast Lord on Razortusk Chariot, General, Beast Axe, Light Armour, Shield, Bluffer's Helm, Talisman
+of Supreme Shielding
+476 - Beast Chieftain on the Chariot, Beast Axe, Heavy Armour, Battle Standard, Greater Totem Bearer,
+Lucky Shield, Dusk Stone, War Standard
+355 - Soothsayer Apprentice, The Druidism, 4 Learned Spells, Sceptre of Power
+160 - 2x10 Wildhorn Herd, Throwing Weapons, Ambush, M
+361 - 19x Wildhorn Herd, Paired Weapons, Throwing Weapons, M, S, Banner of Discipline, Ambush
+100 - 10x Mongrel Raiders, Normal Bow
+120 - 10x Mongrel Raiders, Normal Bow, Ambush, Scout
+430 - 2x1 Gortach
+370 - 1x Jabberwock, Breath Weapon
+160 - 2x5 Centaurs, Paired Weapons, Light Armour, Shield
+588 - 22x Longhorn Herd,Great Weapons, Heavy Armour, M, S, C, Banner of Speed, Totem Bearer #Black
+Wing Totem
+4500
+﻿COUNTRY_TAG RUS
+Kirill "Kiruhrer" Adelfinskiy (Captain) � Warriors of the Dark Gods
+ROOSTER_START_FACTION WoTDG 
+Chaos Lord of Wrath, General, Mark of Dark Gods (Wrath), Daemonic Steed, GW, Soul Reaper, Bluffer's
+Helm, Talisman of Supreme Shielding � 760
+
+Chaos Harbinger of True Chaos, Mark of Dark Gods (True Chaos), Battle Standard, Daemonic Steed,
+Lucky Shield, Sprout of Rebirth, GW, Waste Hardened Skin � 560
+
+Chaos Lord of Change, Mark of Dark Gods (Change), Daemonic Steed, Fleshrender, Talisman of Greater
+Shielding, Third Eye of Change, Dragonscale Helm, Crown of Scorn � 700
+
+20x Barbarians of True Chaos, Paired Weapons, M, S � 180
+
+20x Barbarians of True Chaos, Paired Weapons, M, S � 180
+
+20x Barbarians of True Chaos, Paired Weapons, M � 160
+8x Warhounds � 130
+8x Warhounds � 130
+
+8x Warhounds � 130
+
+1 Elder Dragon Centaur, Paired Weapons � 550
+
+1 Battle Shrine (Priest) of Wrath, Mark of Dark Gods (Wrath) � 260
+
+4 Crusher Knights of Wrath, Daemon Weapons, S, M, Aether Icon � 753
+
+4493
+
+Alexander "Zhval" Brykov - Kingdom of Equitaine
+ROOSTER_START_FACTION KoE 
+Favour of the King
+
+Duke, General, Barded Warhorse, Great Weapon, Shield, Questing Oath, Crusader's Helm, Divine Icon, Virtue of Audacity � 575
+
+Paladin, Battle Standard, Barded Warhorse, Great Weapon, Questing Oath, Hardened Shield, Stalker's Standard, Virtue of Daring � 383
+
+Damsel, Barded Warhorse, Master, 4 Spells, Divination, Dispel Scroll, Ring of Fire, Talisman of Roland 620
+
+11x Knights of the Realm, C,S,M, Banner of Speed - 654
+5x Knights Aspirant, S,M � 280
+5x Knights Aspirant, S,M � 280
+3x Knights of the Grail � 220
+8x Knights of the Grail, C,S,M, War Standard � 730
+5x Yeomen Outriders � 110
+5x Yeomen Outriders � 110
+5x Yeomen Outriders � 110
+
+3x Pegasus Knights, Vanguard, S, Gleaming Icon � 420
+4492
+
+Alexander "Guu" Koshkin - Daemonic Legions
+ROOSTER_START_FACTION DL Courtesan of Lust, General, 3 Spells, Eternal Sword, Shackles of Reality, Token of Lust, Wizard Master, Dance of Death, Divination � 1260
+Harbinger of Lust on Siren Chariot, BSB, 1 Spell, Blissful Bindings, Clawed Caress, Barbed Claws, Divination � 530
+10x Slaughterers, S, M � 250
+10x Slaughterers, M � 230
+10x Slaughterers, M � 230
+20x Sirens, S, M, C, Warbanner � 430
+5x Mounted Sirens, C � 200
+5x Mounted Sirens � 180
+1x Shrine of Temptation � 420
+2x Clawed Fiends � 220
+2x Clawed Fiends � 220
+1x Blood Chariot � 330
+4500
+
+Sergey �TroR� Klimenko -- Dwarven Holds
+ROOSTER_START_FACTION DH King, General, Shield, Rune of Destruction, Rune of Smashing, Rune of Shielding, Rune of Iron (x2) � 440
+Thane, BSB, Shield, Aether Icon, Rune of Iron, Rune of Dragon's Breath � 321
+Engineer, Forge Repeater, Shield, Aether Loathestone � 194
+28 Greybeards, Throwing Weapons, Shield, M, S, C, Banner of Speed � 854
+10 Clan Warriors, Shield � 140
+10 Clan Warriors, Shield � 140
+10x Miners, Pistol � 230
+10x Miners, Pistol � 230
+10x Miners, Pistol � 230
+2x Steam Copters, Attack Copter, Skirmish � 300
+2x Steam Copters, Attack Copter, Skirmish � 300
+1x Field Artillery, Cannon � 270
+1x Field Artillery, Catapult, Rune Crafted � 320
+23x Seekers, M � 526
+4495
+
+Konstantin Nikulin - Ogre Khans
+ROOSTER_START_FACTION OK Shaman Master, General, Hellfist, 4 Learned Spells, The Thaumaturgy, Book of Arcane Power, Ring of Fire 850
+Mammoth Hunter, Trolleater, Tusker, Iron Fist, Bluffer's Helm � 450
+
+6 Tribesmen, M, S � 362
+3x Bruisers � 165
+3x Bruisers � 165
+3x Bruisers � 165
+15x Scraplings, Scrapling Foreman � 120
+15x Scraplings � 80
+15x Scraplings � 80
+2x Yetis � 160
+2x Tusker Cavalry, Iron Fist, M � 340
+Thunder Cannon � 300
+Thunder Cannon � 300
+Rock Aurochs, Hunting Spear � 480
+Rock Aurochs, Hunting Spear � 480
+4497
+
+Nikolay "Zurdo" Nesterov - Vermin Swarms
+ROOSTER_START_FACTION VS 
+Vermin Daemon, Built and Bred, General, Deceiver, Wizard Apprentice, 2 spells, The Occultism � 775
+
+Plague Prophet, Built and Bred, Wizard Apprentice, Plague Pendulum, Cauldron of Blight, Fleshrender, Dragonfire Gem � 805
+
+Chief, Light Armour, BSB, Ring of Fire � 210
+
+15x Vermin Guard, M, S, The Lightning Rod � 310
+
+29x Plague Brotherhood, C, M, S � 416
+20x Rat-at-Arms, spear, M � 200
+20x Rat-at-Arms, spear, M � 200
+
+2x1 Rat Swarm - 90
+
+1x Meat Grinder � 140
+
+8x Plague Disciples � 190
+
+8x Plague Disciples � 190
+
+7x Plague Disciples � 170
+
+Lightning Cannon, Tunnel Gunners � 250
+
+Lightning Cannon, Tunnel Gunners � 250
+
+1x Rotary Gun � 150
+
+1x Rotary Gun � 150
+4496
+
+Denis "WarChild" Afanasev - Vampire Covenant
+ROOSTER_START_FACTION VC Vampire Count, General, 1 Spell, Great Weapon, Talisman of Supreme Shielding, Glitering Cuirass, Divine Icon, Von Karnstein, Storm Caller, The Dead Arise, Evocation � 790
+Vampire Courtier, BSB, 1 Spell, Ring of Fire, Wizard Apprentice, Von Karnstein, Evocation � 380
+Necromancer Master, 4 Spells, Wand of Stability, Evocation � 420
+8x Dire Wolves � 116
+8x Dire Wolves � 116
+20x Zombies, M � 130
+20x Zombies, M � 130
+35x Skeletons, M, S, C, Flaming Standard � 415
+2x Great Bats � 80
+2x Great Bats � 80
+1x Shrieking Horror � 500
+1x Shrieking Horror � 500
+36x Barrow Guard, Shield, M, S, C, Banner of the Barrow Kings � 843
+4500
+Anton "Shinymetallass" Saturin - Saurian Ancients
+ROOSTER_START_FACTION SA Firstborn Warlord, General, Glitering Cuirass, Fleshrender, Sprout of Rebirth, Raptor � 540
+Skink Captain, BSB, Blowpipe, Light Armour, Lucky Shield, Razor Blade, Starfall Shard, Taurosaur with Godly Engine � 750
+Skink Priest, Wizard Apprentice, 3 Learned Spells, The Druidism, Jade Staff, Black Cube � 310
+31x Saurian Warriors, No Totem Animal, FCG, War Standard � 701
+10x Saurian Jaguar Warriors, Jaguar totem, Musician � 210
+7x Caimans, Halberd, M, C � 610
+1x Spearback � 120
+1x Spearback � 120
+9x Skink Hunters, Blowpipe, Vanguard � 186
+8x Skink Hunters, Blowpipe, Vanguard � 172
+Stygiosaur � 330
+Taurosaur � 450
+4499
+﻿COUNTRY_TAG SCO
+Alex Wheatley (Captain) � Undying Dynasties
+ROOSTER_START_FACTION UD 
+Monarchs of the Dead, Nomarch, General, Armour of Destiny, Shield � 316
+
+Architect, Paired Weapons � 166
+
+Casket of Phatep � 200
+
+Casket of Phatep � 200
+
+Death Cult Hierarch, 3 Extra Spells, Wizard Master, Book of the Dead, Ring of Fire, Evocation � 530
+
+3 Skeleton Chariots, Light Troops � 290
+
+3 Skeleton Chariots, Light Troops � 290
+
+5 Skeleton Scouts, - 130
+
+5 Skeleton Scouts, - 130
+
+28 Skeleton Archers, [C, M] � 376
+
+30 Necropolis Guard, Paired Weapon, [C, M, S], Rending Banner � 760
+
+8 Shabtis, Paired Weapons, [M, S] � 710
+
+Charnel Catapult � 200
+
+Charnel Catapult � 200
+
+4498 Points
+
+Team: Scotland
+Tim Bohknecht � Ogre Khans
+ROOSTER_START_FACTION OK 
+Shaman, General, 3 Extra Spells, Wizard Master, Hell Fist, Book of Arcane Power, Ring of Fire, Dragon Bane Gem, Thaumaturgy, - 865
+5x Bruisers, M, C, S, - 401
+3x Bruisers, M, - 185
+3x Bruisers, M, - 185
+3x Tribesman, Paired Weapons, - 160
+23x Scraplings, Bows, M, - 194
+3x Tusker Cavalry, Light Armour and Iron Fist, - 470
+Sabretooth Tiger, - 80
+Sabretooth Tiger, - 80
+2x Yetis, - 160
+2x Yetis, - 160
+Thunder Cannon, - 300
+Thunder Cannon, - 300
+Rock Auroch, Hunting Spear, - 480
+Rock Auroch, Hunting Spear, - 480
+4500 points
+
+eam: Scotland
+Roger Barnett - Dwarven Holds
+ROOSTER_START_FACTION DH 
+King, General, Shield, Runic Items [Rune of Destruction, Rune of Fury, 2x Rune of Iron, 2x Rune of Shielding, Rune of Smashing] - 500pts
+
+King, Great Weapon, Shield Bearers, Runic Items [Rune of Iron, Rune of Resistance, Rune of Steel] - 540pts
+
+Thane, BSB, Shield - 186pts
+
+Runic Smith, Battle Runes [Rune of Gleaming, Rune of Reckoning, Rune of Resilience], Shield - 239pts
+
+Anvil of Power, Battle Runes [Rune of Resilience], Anvil Runes [Rune of Shattering, Rune of Storms] - 300pts
+
+24 Greybeards, Shields, [C, M, S], War Standard - 626pts
+
+21 Clan Marksmen, Crossbows, Shields, [M] - 524pts
+
+24 Deep Watch, [C, M, S] - 642pts
+
+Steam Bomber - 200pts
+
+Steam Bomber - 200pts
+
+Field Artillery, Cannon - 270pts
+
+Field Artillery, Cannon - 270pts
+
+4497 points
+
+Team: Scotland
+Jack Chapman - Vampire Covenant - Lamia Bloodline
+ROOSTER_START_FACTION VC 
+Vampire Count: General, Lamia [Commandment], The Dead Arise, Wizard Apprentice [Evocation], 1 Learned Spell, Heavy Armour, Shield, Magic Items [Dragon Mantle, Talisman of Supreme Shielding, Obsidian Sword] - 690
+Necromancer: Wizard Apprentice [Evocation], 1 Learned Spell, Magic Items [Dispel Scroll] 260
+Necromancer: Wizard Apprentice [Evocation], 1 Learned Spell, Cadaver Wagon [Endless Horde], MagicItems [Ring of Fire] - 400
+
+35 Skeletons, Shields, [M,S,C] - 370
+35 Skeletons, Shields, [M,S,C] - 370
+23 Zombies, [M,S] - 168
+38 Barrow Guard, Great Weapons, [M,S,C], Banner of the Barrow Kings, 1,041
+5 Dire Wolves 80
+5 Dire Wolves 80
+2 Great Bats 80
+2 Great Bats 80
+Dark Coach 440
+
+Dark Coach 440
+4,499 points
+
+Team: Scotland
+Mike Silvester - Saurian Ancients
+ROOSTER_START_FACTION SA 
+Cuatl Lord, General, BSB, Wisdom of the Ancients, Unconquerable will, Wizard Master [Pyromancy], 4 Learned Spells, Magic Items [Ring of Fire, Book of Arcane Power] - 890
+
+Firstborn Warlord, Raptor, Magic Items [Armour of Destiny, Flesh Render, Divine Icon, Dragon gem] - 545
+
+Firstborn Veteran, Raptor, Halberd, Magic Items [Armour of Fortune, Lucky charm] - 350
+
+30 Skink Braves, X3 Caiman, [M, C] - 580.
+10 Saurian Warriors - 170
+10 Saurian Warriors - 170
+10 Saurian Warriors � 170
+10 Skink Hunters, Blowpipes, Vanguard � 200
+10 Skink Hunters, Blowpipes, Vanguard - 200
+8 Chameleons - 200
+8 Chameleons - 200
+2 Weapon Beasts, Spearbacks - 240
+2 Weapon Beasts, Spearbacks - 240
+1 Stygiosaur - 330
+
+4485 points
+
+Team: Scotland
+Tom Uden - Beast Herds
+ROOSTER_START_FACTION BH 
+Beast Lord, General, Razortusk Chariot, Shield, Beast Axe, Crown of Horns, Bluffers Helm, Talisman of Supreme Shielding - 650
+
+Beast Chieftain, Totem Bearer, BSB, Raiding Chariot, Beast Axe, Sprout of Rebirth, Hardened Shield - 450
+
+Centaur Chieftain, Lance, Shield, Throwing Weapons, Totem bearer, Dark rain - 430
+
+Centaur Chieftain, Flaming Lance, Potion of Swiftness, Shield, Throwing Weapons - 270
+
+10 Wildhorn herd, Ambush, [M] - 140
+10 Wildhorn herd, Ambush, [M] - 140
+10 Wildhorn herd, Ambush, [M] - 140
+10 Wildhorn herd, Ambush - 120
+3 Raiding chariots - 370
+
+Razortusk chariot - 250
+
+Razortusk chariot - 250
+
+5 Centaur, Paired Weapons - 160
+5 Centaur, Paired Weapons - 160
+
+5 Centaur, Paired Weapons - 160
+
+15 Centaur, Paired Weapons, [M,S,C], Blackwing Totem, Gleaming Pennant - 530
+
+5 Gargoyles - 140
+
+5 Gargoyles - 140
+4500 points
+
+Team: Scotland
+Andy Dalton - Dread Elves
+ROOSTER_START_FACTION DE Dread Prince, General, Cult of Nabh, Raptor Chariot, Great Weapon, Shield, Repeater Handbow, Heavy Armour, Bluffer's Helm, Midnight Cloak, Potion of Swiftness - 620
+Cult Priest, BSB, Cult of Nabh, Divine Altar, Executioner's Blade, Divine Icon, Banner of Speed - 710
+Oracle, 2 Additional Spells, Wandering Familiar, Ring of Fire, Alchemy - 470
+25x Corsairs, Paired Weapons, Repeater Handbows, M, S, C, Flaming Standard - 665
+10x Corsairs, Paired Weapons, Repeater Handbows, M, C - 240
+10x Repeater Auxilaries, Shields, M - 240
+5x Harpies - 130
+5x Harpies - 130
+25x Executioners, M, S, C, Stalker's Standard - 750
+Dread Reaper - 180
+Dread Reaper � 180
+Dread Reaper - 180
+4495
+
+Team: Scotland
+Melvin Campbell - Sylvain Elves
+ROOSTER_START_FACTION SE Forest Prince, General, Forest Guardian, Longbow, Perforating Tip, Armour of Destiny, Lucky Charm, Whirlwind Blade 492
+Chieftain, BSB, Forest Guardian, Light Armour, Longbow, Shield, Dragonscale Helm, Sacred Spear of Cadron, 370
+Druid, 4x Spells, Book of Arcane Power, Ring of Fire, Wizard Master, Druidism, 540
+34x Forest Guard, Spears, C, M, S, War Standard, 574
+10x Sylvan Archers, M, 280
+10x Sylvan Archers, M, 280
+Forest Eagle, 100
+Forest Eagle, 100
+23x Forest Ranger, C, M, S, Amryl's Banner, 624
+10x Pathfinder, 430
+9x Pathfinder, 390
+5x Wild Huntsmen, Shields, 320
+Total: 4500
+﻿COUNTRY_TAG SRB
+Mladen "VLK" Jovi- Ogre Khans
+ROOSTER_START_FACTION OK Great Khan, General, Trolleater, Khagadai's Maul, Mammoth-Hide Cloak, Aurochs Charm � 630
+Khan, BSB, Great Weapon, Talisman of Shielding, Stalker's Standard � 360
+Shaman, 4 Spells, Great Weapon, Wizard Apprentice, Shamanism � 402
+11x Tribesmen, Iron Fist, M, S, C, Banner of Speed � 856
+3x Bruisers � 165
+3x Bruisers � 165
+2x Yettis � 160
+2x Yettis � 160
+2x Tusker Cavalry, Iron Fist � 320
+2x Tusker Cavalry, Iron Fist � 320
+Rock Aurochs, Hunting Spear � 480
+Rock Aurochs, Hunting Spear � 480
+
+Barry "Eratu13" Lynch - Warriors of the Dark Gods
+ROOSTER_START_FACTION WoTDG Chaos Lord of Lust, General, Chaos Dragon, Sword of Strength, Lucky Shield, Crown of Scorn, Lucky Charm � 980
+5x Fallen of True Chaos � 160
+5x Fallen of True Chaos � 160
+15x Wasteland Warriors of Wrath Halberd, M, C, S, Banner of Fury � 585
+Wasteland Chariot of True Chaos � 220
+Wasteland Chariot of True Chaos � 220
+3x Crusher Knights, Lances � 502
+3x Crusher Knights, Lances � 502
+5x Wasteland Knights of True Chaos, Lances - 320
+Chimaera � 425
+Chimaera � 425
+
+Matej "Malis" Mal�- Dwarven Holds
+ROOSTER_START_FACTION DH King, Shield, Rune of Shielding, Aether Loathstone, Rune of Destruction, Rune of Smashing, Rune of Iron, Rune of Iron, Rune of Fury � 500
+Engineer, Forge Repeater � 160
+Engineer, Forge Repeater � 160
+20x Greybeards, Throwing Axes, Shields, M, C, S, Gleaming Icon � 590
+18x Clan Marksmen, Guild-Crafted Handguns, Shields, M, C � 544
+18x Rangers: Great Weapons, Crossbows, M, C � 564
+10x Miners, Pistols � 230
+10x Miners, Pistols � 230
+Cannon � 270
+Cannon � 270
+Grudge Buster � 370
+Grudge Buster � 370
+Vengeance Seeker � 120
+Vengeance Seeker - 120
+ebojsa "Svenson" Jovanovi - Dread Elves
+ROOSTER_START_FACTION DE Dread Prince, General, Beast Master, Raptor Chariot, Great Weapon, Shield, Heavy Armour, Midnight Cloak, Bluffer's Helm � 666
+Dread Captain, Battle Standard, Beast Master, Lance, Shield, Dusk Stone, Dragonscale helm, Elven Horse � 476
+Oracle, 4 Spells, Skull Splitter, Ring of Fire, Sceptre of Power, Wizard Master, Witchcraft - 555
+5x Dark Riders, Shield � 200
+10x Repeater Auxiliaries, M � 220
+10x Repeater Auxiliaries, M � 220
+19x Corsairs, Paired Weapons, Repeater Handbow, S, M, Banner of Discipline � 491
+5x Harpies � 130
+6x Dread Knights, S, M, War Standard � 382
+Kraken � 360
+Kraken � 360
+Hydra - 440
+
+Vedran "Razon" Zuani - Orcs and Goblins
+ROOSTER_START_FACTION O&G Iron Orc Warlord, General, Boar Chariot, Great Weapon, Bluffer's Helm, Sprout of Rebirth � 610
+Feral Orc Warlord, Wyvern, Shield, Axe of Aporcalypse, Plates of Tuktek, Potion of Swiftness � 660
+Cave Goblin Chief, BSB, Shield, Crown of Cavern King � 200
+Cave Goblin Witch Doctor, 4 Spells, Wizard Apprentice, Pyromancy � 330
+30x Cave Goblins, 2 Mad Gits, Bow, M � 360
+30x Cave Goblins, 2 Mad Gits, Bow, M � 360
+30x Common Orcs, Shield, Bow, M, S, C � 420
+Greenhide Catapult - Git Launcher, Overseer � 200
+Greenhide Catapult - Git Launcher, Overseer � 200
+Greenhide Catapult - Splatterer, Overseer � 200
+Gargantula � 480
+Gargantula � 480
+
+Franjo "ArchangelusM" Bolkovac � Highborn Elves
+ROOSTER_START_FACTION HE Lords of the Seas, Prince, General, Royal Huntsman, Lion Chariot, Great Weapon, Heavy Armour, Bluffer's Helm, Sprout of Rebirth, Divine Icon � 746
+Lords of the Seas, Prince, BSB, High Warden of the Flame, Frost Phoenix, Great Weapon, Bronze Breastplate, War Standard, Crown of Scorn � 901
+31x Citizen Spears, M, S, C, Flaming Standard � 563
+10x Citizen Archers, M � 200
+10x Citizen Archers, M � 200
+10x Citizen Archers, M � 200
+6x Knights of Ryma, M, S, C, Aether Icon � 509
+10x Queens Guard � 300
+10x Queens Guard � 300
+Sky Sloop, Sky Reaper � 240
+Sky Sloop, Sky Reaper � 240
+Giant Eagle � 100
+Dragomir "5+" Dopua - Kindom of Equitane - Favour of the King
+ROOSTER_START_FACTION KoE Duke, General, Pegasus, Virtue of Might, Shield, Dragon lance, Crusader's Helm, Dragonfire gem � 605
+Paladin, BSB, Pegasus, Virtue of Renown, Shield, Lance, Dragonscale helm, Lucky charm, Axe of Battle - 516
+Damsel, 4 spells, Warhorse, Essence of the free Mind, Wizard Apprentice, Shammanism / Divination - 400
+11x Knights of the Realm, M, B - 584
+9x Knights of the Realm, M, B � 476
+5x Knight Aspirant - 240
+5x Knight Aspirant � 240
+5x Yeoman Outriders � 110
+5x Yeoman Outriders � 110
+5x Yeoman Outriders � 110
+3x Pegasus Knights, B - 380
+8x Grail Knights, M, B, Flaming Standard - 725
+
+Vladimir "Severian" urci - Saurian Ancients Army
+ROOSTER_START_FACTION SA Firstborn Warlord, General, Heavy Armour, Sword of the Dawn Ages, Dusk Stone,Hardened Shield � 500
+Skink Captain, BSB, Taurosaur, Spear of the Stampede, Lucky Shield � 670
+Skink Priest, 2 Spells, Dispel scroll, Wizard Apprentice, Druidism � 280
+24x Saurian Warriors, M, S, C, Banner of Speed - 574.0
+10x Saurian Warriors � 170
+10x Saurian Warriors � 170
+7x Caimans, M, C, Great Weapon - 666
+10x Skink Hunters, Vanguard � 200
+10x Skink Hunters � 180
+Stygiosaur, C � 450
+Thyroscutus, Sun Engine - 250
+Spearback � 120
+Spearback � 120
+Salamander � 150
+﻿COUNTRY_TAG ESP
+Alberto "Caxorro" Carrillo - Coach (c)
+Alberto " AlberOrdnance" Gonz�lez - Coach
+
+Miguel "CaaL" Calder�n - The Vermin Swarm
+ROOSTER_START_FACTION VS 
+388 - Plague Prophet, General, Wizard Apprentice, 2 spells, flail, Crown of autocracy, Shielding scroll, Shamanism
+160 - Chief, BSB
+388 - Plague Prophet, Wizard Apprentice, 2 spells, flail, Dispel scroll, Shamanism
+360 - Tyrant, The Doom Blade
+395 - Sicarra Assassin, Lethal Strike, Potion of strength, Dragonfire gem
+180 - 2x15 Plague Brotherhood, M
+458 - 32x Plague Brotherhood, M, S, C
+310 - 15x Vermin Guard, M, S, The Lightning Rod
+180 - 2x8 Grenadiers
+180 - 5x Gutter Blades, Scout and Ambush
+270 - 12x Plague Disciples
+290 - 3x13 Plague Disciples
+4499
+
+Alvaro "SMB" L�pez - Daemon Legions - Politheist army
+ROOSTER_START_FACTION DL 
+1095 - Scourge of Wrath, General, Eternal Fury, Obsidian Horn, Iron Hide, Eternal Sword
+480 - Harbinger of Pestilence, Blight Fly, Contamination, Nauseating Aura
+304 - 2x12 Slaughterers, Onslaught, C
+270 - 10x Slaughterers, Onslaught, C, M
+250 - 10x Slaughterers, Onslaught, C
+710 - 5x Blight Flies, S, C, Banner of Speed
+435 - 3x Crusher Cavalry, S, C, Aether Icon
+330 - Blood Chariot
+180 - 5x Mounted Sirens
+140 - 5x Furies, wrath
+4498
+
+Manuel "MUZGOT" Avil�s - Infernal Dwarves
+ROOSTER_START_FACTION ID 
+536 - Overlord, General, Onyx Hammer, Dragon mantle, Sprout of rebirth, Potion of swiftness, Shield
+280 - Vizier, BSB, ring of dessication, hardened shield
+510 - Prophet, Wizard master, 4 spells, Alchemy, essence of a free mind, pyromancy
+142 - Hobgoblin Chieftain on wolf, Shield, light armour, throwing weapons
+525 - 25 Infernal Warriors, shield, Blunderbuss, M,S,C, banner of speed
+170 - 2x20 Hobgoblins, bow, M
+140 - 20 Slave Orcs, M
+120 - 20 Slave Orcs
+675 - 23 Inmortals, infernal weapon, shield, M,S,C, flaming standard
+170 - 5 Taurukh, Shield
+180 - 5 Taurukh, Shield, paired weapons
+398 - 3 Taurukh anointed, Musician, paired weapons
+480 - Infernal engine, Shrapnel guns
+4496
+Juan Pablo "Conan" Garc�a - Dwarven Holds
+ROOSTER_START_FACTION DH 800 - King on War Throne, General, Rune of Craftsmanship, Rune of Might, Rune of Destruction, Rune of Iron, Rune of Steel, Rune of the Forge 
+186 - Thane, BSB, Shield
+389 - Runic Smith, Rune of Gleaming, Rune of Resilience, Rune of Resolve, Shield, Rune of Brilliance,
+Rune of Mastery
+300 - Anvil of Power, Rune of Storms, Rune of Shattering, Rune of Gleaming
+670 - 25 Greybeards, Shield, M,S,C, Runic Standard of Swiftness
+470 - 25 Warriors, Shield, Spears, M, S
+370 - 15 Deep Watch, Music, Champion
+230 - 10 Miners, Pistols
+384 - 14 Rangers, Shield, Crossbows
+300 - 2 Steam Attack Copters, Skirmish
+200 - 2x1 Steam Bomber
+4499
+
+Daniel "Danny" Camargo - Orcs & Goblins
+ROOSTER_START_FACTION O&G 
+710 - Orc Warlord on wyvern , General, Iron Orc, Talisman of Supreme Shielding, blessed sword, Hardened shield, Waaargh!
+525 - Orc Warlord on war boar, Feral Orc, Shield, Axe of Aporcalypse, Potion of swiftness, glitering cuirass
+360 - Goblin Witch Doctor, Common goblin, 4 Spells, wizard master, Pyromancy
+200 - Cave Goblin Chief, shield, BSB, crown of the cavern king
+442 - 33 Orcs , M, c, bow, spear
+360 - 2x 30 cave goblins , Bows, M, 2x mad gits s
+200 - 2x1 Green hide catapult , git launcher, orc overseer
+180 - Green hide catapult, splatterer
+480 - 2x1 Gargantula
+4497
+
+Alberto "PAGAN" Hern�ndez Paredes- KOE - Favour of the king
+ROOSTER_START_FACTION KoE 
+345 - Duke, General, Virtue of Humilty, Crown of Autocracy, Skull Splitter
+260 - Duke, Virtue of Humilty, Ring of Fire
+180 - Damsel, 1 Spell, Shielding Scroll, Divination
+150 - Damsel, 1 Spell, Divination
+220 - Damsel, 2 Spells, Sceptre of Power, Divination
+372 - 2x49 Peasant Levy, Spear, M
+220 - 2x30 Peasant Levy, Spear, M
+388 - 29 Peasant Bowmen, M
+290 - 2x15 Brigands
+260 - 2x1 Sacred Reliquary
+280 - 2x1 Siege War Machine: Trebuchet
+110 - 5 Yeoman Outriders, Throwing Weapons
+4497
+
+Borja "BARROSO" Rey - Ogre khans - Wildheart
+425 - Mammoth hunter on Tusker, General, iron fist, bluffers helm, dragonfire gem, wildheart
+460 - Mammoth hunter on Tusker, BsB, headhunter, ironfist, , aurochs charm, dragonscale helm, lucky charm
+400 - Mammoth hunter on Tusker, iron first, glittering cuirass, talisman of shielding, crown of scorn
+180 - 5x3 Tribesmen, M
+320 - 2x2 tusker cavalry, LA & iron fist
+395 - 2 tusker cavalry, LA & iron fist, S, aether icon
+160 - 2x2 yetis
+480 - 1 Rock aurochs, hunting spear
+480 - 1 Rock aurochs, Ogre Crossbow
+4500
+
+Pablo "Turtle" Vega - Vampire Covenant
+ROOSTER_START_FACTION VC 
+830 - Vampire Count, General, The Dead Arise, Blood Magic, 4 Spells, Unholy Tome, Staff of Gerhard the black, Wizard Master, Nosferatu, Occultism
+380 - Necromancer Apprentice, 1 Spells, Cadaver Wagon, Endless Horde, Shielding Scroll, Evocation
+260 - Necromancer Apprentice, 1 Spells, Dispel Scroll, Evocation
+230 - Necromancer Apprentice, 2 Spells, Sceptre of Power, Evocation
+590 - 54x Skeletons, Spears, M, C, S, War Standard
+560 - 54x Skeletons, Spears, M, C, S
+370 - 35x Skeletons, Spears, M, C, S
+130 - 2x20 Zombies, M
+460 - Altar of Undeath, Dark Tome
+400 - Altar of Undeath
+80 - 2x2 Great Bats
+4500
+﻿COUNTRY_TAG SWE
+Captain/Coach (non-playing): Christian Wennberg
+Coach (non-playing): Erik Aronsson
+
+Kaj "2fast4um8" Gyllinger - Daemon Legions
+ROOSTER_START_FACTION DL Courtesan of Lust, General, 2 Spells, Dance of Death, Eternal Sword, Shackles of Reality, Token of Lust, Divination - 1140
+15x Sirens, M, S, C, War Standard - 330
+2x15 Sirens, M, S, C - 300
+2x5 Furies of Lust - 140
+5x Clawed Fiends, Clawed Caress - 630
+2x6 Clawed Fiends, Clawed Caress - 760
+Total: 4500
+
+Oscar "Maelstorm" Lagnel�v - Infernal Dwarves
+ROOSTER_START_FACTION ID Overlord, General, Shield, Onyx Hammer, Dragon Mantle, Duskstone, Gauntlet of Madzhab - 526
+Vizier, BSB, Flaming Standard, Hardened Shield, Ring of Desiccation - 325
+Prophet, Wizard, 4 Spells, Flintlock Axe, Ring of Fire, Essence of a Free Mind, Wizard Master, Alchemy/Pyromancy - 576
+18x Citadel Guards, Flintlock Axes, M - 582
+17x Citadel Guards, Flintlock Axes, M� 548
+24x Immortals, Shields, Infernal Weapons, M, S, C, Banner of Speed - 710
+5x Kadim Incarnates - 550
+2x1 Rocket Battery, Bound Deamon � 340
+Total: 4497
+
+Marcus "Katy Perry" Engblom - Ogre Khans
+ROOSTER_START_FACTION OK Shaman, General, Hellfist, 4 Spells, Thaumaturgy, Ring of Fire, Iron Fist, Sceptre of Power - 708
+Mammoth Hunter, Tusker, Iron Fist, Ogre Crossbow, Dragonscale Helm, Duskstone - 390
+Mammoth Hunter, Tusker, Iron Fist, Ogre Crossbow, Bluffer's Helm, Dragonfire Gem - 395
+4x3 Bruisers - 165
+6x Tribesmen, Iron Fists, M, S, C - 466
+2x Tusker Cavalry, Iron Fists - 320
+2x1 Thunder Cannon - 300
+2x1 Rock Auroch - 480
+Total: 4499
+
+Marcus "Twinkhunter" �stling - Saurian Ancients
+ROOSTER_START_FACTION SA Warlord, General, Raptor, Fleshrender, Glittering Cuirass, Sprout of Rebirth - 540
+Veteran, BSB, Raptor, Great Weapon, Armour of Destiny, Lucky Charm - 460
+Veteran, Raptor, Great Weapon, Armour of Fortune, Dragonfire Gem, Crown of Scorn - 405
+Veteran, Raptor, Sword of Strength, Dusk stone, Hardened Shield - 370
+3x10 Saurian Warriors, M - 190
+2x10 Saurian Warriors - 170
+11x Skank Hunters, Vanguard, Blowpipes - 214
+12x Skank Hunters, Vanguard, Blowpipes - 228
+5x Chameleons - 140
+9x Chameleons - 220
+2x2 Spearbacks - 240
+Taurosaur, Engine of the Ancients - 530
+Total: 4497
+
+Daniel "Stampede" Tooke - Undying Dynasties
+ROOSTER_START_FACTION UD Death Cult Hierarch, General, Hierophant, 4 Spells, Book of the Dead, Ring of Fire, Wizard Master, Evocation - 530
+Tomb Architect - 160
+16x Skeleton Archers, M - 212
+3x13 Skeleton Archers, M - 176
+3x5 Skeleton Scouts - 130
+8x Shabtis, Halberds, M - 770
+3x Great Vultures - 160
+3x1 Battle Sphinx - 450
+2x1 Casket of Phatep - 200
+Total: 4500
+
+Peter Edvardsson - Vermin Swarm
+ROOSTER_START_FACTION VS Tyrant, General, Vermin Guard Litter, Crown of Autorcracy - 310
+Chief, BSB, Ring of Fire - 210
+Magister, 4 spells, Wizard Master, Thamaturgy - 380
+3x15 Plague Brotherhood, M - 180
+20x Rat-at-Arms, M - 180
+50x Slaves, M - 210
+47x Slaves, M - 198
+4x7 Plague Diciples - 170
+3x1 Rotary Gun - 150
+3x8 Grenadiers - 180
+2x1 Abomination - 400
+Total: 4498
+
+Morgan "Moog" Andersson - Orcs and Goblins
+ROOSTER_START_FACTION O&G Iron Orc Warlord, General, Waaargh, Great Weapon, Paired Weapons, Shield, Dragon Mantle, Talisman of Supreme Shielding - 540
+Common Goblin Chief, BSB, Shield, Crown of the Cavern King - 200
+Common Goblin Witch Doctor, 4 Spells, Ring of Fire, Sceptre of power, Wizard Master, Pyromancy - 430
+36x Common Goblins, 3 Shady Gits, Bows, Shields, M, S, War Standard - 388
+24x Common Goblins, Shady Git, Bows, Shields, M � 222
+30x Cave Goblins, 2 Mad Gits, Bows, M � 360
+5x Orc Boar Riders, M � 160
+3x6 Gnasher Dashers � 174
+23x Iron Orcs, M, S, C � 598
+5x Goblin Raiders, wolves � 120
+2x1 Gargantulas � 480
+Total: 4500
+
+Mathias Eriksson � Beast Herds
+ROOSTER_START_FACTION BH Beast Lord, General, Razortusk Chariot, Shield, Beast Axe, Bluffer's Helm, Crown of Horns, Talisman of Supreme Shielding - 650
+Beast Chieftain, BSB, Raiding Chariot, Shield, Beast Axe, Greater Totem Bearer, Armour of Fortune - 416
+Centaur Chieftain, Paired Weapons, Aaghor's Flayed Hide - 346
+Soothsayer, 4 spells, Ring of fire, Druidism - 385
+15x Wildhorn Herd, Ambush, Paired Weapons, Throwing Weapons, M, S, Banner of Discipline - 305
+3x10 Wildhorn Herd, Ambush, Paired Weapons, Throwing Weapons - 160
+13x Mongrel Raiders - 130
+19x Centaurs, Blooded Horn Totem, Great Weapons, M, S, C, Flaming standard - 753
+2x6 Centaurs, Paired Weapons - 188
+2x1 Raiding Chariot - 130
+5x Gargoyles - 140
+Razortusk Chariot - 250
+Total: 4491
+COUNTRY_TAG CHE
+Coach: Sylvain "Cocofreeze" Jaber
+
+Andy Geiser, captain - Highborn Elves
+ROOSTER_START_FACTION HE High prince, general, Ancient dragon, great weapon, divine icon, lucky shield, great bow of elu, lucky charm -1120
+Commander, BSB , 4 spells, master of Canreig Tower, great weapon, Dispel scroll, Druidism - 586
+20 citizen spears, M,C - 300
+20 citizen spears. M - 280
+10 citizen archers - 180
+2x5 elein reavers, bow - 190
+2x1 sky sloop, sky reaper - 240
+14 queens guard, M - 412
+2x5 knights of ryma , M, C - 380
+4498
+
+Alan "2dipicche" Roncoroni - Beast Herds
+ROOSTER_START_FACTION BH 690 - Beastlord on Razortusk Chariot, General, Hunting Call, Shield, Beast Axe, Talisman of Supreme Shielding, Bluffer's Helm, Crown of Horns 
+356 - Beast Chieftain, BSB, Greater Totem Bearer, Heavy Armour, Beast Axe, Seed of the Dark Forest, Hardened Shield
+555 - Soothsayer, Wizard Master, 4 Spells, Druidism, Dispel Scroll, Ring of Fire
+485 - 25 Wildhorn Herd, Ambush, Throwing Weapons, Paired Weapons, FC, Blooded Horn Totem, Banner of Discipline
+184 - 2x 12 Wildhorn Herd, Ambush, Throwing Weapons, M
+100 - 10 Mongrel Raiders
+862 - 33 Longhorn Herd, Great Weapons, M,S,C, Stalker's Standard, Black Wing Totem
+200 - 4x 5 Centaurs, Throwing Weapons, Paired Weapons, M
+140 - 2x 5 Gargoyles
+4496
+
+Paul "Polux" Berclaz, Dwarven Holds
+ROOSTER_START_FACTION DH Engineer, General, shield -144
+Anvil, Rune of Storms, Rune of Shattering, Rune of Resilience- 300
+Engineer, forge repeater, shield-164
+4x10 warriors, M, shield, throwing weapon- 180
+10 warriors, M, shield, throwing weapon, vanguard- 200
+10 greybeards, M, shield-  220
+2x1 grudge buster -370
+Vengance seeker -120
+2x2 Attack Copter, skirmish-300
+3x10 miners, M, pistols-250
+2x1 cannon - 270
+4498
+
+Mathieu "Math-CD" Bovet - Kingdom of Equitaine
+ROOSTER_START_FACTION KoE Favour of the King
+Duke, general, virtue of humility, crown of autocracy, - 280
+Duke, virtue of humility, wizard hood, sceptre of power - 335
+Damsel, wizard master, 4 spells, dispel scroll, ring of fire, Divination - 520
+50x Peasants Levy, M,S,C, spears - 420
+50x Peasants Levy, M,S,C, spears - 420
+50x Peasants Levy, M,S,C, spears - 420
+44x Peasants Levy, M, spears - 332
+5x Mounted Yeomen, throwing weapons - 110
+15x Brigands - 290
+15x Brigands - 290
+1x Sacred Reliquary - 260
+1x Sacred Reliquary - 260
+1x Trebuchet - 280
+1x Trebuchet - 280
+4497
+
+Dimitri "Dim" Zaganidis - Orcs and Goblins
+ROOSTER_START_FACTION O&G Cave Goblin King, General, Green Tide, Crown of Autocracy, Crown of the Cavern King - 280
+Cave Goblin Chief, BSB, Banner of Discipline - 155
+Cave Goblin Witch Doctor, 4 spells, Dispel scroll, Ring of Fire, Wizard Master, Pyromancy - 550
+Cave Goblin Chief, Cave Gnasher, Lance, Shield, Dragonfire Gem - 137
+Cave Goblin Chief, Cave Gnasher, Great Weapon, Shield, Pan of Protection Pichin' - 152
+Cave Goblin Chief, Cave Gnasher, Lance, Shield, Dragonscale Helm, Skull splitter - 217
+45 Cave Goblins, bows, 3 Mad Gits, M,S,C, Banner of Speed - 620
+30 Cave Goblins, bows, 2 Mad Gits, M,C - 380
+20 Cave Goblins, M,C - 160
+2x6 Gnasher Dashers - 174
+2x1 Git Launcher - 180
+2x1 Skewerer - 90
+2x1 Gargantula - 480
+4499
+
+Filip "Pulps" Grebac - Saurian Ancients
+ROOSTER_START_FACTION SA Cuatl Lord, General, BSB, 4 Spells, Ancient Knowledge, Wellspring of power, Ring of Fire, Dispel Scroll, Divination -950
+Skink Priest, 1 Spell, Druidism -130
+Skink Priest, 1 Spell, Druidism -130
+20x Skink Braves, M, +2 Caimans, -390
+20x SKink Braves, M, +2 Caimans, -390
+20x Skink Braves, M, +1 Caimans, -300
+2x Spearback, -240
+2x Spearback, -240
+2x Salamander, -300
+1x Taurosaur, Engine of the Gods, -530
+1x Taurosaur, -450
+1x Taurosaur, -450
+4500
+
+Victor "Sevic" Rossier - Sylvan Elves
+ROOSTER_START_FACTION SE Chieftain, General, Pathfinder, Longbow, Great Weapon, Hawthorn Points - 251
+Chieftain, BSB, Pathfinder, Longbow, Great Weapon, Banner of Discipline - 330
+Druid, 4 Spells, Dispel Scroll, Ring of Fire, Wizard Master, Druidism - 540
+16 Forest Guards, M, S, C - 256
+3x 8 Dryads - 170
+2x 5 Heath Riders, Longbow and Fast Cavalry - 180
+11 Blade dancers, C - 430
+2x 10 Pathfinders - 430
+2x1 Treefather - 480
+4497
+
+Xavier Panchard - Vampire Covenant
+ROOSTER_START_FACTION VC Necromancer, alchemy, 4 spells, wizard master, ring of fire - 430
+Necromancer, general, evocation, 1 spell, the dead arise, dispel scroll - 290
+Necromancer, evocation, 1 spell, cadaver wagon, endless horde - 350
+Necromancer, evocation, 1 spell, unholy tome - 210
+Barrow king, BSB, dragon mantle, flaming standard - 305
+2x20 zombies, M - 130
+21 zombies, M - 136
+46 skeletons, M,S,C, spears, war standard - 510
+2 great bats - 80
+32 Barrow guards, shields, M,S,C, banner of the barrows Kings- 751
+2x3 vampire spawns - 220
+4 winged reapers, halberds - 736
+4498
+
+COUNTRY_TAG TUR
+Coach 1: Can Adatepe, Adatopoulos, ETC 9th age
+Coach 2: Riza Eraslan, Count of Hochland, ETC 9th age
+
+Team Turkey
+Burak Sonbudak Dwarves
+
+ROOSTER_START_FACTION DH 
+
+Dwarf King on Shieldbearer (General, Shield, Rune of Might x2, Rune of Destruction, Rune of Dragon's Breath, Rune of Shielding) 620
+Thane (BSB, Holdstone, Shield, Rune of Iron x2, Runic Standard of Swiftness, Rune of Dragon's Breath) 386
+Runesmith (Shield, Rune of Gleaming,Rune of Resilience, Rune of Reckoning, Rune of Dragon's Breath, Rune of Infamy, Rune of Armor x2, Rune of Crushing) 379
+40 Clan Warriors (Great Weapon, M,C,S Gleaming Icon) 850
+10 Warrior (Musician, Shield) 160
+10 Warrior (Musician, Shield) 160
+30 Deep Watch (Runic Standard of Shielding, M, C, S (FC)) 890
+10 Miners (Musician, Pistol) 250
+10 Miners (Musician, Pistol) 250
+Cannon 270
+Cannon 270
+
+----
+
+Team Turkey
+Bati - ElectorCount - Safel Orcs and Goblins
+ROOSTER_START_FACTION O&G 
+Iron Orc Warlord (General, Shield, Jack's Pickaxe, Dragon Mantle, Talisman of Shielding, Crown of Autocracy) 550
+Feral Orc Chief (BSB, Mithril Mail, Great Weapon) 280
+Feral Orc Shaman (Level 4, 4 spells, Wizard Master, Path: Pyromancy, Ring of Fire) 475
+49 Savage Orc (M,C,S (FC) Spear, Bow) 784
+49 Savage Orc (M,C,S (FC) Spear, Bow) 784
+49 Savage Orc (M,C,S (FC) Spear, Bow) 784
+Git Launcher (Overseer) 200
+Git Launcher (Overseer) 200
+Splatterer (Overseer) 200
+5 Goblin Raiders 120
+5 Goblin Raiders 120
+
+Team Turkey
+Ozcan Adnan -LegioIgnatum- Kukner Ogre Khans
+ROOSTER_START_FACTION OK 
+Great Khan (General, Hoardmaster, Heart-Ripper, Mammoth-Hide Cloak, Dusk Stone) 580
+Khan (BSB, Gem of Fortune) 295
+Great Shaman (Level 4, 4 spells, Path: Pyromancy, Great Weapon) 472
+Mammoth Hunter on Tusker (Trolleater, Hunting Spear, Iron Fist, Bluffer's Helm) 450
+8 Tribesman (M,C,S (FC) Iron Fist) 602
+3 Bruiser (Musician)185
+3 Bruiser (Musician)185
+3 Bruiser 165
+Rock Auroch (Hunting Spear) 480
+Rock Auroch (Hunting Spear) 480
+Thunder Cannon 300
+Thunder Cannon 300
+
+---
+
+Team Turkey
+Cagdas -Tulmir - Coskun Kingdom of Equitaine
+ROOSTER_START_FACTION KoE 
+Favour of the King
+Duke on Barded Horse (General, Shield, Fleshrender, Crusader's Helm, Virtue of Audacity, Questing Oath) 565
+Paladin on Barded Horse (BSB, GW, Questing Oath, Hardened Shield, Warbanner, Virtue of Piety) 358
+Damsel Mistress on Barded Horse (Level 4, 4 spells, Path: Divination, Ring of Fire, Scepter of Power) 490
+15 Realm Knights (M,C,S (FC) Banner of Last Charge) 860
+5 Aspirant Knights (Standard, Musician) 280
+8 Grail Knights (Standard, Musician) 680
+8 Grail Knights (Standard, Musician) 680
+5 Yeomen Outrider (Throwing Axe) 110
+5 Yeomen Outrider (Throwing Axe) 110
+Green Knight 360
+
+---
+
+Team Turkey
+Emre - Firelance - Karakas Warriors of the Dark Gods
+ROOSTER_START_FACTION WoTDG 
+Chaos Lord on Daemonic Steed (General, Mark of Wrath, Great Weapon, Soul Reaper, Bluffer's Helm, Sprout of Rebirth, Divine Icon) 780
+Chaos Harbringer on Daemonic Steed (BSB, Mark of Wrath, Great Weapon, Waste Hardened Skin, Talisman of Supreme Shielding) 610
+Chaos Lord on Steed of Lust (Mark of Lust, Shield, Jack's Pickaxe, Dragonscale Helm, Talisman of Greater Shielding, Crown of Scorn) 630
+21 Barbarians (Paired Weapons, Musician) 170
+20 Barbarians (Paired Weapons, Musician) 160
+20 Barbarians (Paired Weapons, Musician) 160
+8 Warhounds 130
+8 Barbarian Horseman (Shield, Standard, Warbanner) 282
+Elder Dragon Centaur (Great Weapon) 540
+4 Crusher Knights (Lance, S, M, Aether Icon) 721
+Bloodbeast 315
+
+Team Turkey
+Can - Theoden - Ozede Infernal Dwarves
+ROOSTER_START_FACTION ID 
+Prophet (General, Wizard Master, Level 4, 4 Spells, Path: Alchemy, Scepter of Power, Gem of Fortune) 510
+Prophet (Wizard Master, Level 4, 4 Spells, Path: Pyromancy, Besheluk's Mechanism) 500
+Vizier (BSB, Banner of Discipline, Hardened Shield) 245
+40 Infernal Warrior (M,C,S (FC) Flaming Standard, Great Weapon) 895
+15 Infernal Warrior (Musician, Blunderbuss) 235
+5 Kadim Incarnates 550
+5 Kadim Incarnates 550
+4 Kadim Incarnates 440
+5 Taurukh (Musician, Shield) 190
+5 Taurukh (Musician, Shield) 190
+5 Taurukh (Musician, Shield) 190
+---
+
+Team Turkey
+Devin Erelcin Beast Herds
+ROOSTER_START_FACTION BH 
+Beast Lord on Razortusk Chariot (General, Beast Axe, Hardened Shield, Talisman of Supreme Shielding, Crown of Autocracy) 620
+Beast Chieftain on Raiding Chariot (BSB, Great Totem Bearer, Beast Axe, Shield, Armor of Fortune) 416
+Beast Chieftain on Raiding Chariot (Great Totem Bearer, Beast Axe, Shield, Heavy Armor, Talisman of Greater Shielding) 382
+Soothsayer (Level 3, Master, Druidism, Scepter of Power) 375
+42 Wildhorn Herd (Paired Weapon, M,C,S (FC) Banner of Wild Herd) 614
+10 Wildhorn Herd (Musician, Throwing Weapon, Ambush) 160
+10 Wildhorn Herd (Musician, Throwing Weapon, Ambush) 160
+5 Centaur (Musician, Paired Weapons) 180
+5 Centaur (Musician, Paired Weapons) 180
+5 Centaur (Musician, Paired Weapons) 180
+Gortarch 430
+Gortarch 430
+Jabberwock (Breath Weapon) 370
+
+---
+
+Team turkey
+Mesut Gultepe Vampire Covenant
+ROOSTER_START_FACTION VC 
+Vampire Count Von Karnstein (General, Apprentice Wizard, Level 1, The Dead Arise, Great Weapon, Mithril Mail, Talisman of Supreme Shielding, Storm Caller) 760
+Barrow King (BSB, Tullius Teeth) 310
+Necromancer (Level 4, 4 Spells, Wizard Master, Path: Evocation, Scepter of Power) 400
+Necromancer (Level 1, Path: Evocation) 160
+46 Skeletons (M,C,S (FC) Hand Weapon+Shield, Veteran Standard, Warbanner) 510
+20 Zombies (Musician) 130
+20 Zombies (Musician) 130
+20 Zombies (Musician) 130
+38 Barrow Guard (M,C,S (FC) Halberd, Banner of Barrow Kings) 965
+Shrieking Horror 500
+Shrieking Horror 500
+﻿COUNTRY_TAG UKR
+Captin Konstantin Volokhin - Sylvan Elves
+ROOSTER_START_FACTION SE 880 - Treefather Ancient, Book of Arcane Power, Wizard Master, 4 spells, Druidism 
+376 - Chieftain, BSB, Forest Guardian, Sacred Spear of Cadaron, Dragonscale Helm, LA, Shield, elven cloack
+295 - Chieftan, Pathfinder, Longbow, GW, Ring of Fire
+245 - Chieftan, Pathfinder, Longbow, GW
+670 - 40 Forest Guard, FCG, War Standard
+468 - 17 Sylvan Archers, MC
+340 - 8 Bladedancers, C
+370 - 9 Bladedancers, C
+210 - 2x5 Briar Maidens
+430 - 10 Pathfinders
+4494 pts
+
+Sviatoslav "Nameless One" Malanov � Dread Elves
+ROOSTER_START_FACTION DE Dread prince, General, Raptor chariot, Great Weapon, Heavy armor, Repeater crossbow, Midnight cloak, Bluffer's helm -584
+Cult priest, BSB, Cult of Nabh, Divine Altar, Executioner's blade, Crown of scorn, Stalker's standard -710
+35 x Dread Legionnaires, C, M -540
+10 X Repeater Auxiliaries. M. -220
+10 X Corsairs, Repeater handbows, M - 200
+5 X Dark Raiders - 170
+5 X Dread Knights. B, Aether Icon 335
+5 X Dark Acolytes -240
+25 X Executioners. Special. C,B, Icon of relentless company - 700
+Dread reaper - 180
+Dread reaper - 180
+Hydra - 440
+Total: 4499 points
+
+ANDRII BARANOVSKYI 4500 Pts - Dwarven Holds Army
+ROOSTER_START_FACTION DH 1 King @ 410.0 Pts
+General, Plate Armour, Shield, Runic Armour [60.0] ( Rune of Crushing (10), Rune of Iron (x2))
+Runic Talisman [60.0] Rune of Shielding (x2)
+Runic Weapon [40.0] Rune of Smashing
+1 Thane @ 266.0 Pts
+Plate Armour, Shield, Battle Standard
+Runic Armour [40.0] Rune of Iron (x2)
+Runic Talisman [40.0] Rune of Shielding, Rune of the Forge
+1 Runic Smith @ 419.0 Pts
+Plate Armour, Shield
+Runic Armour [20.0], Rune of Iron
+Bound Spell: Rune of Resilience [20.0], Bound Spell: Rune of Reckoning [20.0], Bound Spell: Rune of Gleaming [20.0]
+Runic Arcane Items [100.0], Rune of Denial
+Runic Talisman [60.0], Rune of Dragon's Breath
+10 Clan Marksmen - Guild Handgunners @ 290.0 Pts, Shield, Musician
+26+1 Greybeards @ 880.0 Pts Great Weapon, Shield, Veteran Magic Standard, Musician Banner of Speed [50.0], Champion @ [20.0] Pts
+27+1 King's Guard @ 890.0 Pts, Great Weapon, Plate Armour, Standard, Musician, Runic Standard of 4Shielding [80.0], Champion @ [20.0] Pts
+10 Miners @ 230.0 Pts, Pistol
+1 Engineer @ 144.0 Pts, Shield
+1 Steam Attack Copters @ 160.0 Pts
+1 Steam Attack Copters @ 160.0 Pts
+1 Field Artillery - Organ Gun @ 325.0 Pts, Rune Crafted
+1 Field Artillery - Catapult @ 320.0 Pts, Rune Crafted
+Models in Army: 85
+Total Army Cost: 4494.0
+
+Mark Abarenko � Undying Dynasties
+ROOSTER_START_FACTION UD Death Cult Hierarch: Evocation, 4 Learned Spells, Wizard Master, Soul Conduit, Army General, Hierophant, Book of the Dead, Sandstorm Cloak � 630
+Tomb Architect: Ring of Fire � 210
+Tomb Architect: Skull Splitter � 225
+17x Skeleton Archers: C � 224
+14x Skeleton Archers � 168
+10x Skeleton Archers � 120
+10x Skeleton Archers � 120
+10x Skeleton Archers � 120
+10x Skeleton Archers � 120
+10x Skeleton Archers � 120
+10x Skeleton Archers � 120
+3x Tomb Cataphracts: Underground Ambush � 390
+3x Tomb Cataphracts: Underground Ambush � 390
+3x Tomb Reaper: Paired Weapons � 568
+3x Tomb Reaper: Paired Weapons � 568
+Charnel Catapult � 200
+Charnel Catapult � 200
+
+Sergey Moroz Vermin Swarm
+ROOSTER_START_FACTION VS Total 4492
+840 - Plague Prophet, Apprentice, General, Hand Weapon, Plague Pendulum, Armlet of Power, King Slayer, Plague Pendulum Mount, Cauldron of Blight 242 - Chief, BSB, Heavy Armour, Shield, Halbers, Stalker's Standard
+520 - Magister, Plague Patriarch, Master, 3 Learned Spells, Shamanism, Dispel Scroll
+620 - 40x Plague Brotherhood, C, M, S, Veteran Standard Bearer, Icon of Ruin
+300 - 34x Rat-at-Arms
+230 - 27x Rat-at-Arms
+140 - 1x Meat Grinder
+150 - 2x1 Weapon Team, Rotary Gun
+250 - 2x1 Verminous artillery, Lightning Cannon
+400 - 2x1 Abomination
+
+Danulo Kievskii (Donopop) - Kingdom of Equitaine Army
+ROOSTER_START_FACTION KoE The Blessing - Favour of the King
+360 - 2x3 Pegasus Knights
+680 - 8x Knights of the Grail S,M
+710 - 8x Knights of the Grail S,M, War Standard
+811 - 14x Knights of the Realm FCG,Flaming standard
+280 - 2x5 Knights Aspirant M
+610 - Duke ,General,Shield,Grail Oath,Armour of Percival,Dragonfire Gem,Virtue of Might,Dragon Lance,Divine Icon,Barded Warhorse
+403 - Paladin ,Great Weapon, Heavy Armour, Battle Standard, Questing Oath,,Hardened Shield,Virtue of Daring,Banner of Speed,Crown of Scorn,Barded Warhorse
+
+Sergey Polonetz (KOrgan) - Beast Herds
+ROOSTER_START_FACTION BH 590 - Beast Lord, General, Razortusk Chariot, Hunting Call, Beast Axe, Light Armour, Hardened Shield, Talisman of Supreme Shielding
+476 - Beast Chieftain, BSB, Greater Totem Bearer, Raiding Chariot, Beast Axe, Heavy Armour, Lucky Shield, Dusk Stone, War Standard
+505 - Soothsayer Master, 4 Spells, Druidism, Dispel Scroll
+200 - 2x 10 Wildhorn Herd, Ambush, Paired Weapons, Throwing Weapons, S, M
+409 - 21 Wildhorn Herd, Ambush, Paired Weapons, Throwing Weapons, FCG, Banner of Discipline
+100 - 10 Mongrel Raiders, Normal Bow
+160 - 2x 5 Centaurs, Paired Weapons, Light Armour, Shield
+100 - Razortusk Herd
+430 - 2 x Gortach
+370 - 2 x Jabberwock, Breath Weapon
+4500
+
+Ievgen "littlecow" Zapolskyi - Orcs & Goblins Army
+ROOSTER_START_FACTION O&G Iron Orc Chief, General, Waaargh!, GW, Shield, Dragon Mantle, 260
+Orc Shaman Apprentice, 2 spells, The Shamanism, 235
+Goblin Witch Doctor Master, 4 spells, The Pyromancy, 360
+Goblin Chief, Wolf Chariot, Lance, Bow, Shield, Crown of the Cavern King, 236
+34 Orcs, FCG, Spear, Bows, 476
+43 Goblins, SM, 3 Shady Gits, Bow & Shield, 414
+2x5 Orc Boar Riders, 140
+26 Gnasher Herd, 416
+3 Goblin Wolf Chariot, 320
+2x1 Greenhide Catapult - Git Launcher, 180
+1 Greenhide Catapult - Splatterer, 180
+1 Gargantula, 480
+1 Great Green Idol, BSB, 480
+Total: 4497
+﻿COUNTRY_TAG USA
+Chris "eggsPR" Mince - Team Captain - Vampire Covenant
+ROOSTER_START_FACTION VC Vampire Count, General, The Dead Arise, Von Karnstein, 1 Spell, Colossal Zombie Dragon, Divine Icon, Fleshrender, Lucky Shield, Obsidian Nullstone, Storm Caller, Evocation- 1240
+Necromancer, 1 Spell, Ring of Fire, Evocation- 210
+Necromancer, 1 Spell, Evocation- 160
+Necromancer, 1 Spell, Evocation- 160
+35x Skeletons, M, S, C, War Standard- 400
+36x Zombies, M- 226
+20x Zombies, M, S- 150
+20x Zombies, M- 130
+Altar of Undeath, Dark Tome- 460
+Altar of Undeath- 400
+2x Great Bats- 80
+5x Wraiths- 180
+4x Winged Reapers, Paired Weapons- 704
+4500 points
+
+Len "Tyrant" Szatkowski - Saurian Ancients
+ROOSTER_START_FACTION SA Cuatl Lord, Battle Standard Bearer, Essence of the Free mind, Wellspring of Power, Wisdom of the Ancients, Ring of Fire, Pyromancy/Alchemy- 890
+Saurian Veteran, Raptor, Armour of Destiny, Great Weapon - 400
+Saurian Veteran, Raptor, Armour of Fortune, Halberd - 340
+Skink Priest, Jade Staff, Druidism - 170
+30x Skink Braves, 3 Caimans, M - 560
+10x Saurian Warriors - 170
+10x Saurian Warriors - 170
+10x Skink Hunters, Blow Pipes, vanguard - 200
+10x Skink Hunters, Blow Pipes, vanguard - 200
+7x chameleon skinks - 180
+Spearback - 120
+Spearback - 120
+Taurosaur - 450
+Taurosaur, Engine of the Ancients - 530
+Total 4500
+
+Joel "LegionsOfOdin" Flint - Kingdom of Equatain
+ROOSTER_START_FACTION KoE Favour of the King
+Duke, general, virtue of renown, questing oath, barded warhorse, crusaders helm, divine icon, shield, great weapon- 575
+Paladin, BSB, virtue of piety, questing oath, barded warhorse, dusk stone, hardened shield, war banner, great weapon- 418
+Damsel, 4 spells, wizard master, unicorn, book of arcane power, ring of fire, talisman of roland, Druidism- 670
+5x Knights Aspirent, M- 260
+53x Peasant levy, M, S, C, spears- 444
+53x Peasent levy, M, S, C, spears- 444
+3x Knights of the Grail, S- 240
+3x Knights of the Grail, S- 240
+13x Knights of the Quest, m,c,s, Oriflamme- 822
+Sacred Reliquary- 260
+5x Yeoman Outriders, shields- 120
+Total 4493
+
+Ryan "The Doctor" Capps- Ogre Kingdoms
+Shaman, General, Hellfist, 4 spells, Scepter of Power, Talisman of shielding, Ring of Fire, Thaumaturgy- 710
+Mammoth Hunter, Tusker, Light armor, Ironfist, Hunting Spear, Bluffers helm, Dragonfire gem- 395
+Mammoth Hunter, Tusker, Light armor, Ironfist, Hunting Spear, Dragonscale Helm, Talisman of Greater Shielding- 380
+3x Bruisers- 165
+3x Bruisers- 165
+3x Bruisers- 165
+3x Bruisers- 165
+5x Tribesmen, M, S, Banner of Discipline- 343
+15x scraplings, bow, M- 130
+2x Tusker Cavalry, Ironfist, light armor- 320
+Thundercannon- 300
+Thundercannon- 300
+Rock Auroch, Ogre Xbow- 480
+Rock Auroch, Ogre Xbow- 480
+Total 4498
+
+Jake "Motherfuckin" Murphy - Dread Elves
+ROOSTER_START_FACTION DE Oracle, General, 4 Spells, Skull Splitter, Wandering Familiar, Talisman of Shielding, Wizard Master, Alchemy -545
+Captain, BSB, Great Weapon, Repeater Crossbow, Ring of Fire -284
+15x Repeater Auxiliaries, Shields, M, C -370
+12x Repeater Auxiliaries, M -260
+12x Repeater Auxiliaries, M -260
+11x Repeater Auxiliaries, M -240
+5x Raven Cloaks, Great Weapon -190
+18x Dancers of Yema, M, C, S, Flaming Standard -481
+14x Dancers of Yema, M -308
+10x Dancers of Yema, M -220
+Dread Reaper -180
+Dread Reaper -180
+Dread Reaper -180
+Kraken -360
+Hydra -440
+4498 Points
+
+Jeremy "bubafett" Gottschalk - beast herds
+ROOSTER_START_FACTION BH beast lord , General , razortusk chariot, beast axe, shield, bluffers helm, talisman of supreme shielding , crown of horns- 650
+soothsayer , 4 Spells, wizard master , raiding chariot, , soothsayer staff, dragonfire gem, seed of dark forest, sceptre of power, druidism. -550
+beast chieftain, BSB, raiding chariot , beast axe totems, Shield, armor of fortune, gourd of beetles 466
+10x wildhorn herd, ambush, throwing weapons, paired weapons, -160
+10x wildhorn herd, ambush, throwing weapons, paired weapons -160
+10x wildhorn herd,ambush, throwing weapons, paired weapons, M- 180
+15x wildhorn herd, ambush, throwing weapons, paired weapons, S, M, banner discipline-305
+10x mongrel raiders, scout/ambush -120
+Razortusk chariot-250
+Razortusk chariot-250
+5x gargoyles -140
+5x gargoyles-140
+6x centaur ambush, throwing weapons, paired weapons, M- 268
+12x centaurs, throwing weapons, paired weapons, M,S, banner of speed- 494
+10x centaurs, throwing weapon, paired weapons, M- 360
+Total 4493
+
+Morten M�ller Jensen - Undying Dynasties
+ROOSTER_START_FACTION UD Death Cult Hierarch, General, Evocation, 2 Spells, Sandstorm Cloak, Dragonfire gem- 275
+Death Cult Hierarch, Evocation, Hierophant, 2 Spells- 210
+3x Skeleton Chariots, M, S, War Standard- 360
+3x Skeleton Chariots, S, Light troop and non-scoring- 310
+3x Skeleton Chariots, M, S- 330
+15x Necropolis Guard, Paired Weapons- 220
+15x Necropolis Guard, Paired Weapons, M- 240
+Battle Shinx- 450
+Colossus, Scales of Destiny- 430
+Colossus, Scales of Destiny- 430
+11x Skeleton Archer- 132
+3x Cataphracts, Underground Ambush- 390
+3x Sand Stalker, Underground Ambush- 360
+3x Sand Stalker, Underground Ambush- 360
+Total 4497
+
+Phil "Gym Shorts" Blake - Daemon Legions - Mono Wrath
+ROOSTER_START_FACTION DL Harbinger of Wrath, General, Crusher, Blood Sword -310
+Harbinger of Wrath, BSB, Crusher, Blood Sword -360
+Harbinger of Wrath, Crusher, Blood Sword, Obsidian Horn -340
+Harbinger of Wrath, Crusher, Blood Sword, Black Orb -340
+12x Slaughterers, Onslaught, Blood Swords, M -304
+12x Slaughterers, Onslaught, Blood Swords, M -304
+12x Slaughterers, Onslaught, Blood Swords, M -304
+3x Crusher Calvary, Blood Swords, M -360
+3x Crusher Calvary, Blood Swords, M -360
+3x Crusher Calvary, Blood Swords, M, S, Aether Icon -435
+Blood Chariot -330
+Blood Chariot -330
+5x Furies, Mark of Wrath -140
+5x Furies, Mark of Wrath -140
+5x Furies, Mark of Wrath -140
+Total 4497
+﻿COUNTRY_TAG WAL
+Kieran Showell (c) - Undying Dynasties
+ROOSTER_START_FACTION UD 
+Pharaoh, General, Great Weapon, Talisman of Supreme Shielding, Crown of the Pharaohs - 520
+Death Cult Hierarch, Hierophant, 4 Spells, Wizard Master, Evocation, Book of the Dead, Ring of Fire - 530
+Architect - 160
+50 Skeletons, Spears, M, C, S, War Banner - 550
+23 Skeleton Archers, M, C - 316
+2 x 5 Skeleton Scouts - 130
+32 Necropolis Guard - Paired Weapons, M, C, S, Rending Banner - 809
+3 x Battle Sphinx - 450
+
+Total - 4495
+
+Stephen Slatcher � Ogre Khans
+ROOSTER_START_FACTION OK 
+Shaman, Hellfist, 4 Spells, Ring of Fire, Sceptre of Power � 700
+Hunter, Tusker, Ironfist, Dragonscale Helm, Duskstone � 390
+Hunter, Tusker, Ironfist, Bluffer's Helm, Dragonfire Gem � 395
+4 x 3 Bruisers � 220
+15 Scraplings, Bows, Foreman � 150
+6 Tribesmen, Banner � 342
+2 Tusker Cavalry � 300
+2x1 Thunder Cannon � 200
+2x1 Rock Auroch, Hunting Spear � 480
+Total � 4497
+
+Felix Newman - Beast Herds
+ROOSTER_START_FACTION BH 
+Beast Lord, General, Razortusk Chariot, HA, GW, Crown of Horns, Bluffer's Helm, Talisman of Supreme Shielding- 654
+Beast Chieftain, BSB, Beast Axe, HA, Hardened Shield, Ring of Fire, Totems - 346
+Soothsayer, Master, 4 Spells, Shamanism, Fencer's Swords, Seed of the Dark Forest, Scroll of Shielding- 540
+37 Wildhorn Herd, PW, FCG, Banner of the Wild Herd, Blooded Horn Totem - 574
+3 x 10 Wildhorn Herd, Ambush - 120
+35 Longhorn Herd, GW, FCG,s Stalker's Standard, Black Wing Totem - 910
+2 x 6 Centaurs, PW - 160
+2 x 5 Centaurs, PW - 160
+3 x 5 Gargoyles - 210
+Total 4500 points
+
+David "Deej" Johnson - Dwarven Holds
+ROOSTER_START_FACTION DH Lord of Stone - King - General Shield, Rune of destruction, Rune of Fury, Rune of Smashing, 2 x rune of iron, 2 x rune of shielding - 500
+Lord of Stone - King Rune of Craftsmanship, 2 x Rune of Fury, 2 x Rune of Iron, Rune of Bronze,Dragons Breath - 470
+Lord of Stone - BSB Shield, Rune of Shielding, Rune of Dragons Breath -276
+Runic Smith Shield, Rune of Iron, Aether Loathestone - 274
+29 Clan Warriors Shield, Champion, veteran standard bearer - war standard - 514
+22 Grey Beards Great Weapons, Shields, Champion - 640
+25 Deep Watch Champion, Standard Bearer - 650
+5 Seekers, Skirmish - 120
+Vengence Seeker - 120
+Vengence Seeker - 120
+Cannon -270
+Cannon - 270
+Rune Crafted catapult - 320
+
+TOTAL: 4499
+ROOSTER_START_FACTION KoE
+Duke (General), Virtue of Humility, Ring of Fire - 260
+Duke, Pegasus, Virtue of Valour, Questing Oath, Shield, Fleshrender, Crusader's Helm, Dragon - 635
+Gem, Divine Icon
+Paladin (BSB), Pegasus, Virtue of Audacity, Questing Oath, Great Weapon, Shield, Dragonscale Helm, Dusk stone - 532
+Damsel, Lore of Divination, 4 spells, Wizard Mistress - 370
+1x 57 Peasant Levy, Spears, S, M - 456
+2x 56 Peasant Levy, Spears, S, M - 448
+1x20 Peasant Levy, Spears, M - 140
+2x1 Field War Machine, Trebuchet - 280
+2x1 Sacred Reliquary - 260
+1x 5 Yeomen Outriders - 110
+
+4499 - TOTAL
+
+Jake Corteen - Saurian Ancients
+ROOSTER_START_FACTION SA Cuatl Lord, General, Battle Standard Bearer, Unconquerable Will, Red Ring, Book of Arcane Power, Path of Alchemy - 820
+Firstborn, Warlord, Raptor, Great Weapon, Glittering Cuirass, Talisman of Supreme Shielding - 560
+Firstborn, Veteran, Raptor, Great Weapon, Armour of Destiny - 400
+24 Saurian Warriors, Spears, M S, Flaming Banner - 573
+2 x 10 Saurian Warriors - 170
+2 x 15 Skink Braves, Poisoned Javelin, Musician - 260
+2 x 2 Weapon Beasts, Spearback - 240
+2 x 7 Skink Hunters, Blowpipes - 276
+Taurosaur, Engine of the Ancients - 530
+4499
+
+Jack Austin - Vampire covenant
+ROOSTER_START_FACTION VC Bloodline army: Von Karnstein
+
+Midnight Aristocracy, Vampire courtier, Von Karnstein, General, Dead arise, Wizard apprentice, 1 Learned spell, Evocation, Unholy tome - 360
+2 x Necromancer, Wizard apprentice, 1 Learned spell, Evocation - 320
+2 x Banshee - 440
+8x Dire wolves - 116
+37x Skeletons, C, M, S, War banner, Hand weapon and Shield - 420
+3 x 20Zombies, M - 130
+Altar of Undeath, Dark tome - 460
+Altar of Undeath - 400
+2x2 Great bats - 80
+2x6 Wraiths - 215
+2x1 Shrieking horror - 500
+4498
+
+Marcus Lake - Daemon Legions
+ROOSTER_START_FACTION DL 
+Harbinger of Lust, General, Steed of Lust, Barbed Claws, Lash of Lust, Aspect: Clawed Caress - 350
+Harbinger of Lust, Steed of Lust, Barbed Claws, Lash of Lust, Aspect: Dance of Death - 400
+Harbinger of lust. Steed of slaanesh, barbed claws, lash of lust - 320
+Harbinger of lust. Battle standard. Steed of slaanesh, barbed claws, lash of lust - 370
+Harbinger of lust. Steed of slaanesh, barbed claws, lash of lust - 320
+3x 10 horrors. Champion - 960
+10 slaughterers - 210
+Blood chariot - 330
+2 plaguelings - 130
+12 mounted sirens. Champion - 424
+2x 3 crusher cavalry - 680
+Total 4494
